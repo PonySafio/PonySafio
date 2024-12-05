@@ -2,4 +2,9 @@
 
 # To ADD, DELETE, and EDIT groups use the command /mvinv group.
 # No support will be given for those who manually edit these groups.
-groups: {}
+groups:
+  default:
+    worlds:
+    - dedsafio 2 ultra versión
+    shares:
+    - all
