@@ -3892,13 +3892,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2024-12-06 19:48:13 +0000",
-      "has_the_recipe": "2024-12-06 19:48:13 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:the_bumblezone/the_queens_desire/journeys_end": {
     "criteria": {
       "target_advancement_done_4": "2024-12-06 19:48:12 +0000",
@@ -3918,6 +3911,13 @@
       "target_advancement_done_14": "2024-12-06 19:48:12 +0000",
       "target_advancement_done_13": "2024-12-06 19:48:12 +0000",
       "target_advancement_done_10": "2024-12-06 19:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-12-06 19:48:13 +0000",
+      "has_the_recipe": "2024-12-06 19:48:13 +0000"
     },
     "done": true
   },
