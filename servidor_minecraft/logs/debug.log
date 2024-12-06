@@ -5600,3 +5600,81 @@ Caused by: java.lang.NullPointerException: Cannot invoke "com.onarandombox.Multi
 [06Dec2024 18:03:57.460] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class ce/ajneb97/model/internal/ExecutedEvent$2
 [06Dec2024 18:04:01.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
 [06Dec2024 18:04:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[06Dec2024 18:06:36.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[06Dec2024 18:06:36.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[06Dec2024 18:06:36.729] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[06Dec2024 18:06:52.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros -5500 203.00 -2510.38
+[06Dec2024 18:06:53.010] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[06Dec2024 18:06:53.396] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[06Dec2024 18:06:54.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to -5499.500000, 203.000000, -2510.380000]
+[06Dec2024 18:06:54.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[06Dec2024 18:06:54.851] [Worker-Main21/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/WallBlock$1
+[06Dec2024 18:06:54.855] [Worker-Main21/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/Entity$1
+[06Dec2024 18:06:55.919] [Server thread/DEBUG] [mixin/]: Mixing world.level.gameevent.vibrations.VibrationListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.gameevent.vibrations.VibrationListener
+[06Dec2024 18:06:56.304] [Worker-Main21/DEBUG] [mixin/]: Mixing entities.FlyNodeEvaluatorMixin from the_bumblezone.mixins.json into net.minecraft.world.level.pathfinder.FlyNodeEvaluator
+[06Dec2024 18:06:58.650] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:06:58.650] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:06:58.650] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:06:58.650] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:07:01.936] [Worker-Main26/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.BabyFollowAdultMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.BabyFollowAdult
+[06Dec2024 18:07:01.942] [Worker-Main26/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.PrepareRamNearestTargetMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.PrepareRamNearestTarget
+[06Dec2024 18:07:01.942] [Worker-Main26/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$targetEvent$0(Lnet/minecraft/world/entity/PathfinderMob;Ljava/util/function/Consumer;Lnet/minecraft/world/entity/LivingEntity;)V to md67a8e9$lambda$arclight$targetEvent$0$0 in mixins.arclight.core.json:world.entity.ai.behavior.PrepareRamNearestTargetMixin
+[06Dec2024 18:07:06.098] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/SnowLayerBlock$1
+[06Dec2024 18:07:08.624] [Worker-Main22/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RedStoneWireBlock$1
+[06Dec2024 18:07:14.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill lautaropros
+[06Dec2024 18:07:14.630] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06Dec2024 18:07:14.630] [Server thread/INFO] [Console/]: [RedProtect] Player lautaropros damaged by VOID - Running command:
+ - Command: spawn lautaropros
+[06Dec2024 18:07:14.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Killed lautaropros]
+[06Dec2024 18:07:19.475] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[06Dec2024 18:07:19.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[06Dec2024 18:11:14.899] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[06Dec2024 18:11:39.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[06Dec2024 18:11:39.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[06Dec2024 18:12:54.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[06Dec2024 18:12:54.146] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lautaropros
+[06Dec2024 18:12:54.146] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
+[06Dec2024 18:12:54.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[06Dec2024 18:12:56.832] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Mixing network.ServerStatusNetHandlerMixin from mixins.arclight.core.json into net.minecraft.server.network.ServerStatusPacketListenerImpl
+[06Dec2024 18:13:54.160] [Worker-Main26/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main26 shutdown
+[06Dec2024 18:14:04.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Dec2024 18:14:04.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Dec2024 18:14:04.193] [Server thread/INFO] [Multiverse-Inventories/]: Disabling Multiverse-Inventories v4.2.6
+[06Dec2024 18:14:04.194] [Server thread/INFO] [Shopkeepers/]: Disabling Shopkeepers v2.19.0
+[06Dec2024 18:14:04.200] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.58.1
+[06Dec2024 18:14:04.201] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[06Dec2024 18:14:04.201] [Server thread/INFO] [RedProtect/]: Disabling RedProtect v8.1.2-SNAPSHOT
+[06Dec2024 18:14:04.201] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/DIM1's regions...
+[06Dec2024 18:14:04.202] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/DIM-1's regions...
+[06Dec2024 18:14:04.202] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL's regions...
+[06Dec2024 18:14:04.202] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/the_bumblezone/the_bumblezone's regions...
+[06Dec2024 18:14:04.227] [Server thread/INFO] [Console/]: [RedProtect] Unregistering listeners...
+[06Dec2024 18:14:04.227] [Server thread/INFO] [Console/]: [RedProtect] RedProtect v8.1.2-SNAPSHOT turned off...
+[06Dec2024 18:14:04.227] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.14
+[06Dec2024 18:14:04.229] [Server thread/INFO] [BlockLocker/]: Disabling BlockLocker v1.12
+[06Dec2024 18:14:04.229] [Server thread/INFO] [Chunky/]: Disabling Chunky v1.3.146
+[06Dec2024 18:14:04.231] [Server thread/INFO] [ClearLag/]: Disabling ClearLag v3.2.2
+[06Dec2024 18:14:04.231] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now disabled!
+[06Dec2024 18:14:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Dec2024 18:14:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Dec2024 18:14:04.248] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[06Dec2024 18:14:04.249] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[06Dec2024 18:14:04.252] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[06Dec2024 18:14:04.291] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[06Dec2024 18:14:04.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]'/minecraft:overworld
+[06Dec2024 18:14:05.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[06Dec2024 18:14:05.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[06Dec2024 18:14:05.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/the_bumblezone/the_bumblezone]'/the_bumblezone:the_bumblezone
+[06Dec2024 18:14:05.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/DIM1]'/minecraft:the_end
+[06Dec2024 18:14:05.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/DIM-1]'/minecraft:the_nether
+[06Dec2024 18:14:05.470] [Worker-Main12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main12 shutdown
+[06Dec2024 18:14:05.470] [Worker-Main23/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main23 shutdown
+[06Dec2024 18:14:05.470] [Worker-Main22/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main22 shutdown
+[06Dec2024 18:14:05.470] [Worker-Main21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main21 shutdown
+[06Dec2024 18:14:05.471] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[06Dec2024 18:14:05.471] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[06Dec2024 18:14:05.472] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file pehkui-server.toml changed, sending notifies
+[06Dec2024 18:14:05.472] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file pehkui-server.toml changed, sending notifies
+[06Dec2024 18:14:05.474] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[06Dec2024 18:14:10.475] [Exit Thread/DEBUG] [Arclight/]: Threads bStats-Metrics, pool-5-thread-1, bStats-Metrics, bStats-Metrics not shutting down
+[06Dec2024 18:14:10.476] [Exit Thread/INFO] [Arclight/]: 4 threads not shutting down correctly, force exiting
