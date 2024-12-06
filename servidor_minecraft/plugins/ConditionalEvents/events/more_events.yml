@@ -6,7 +6,7 @@ Events:
     - '%arg_1% == verde execute verde'
     - '%arg_1% == turqueza execute turqueza'
     - '%arg_1% == rosada execute rosada'
-    - '%arg_1% == roja execute roja'
+    - '%arg_1% == rojo execute roja'
     - '%arg_1% == naranja execute naranja'
     - '%arg_1% == morada execute morada'
     - '%arg_1% == azul execute azul'
