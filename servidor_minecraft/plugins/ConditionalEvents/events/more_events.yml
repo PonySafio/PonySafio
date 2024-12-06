@@ -1,39 +1,126 @@
 Events:
-  event8:
+  ruletas:
     type: player_command
     conditions:
-    - '%main_command% == /youtube'
+    - '%main_command% == /ruleta'
+    - '%arg_1% == verde execute verde'
+    - '%arg_1% == turqueza execute turqueza'
+    - '%arg_1% == rosada execute rosada'
+    - '%arg_1% == roja execute roja'
+    - '%arg_1% == naranja execute naranja'
+    - '%arg_1% == morada execute morada'
+    - '%arg_1% == azul execute azul'
+    - '%arg_1% == amarilla execute amarilla'
+    - '%player% == AdeAbel'
     actions:
       default:
       - 'cancel_event: true'
-      - 'message: &7Check the Youtube: &b<link>'
-  event9:
-    type: player_command
-    cooldown: 15
-    prevent_cooldown_activation:
-    - error1
-    - error2
-    conditions:
-    - '%main_command% == /announce'
-    - '%args_length% == 0 execute error1'
-    - '%vault_eco_balance% < 500 execute error2'
+      - 'console_command: tag @a add anim.muerte'
+      verde:
+      - 'cancel_event: true'
+      - 'console_command: function ruleta:verde'
+      - 'wait: 10'
+      - 'to_all: json_message: ["",{"text":"\u27a4 ","color":"#00c70a"},
+                               {"text":"NOTIFICACIONES:","bold":true,"color":"#00c70a"},{"text":"\n\n"},
+                               {"text":"Eon esta escondido en la montaña el primero en encontrarlo se llevara un jugoso premio","color":"#12c64f"}]'
+      turqueza:
+      - 'cancel_event: true'
+      - 'console_command: function ruleta:cyan'
+      - 'wait: 10'
+      - 'to_all: json_message: ["",{"text":"\u27a4 ","color":"#04c4bc"},
+                               {"text":"MISION:","bold":true,"color":"#04c4bc"},{"text":"\n\n"},
+                               {"text":"llegar a 150 puntos o mas para el final del dia","color":"#5ed6d5"}]'
+      rosada:
+      - 'cancel_event: true'
+      - 'console_command: function ruleta:rosado'
+      - 'wait: 10'
+      - 'to_all: json_message: ["",{"text":"\u27a4 ","color":"#f659ba"},
+                               {"text":"CASTIGO:","bold":true,"color":"#f659ba"},{"text":"\n\n"},
+                               {"text":"Las Nutrias se han escondido en algunas de las bases encuentrenlas para que cada una les de un premio","color":"#f27ad9"}]'
+      roja:
+      - 'cancel_event: true'
+      - 'console_command: function ruleta:rojo'
+      - 'wait: 10'
+      - 'to_all: json_message: ["",{"text":"\u27a4 ","color":"#fe344b"},
+                               {"text":"DEDSAFIO DEL DIA:","bold":true,"color":"#fe344b"},{"text":"\n\n"},
+                               {"text":"si si me encanto","color":"#fa6074"}]'
+      naranja:
+      - 'cancel_event: true'
+      - 'console_command: function ruleta:naranja'
+      - 'wait: 10'
+      - 'to_all: json_message: ["",{"text":"\u27a4 ","color":"#CD8A15"},
+                               {"text":"CAMBIO DE DIFICULTAD:","bold":true,"color":"#CD8A15"},{"text":"\n\n"},
+                               {"text":"Los Botones Ahora hacen 999999 de Daño","color":"#A49169"}]'
+      - 'console_command: '                         
+      morada:
+      - 'cancel_event: true'
+      - 'console_command: function ruleta:morado'
+      - 'wait: 10'
+      - 'to_all: json_message: ["",{"text":"\u27a4 ","color":"#9c37fe"},
+                               {"text":"HISTORIA:","bold":true,"color":"#9c37fe"},{"text":"\n\n"},
+                               {"text":"carlitos lloron ez","color":"#af52fa"}]'
+      azul:
+      - 'cancel_event: true'
+      - 'console_command: function ruleta:azul'
+      - 'wait: 10'
+      - 'to_all: json_message: ["",{"text":"\u27a4 ","color":"#302ee5"},
+                               {"text":"CUCHARA ENCONTRADA:","bold":true,"color":"#302ee5"},{"text":"\n\n"},
+                               {"text":"LLegara una horda de zombies a cada base antes de que finalize el dia BUENA SUERTE!","color":"#4470d3"}]'
+      amarilla:
+      - 'cancel_event: true'
+      - 'console_command: function ruleta:amarillo'
+      - 'wait: 10'
+      - 'to_all: json_message: ["",{"text":"\u27a4 ","color":"#E2CE01"},
+                               {"text":"ENCICLOPEDIA:","bold":true,"color":"#E2CE01"},{"text":"\n\n"},
+                               {"text":"El nether esta cerrado temporalmente el end ah sido cerrado permanentemente","color":"#D7A800"}]'
+  muerte:
+    type: player_death
     actions:
       default:
-      - 'cancel_event: true'
-      - 'to_all: centered_message: &f&m                                                      '
-      - 'to_all: centered_message: &c&lAnnounce'
-      - 'to_all: centered_message: &e%player% &7is making an announcement:'
-      - 'to_all: centered_message:  '
-      - 'to_all: centered_message: &7%args_substring_1-100%'
-      - 'to_all: centered_message:  '
-      - 'to_all: centered_message: &f&m                                                      '
-      - 'console_command: eco take %player% 500'
-      error1:
-      - 'cancel_event: true'
-      - 'message: &cYou have to use &7/announce <message>&c.'
-      error2:
-      - 'cancel_event: true'
-      - 'message: &cYou need $500 to use this command.'
-      cooldown:
-      - 'cancel_event: true'
-      - 'message: &cYou must wait &7%time% &cbefore using this command again.'
+      - 'console_command: tag @a add anim.muerte'
+      - 'player_command_as_op: title @a actionbar {"text":"%player% ha muerto","color":"dark_red"}'
+      - 'gamemode: SPECTATOR'
+  misionarmadura:
+    type: item_craft
+    enabled: true
+    conditions:
+    - '%item% == DIAMOND_HELMET execute casco'
+    - '%item% == DIAMOND_CHESTPLATE execute peto'
+    - '%item% == DIAMOND_LEGGINGS execute pantalones'
+    - '%item% == DIAMOND_BOOTS execute botas'
+    actions:
+      casco:
+      - 'console_command: svar set diamondhelmet 1 %player%'
+      - 'message: crafteaste un casco de Diamante'
+      peto:
+      - 'console_command: svar set diamondchestplate 1 %player%'
+      - 'message: crafteaste un peto de Diamante'
+      pantalones:
+      - 'console_command: svar set diamondleggins 1 %player%'
+      - 'message: crafteaste un pantalon de hDiamante'
+      botas:
+      - 'console_command: svar set diamondboots 1 %player%'
+      - 'message: crafteaste unas botas de Diamante'
+  misionarmaduraentrega:
+    type: block_interact
+    enabled: true
+    one_time: true
+    conditions:
+    - '%block_x% == -543'
+    - '%block_y% == 139'
+    - '%block_z% == -269'
+    - '%block_world% == world'
+    - '%block% == QUARTZ_BLOCK'
+    - '%action_type% == RIGHT_CLICK'
+    - '%servervariables_value_otherplayer_{player}:diamondhelmet% == 1'
+    - '%servervariables_value_otherplayer_{player}:diamondchestplate% == 1'
+    - '%servervariables_value_otherplayer_{player}:diamondleggins% == 1'
+    - '%servervariables_value_otherplayer_{player}:diamondboots% == 1'
+    actions:
+      default:
+      - "to_all: message: &l&e&l%player% &eha entregado la mision"
+      - "give_item: id:DIAMOND;amount:3;"
+      one_time:
+      - "message: &cYa haz entregado esta misión"
+
+

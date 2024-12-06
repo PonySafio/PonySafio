@@ -14,7 +14,7 @@ config-version: 20
 # -- 'language' Clearlag supports multiple languages (https://github.com/bob7l/Clearlag-Languages) translated by the community
 # -- 'use-internal-tps' Should Clearlag use Spigot's /tps? (Updated by minutes, much slower, but more accurate!)
 settings:
-  language: English
+  language: Spanish
   auto-update: true
   enable-api: true
   use-internal-tps: true
