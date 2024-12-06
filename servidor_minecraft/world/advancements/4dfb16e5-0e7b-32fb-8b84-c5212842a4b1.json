@@ -1,108 +1,42 @@
 {
-  "the_bumblezone:the_bumblezone/wiki": {
-    "criteria": {
-      "instant_granted": "2024-12-05 23:26:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2024-12-05 23:28:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-05 23:28:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-05 23:31:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-05 23:40:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-05 23:31:15 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-05 23:26:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-12-05 23:31:15 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2024-12-05 23:26:28 +0000"
+      "WDA": "2024-12-06 17:16:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "the_bumblezone:the_bumblezone/wiki": {
     "criteria": {
-      "in_water": "2024-12-05 23:31:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-05 23:31:15 +0000"
+      "instant_granted": "2024-12-06 17:16:10 +0000"
     },
     "done": true
   },
   "the_bumblezone:the_bumblezone/root": {
     "criteria": {
-      "instant_granted": "2024-12-05 23:26:28 +0000"
+      "instant_granted": "2024-12-06 17:16:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
-      "has_moss_block": "2024-12-05 23:28:13 +0000"
+      "has_mud": "2024-12-06 17:16:42 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "cataclysm:root": {
     "criteria": {
-      "killed_something": "2024-12-05 23:38:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-12-05 23:31:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-12-05 23:31:15 +0000"
+      "custom_test_name": "2024-12-06 17:16:10 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_ocean": "2024-12-05 23:26:28 +0000",
-      "minecraft:dark_forest": "2024-12-05 23:31:33 +0000",
-      "minecraft:river": "2024-12-05 23:37:36 +0000",
-      "minecraft:jungle": "2024-12-05 23:36:58 +0000",
-      "minecraft:ocean": "2024-12-05 23:37:39 +0000",
-      "minecraft:plains": "2024-12-05 23:31:29 +0000"
+      "minecraft:deep_ocean": "2024-12-06 17:19:20 +0000",
+      "minecraft:bamboo_jungle": "2024-12-06 17:16:11 +0000",
+      "minecraft:beach": "2024-12-06 17:18:59 +0000",
+      "minecraft:sparse_jungle": "2024-12-06 17:18:58 +0000",
+      "minecraft:river": "2024-12-06 17:19:02 +0000",
+      "minecraft:cold_ocean": "2024-12-06 17:19:01 +0000"
     },
     "done": false
   },
