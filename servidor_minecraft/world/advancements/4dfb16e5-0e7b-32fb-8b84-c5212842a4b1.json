@@ -1,42 +1,31 @@
 {
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2024-12-06 17:16:10 +0000"
+      "WDA": "2024-12-06 17:50:44 +0000"
     },
     "done": true
   },
   "the_bumblezone:the_bumblezone/wiki": {
     "criteria": {
-      "instant_granted": "2024-12-06 17:16:10 +0000"
+      "instant_granted": "2024-12-06 17:50:44 +0000"
     },
     "done": true
   },
   "the_bumblezone:the_bumblezone/root": {
     "criteria": {
-      "instant_granted": "2024-12-06 17:16:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2024-12-06 17:16:42 +0000"
+      "instant_granted": "2024-12-06 17:50:44 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2024-12-06 17:16:10 +0000"
+      "custom_test_name": "2024-12-06 17:50:44 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_ocean": "2024-12-06 17:19:20 +0000",
-      "minecraft:bamboo_jungle": "2024-12-06 17:16:11 +0000",
-      "minecraft:beach": "2024-12-06 17:18:59 +0000",
-      "minecraft:sparse_jungle": "2024-12-06 17:18:58 +0000",
-      "minecraft:river": "2024-12-06 17:19:02 +0000",
-      "minecraft:cold_ocean": "2024-12-06 17:19:01 +0000"
+      "minecraft:bamboo_jungle": "2024-12-06 17:50:44 +0000"
     },
     "done": false
   },
