@@ -786,3 +786,65 @@ Caused by: java.lang.NullPointerException: Cannot invoke "com.onarandombox.Multi
 [06Dec2024 17:53:02.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Executed 8 commands from function 'ruleta:muerte']
 [06Dec2024 17:53:05.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /function ruleta:rojo
 [06Dec2024 17:53:05.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Executed 3 commands from function 'ruleta:rojo']
+[06Dec2024 18:00:09.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /setworldspawn -536 202 -267
+[06Dec2024 18:00:09.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set the world spawn point to -536, 202, -267 [0.0]]
+[06Dec2024 18:00:58.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /worldborder center -535.46 -266.55
+[06Dec2024 18:00:58.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set the center of the world border to -535.46, -266.55]
+[06Dec2024 18:01:29.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /worldborder set 5000
+[06Dec2024 18:01:29.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set the world border to 5000.0 blocks wide]
+[06Dec2024 18:01:40.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /worldborder set 5000 0
+[06Dec2024 18:01:49.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros 5000 ~ ~
+[06Dec2024 18:01:52.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to 5000.500000, 212.677610, -257.186664]
+[06Dec2024 18:01:52.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3575ms or 71 ticks behind
+[06Dec2024 18:02:18.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamerule keepInventory true
+[06Dec2024 18:02:18.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gamerule keepInventory is now set to: true]
+[06Dec2024 18:02:23.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamerule keepInventory true
+[06Dec2024 18:02:23.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gamerule keepInventory is now set to: true]
+[06Dec2024 18:02:28.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill lautaropros
+[06Dec2024 18:02:28.065] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06Dec2024 18:02:28.065] [Server thread/INFO] [Console/]: [RedProtect] Player lautaropros damaged by VOID - Running command:
+ - Command: spawn lautaropros
+[06Dec2024 18:02:28.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Killed lautaropros]
+[06Dec2024 18:02:33.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[06Dec2024 18:02:33.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[06Dec2024 18:02:56.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /worldborder add 5000 0
+[06Dec2024 18:02:56.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set the world border to 10000.0 blocks wide]
+[06Dec2024 18:03:09.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /worldborder add 5000 0
+[06Dec2024 18:03:09.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set the world border to 15000.0 blocks wide]
+[06Dec2024 18:03:13.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros 5000 ~ ~
+[06Dec2024 18:03:14.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to 5000.500000, 203.000000, -266.456821]
+[06Dec2024 18:03:19.399] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.399] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.399] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.399] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.399] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.399] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.400] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.402] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.403] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.404] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.404] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:19.404] [Worker-Main21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:23.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros 5500 ~ ~
+[06Dec2024 18:03:23.460] [Worker-Main26/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:24.794] [Worker-Main23/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:24.794] [Worker-Main23/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:24.794] [Worker-Main23/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:24.794] [Worker-Main23/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:24.803] [Worker-Main23/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:24.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to 5500.500000, 146.871535, -266.401655]
+[06Dec2024 18:03:32.084] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:32.084] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:32.084] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:32.084] [Worker-Main12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:37.263] [Worker-Main22/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[06Dec2024 18:03:44.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill lautaropros
+[06Dec2024 18:03:44.153] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[06Dec2024 18:03:44.153] [Server thread/INFO] [Console/]: [RedProtect] Player lautaropros damaged by VOID - Running command:
+ - Command: spawn lautaropros
+[06Dec2024 18:03:44.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Killed lautaropros]
+[06Dec2024 18:03:50.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[06Dec2024 18:03:50.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[06Dec2024 18:03:57.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /hello
+[06Dec2024 18:04:01.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[06Dec2024 18:04:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
