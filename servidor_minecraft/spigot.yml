@@ -55,11 +55,11 @@ world-settings:
     below-zero-generation-in-existing-chunks: true
     verbose: true
     merge-radius:
-      exp: 3.0
-      item: 2.5
+      exp: 6.0
+      item: 4.0
     mob-spawn-range: 6
-    arrow-despawn-rate: 1200
-    trident-despawn-rate: 1200
+    arrow-despawn-rate: 300
+    trident-despawn-rate: 1000
     zombie-aggressive-towards-villager: true
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
@@ -87,11 +87,11 @@ world-settings:
       weepingvines-modifier: 100
       cavevines-modifier: 100
     entity-activation-range:
-      animals: 32
-      monsters: 32
+      animals: 16
+      monsters: 24
       raiders: 48
-      misc: 16
-      tick-inactive-villagers: true
+      misc: 8 
+      tick-inactive-villagers: false
       ignore-spectators: false
     entity-tracking-range:
       players: 48
@@ -132,9 +132,9 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    item-despawn-rate: 6000
-    view-distance: default
-    nerf-spawner-mobs: false
+    item-despawn-rate: 1000
+    view-distance: 4
+    nerf-spawner-mobs: true
     simulation-distance: default
 messages:
   restart: Server is restarting
