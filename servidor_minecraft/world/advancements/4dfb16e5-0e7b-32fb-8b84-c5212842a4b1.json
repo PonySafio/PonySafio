@@ -1,43 +1,37 @@
 {
-  "dungeons_arise:wda_root": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
-      "WDA": "2024-12-07 11:44:13 +0000"
+      "has_polished_andesite": "2024-12-07 12:34:41 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
-      "used_totem": "2024-12-07 11:54:57 +0000"
+      "has_stone": "2024-12-07 12:53:46 +0000"
     },
     "done": true
   },
-  "the_bumblezone:the_bumblezone/wiki": {
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
-      "instant_granted": "2024-12-07 11:44:13 +0000"
+      "has_polished_andesite": "2024-12-07 12:34:41 +0000"
     },
     "done": true
   },
-  "the_bumblezone:the_bumblezone/root": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
-      "instant_granted": "2024-12-07 11:44:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-12-07 11:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-07 11:54:15 +0000"
+      "has_stone": "2024-12-07 12:53:46 +0000"
     },
     "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:endermite": "2024-12-07 11:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
     },
     "done": true
   },
@@ -53,14 +47,146 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-07 11:44:13 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/root": {
+    "criteria": {
+      "instant_granted": "2024-12-07 11:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-07 12:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-07 12:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-12-07 12:02:08 +0000",
+      "minecraft:windswept_hills": "2024-12-07 12:33:19 +0000",
       "minecraft:bamboo_jungle": "2024-12-07 11:44:14 +0000",
+      "minecraft:dark_forest": "2024-12-07 12:32:57 +0000",
+      "minecraft:river": "2024-12-07 12:34:22 +0000",
       "minecraft:snowy_plains": "2024-12-07 12:06:32 +0000",
+      "minecraft:forest": "2024-12-07 12:33:09 +0000",
+      "minecraft:windswept_forest": "2024-12-07 12:33:27 +0000",
+      "minecraft:jungle": "2024-12-07 12:34:20 +0000",
       "minecraft:plains": "2024-12-07 12:06:53 +0000"
     },
     "done": false
+  },
+  "the_bumblezone:the_bumblezone/wiki": {
+    "criteria": {
+      "instant_granted": "2024-12-07 11:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-07 11:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-07 11:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-07 12:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-07 11:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-07 12:58:32 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }

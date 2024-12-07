@@ -1,4 +1,40 @@
 {
+  "the_bumblezone:the_bumblezone/wiki": {
+    "criteria": {
+      "instant_granted": "2024-12-07 12:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-07 12:09:09 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-07 12:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-07 12:09:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-07 12:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-07 12:09:09 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-07 12:02:06 +0000"
@@ -17,43 +53,19 @@
     },
     "done": true
   },
-  "the_bumblezone:the_bumblezone/wiki": {
-    "criteria": {
-      "instant_granted": "2024-12-07 12:02:06 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:the_bumblezone/root": {
     "criteria": {
       "instant_granted": "2024-12-07 12:02:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "in_water": "2024-12-07 12:09:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-07 12:09:09 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-07 12:02:06 +0000"
+      "has_bone_meal": "2024-12-07 13:02:26 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-12-07 12:09:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-07 12:09:09 +0000"
     },
@@ -69,9 +81,18 @@
     "criteria": {
       "minecraft:deep_ocean": "2024-12-07 12:06:03 +0000",
       "minecraft:bamboo_jungle": "2024-12-07 12:02:07 +0000",
-      "minecraft:beach": "2024-12-07 12:09:35 +0000"
+      "minecraft:beach": "2024-12-07 12:09:35 +0000",
+      "minecraft:sparse_jungle": "2024-12-07 12:46:15 +0000",
+      "minecraft:river": "2024-12-07 12:36:16 +0000",
+      "minecraft:jungle": "2024-12-07 12:36:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-07 13:02:26 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }

@@ -1,0 +1,49 @@
+Events:
+  creeper:
+    type: entity_spawn
+    enabled: false
+    conditions:
+    - '%entity% == CREEPER'
+    - '%reason% == NATURAL'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'console_command: summon creeper %entity_x% %entity_y% %entity_z% {powered:1}'
+  caida:
+    type: player_damage
+    enabled: false
+    conditions:
+    - '%cause% == FALL'
+    actions:
+      default:
+      - 'set_damage: 300%'
+  arana:
+    type: player_damage
+    enabled: false
+    conditions:
+    - '%cause% == ENTITY_ATTACK'
+    - '%damager_type% == SPIDER'
+    actions:
+      default:
+      - 'set_block: location:%player_x%,%player_y%,%player_z%,%player_world%;id:COBWEB'
+  telarana:
+    type: block_break
+    enabled: false
+    conditions:
+    - '%block% == COBWEB'
+    actions:
+      default:
+      - 'summon: location:%block_x%,%block_y%,%block_z%,%block_world%;entity:CAVE_SPIDER;amount:3'
+  totem:
+    type: custom
+    enabled: true
+    custom_event_data:
+      event: org.bukkit.event.entity.EntityResurrectEvent
+      player_variable: getEntity()
+      variables_to_capture:
+      - '%res%;isCancelled()'
+    conditions:
+    - '%res% equals false'
+    actions:
+      default:
+      - 'to_all: message: &l%player% &l&6ha consumido un totem'
