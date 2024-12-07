@@ -757,3 +757,89 @@ Caused by: java.lang.NullPointerException: Cannot invoke "com.onarandombox.Multi
 [07Dec2024 11:52:02.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set lautaropros's game mode to Survival Mode]
 [07Dec2024 11:52:18.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /summon minecraft:warden
 [07Dec2024 11:52:18.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Summoned new Warden]
+[07Dec2024 11:52:37.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.muerte' to 2 entities
+[07Dec2024 11:52:37.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 2 players]
+[07Dec2024 11:52:47.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamerule keepInventory true
+[07Dec2024 11:52:47.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gamerule keepInventory is now set to: true]
+[07Dec2024 11:53:26.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:strength 255 12
+[07Dec2024 11:53:26.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Strength to patata98911]
+[07Dec2024 11:53:29.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill @p[name=warden]
+[07Dec2024 11:53:42.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[07Dec2024 11:53:42.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[07Dec2024 11:54:14.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give 1479ad8e-7d34-4a5c-b7fb-8959af16ea79 minecraft:strength 255 233
+[07Dec2024 11:54:14.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Strength to Endermite]
+[07Dec2024 11:54:29.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give 1479ad8e-7d34-4a5c-b7fb-8959af16ea79 minecraft:regeneration 25555 255
+[07Dec2024 11:54:29.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Regeneration to Endermite]
+[07Dec2024 11:54:52.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival lautaropros
+[07Dec2024 11:54:52.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set lautaropros's game mode to Survival Mode]
+[07Dec2024 11:54:57.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros has reached the goal [Postmortal]
+[07Dec2024 11:54:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[07Dec2024 11:54:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 2 players]
+[07Dec2024 11:55:05.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[07Dec2024 11:55:05.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[07Dec2024 11:55:17.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[07Dec2024 11:55:51.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros has made the advancement [Monster Hunter]
+[07Dec2024 11:56:06.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give 901f3cf1-6266-44e9-ae5d-bb60b6c3e51e minecraft:regeneration 20000 255
+[07Dec2024 11:56:06.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Regeneration to Endermite]
+[07Dec2024 11:56:17.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give 901f3cf1-6266-44e9-ae5d-bb60b6c3e51e minecraft:absorption 200000 255
+[07Dec2024 11:56:17.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Absorption to Endermite]
+[07Dec2024 11:56:26.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give 901f3cf1-6266-44e9-ae5d-bb60b6c3e51e minecraft:strength 2000 255
+[07Dec2024 11:56:26.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Strength to Endermite]
+[07Dec2024 11:57:26.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give 901f3cf1-6266-44e9-ae5d-bb60b6c3e51e minecraft:slow_falling 200 255
+[07Dec2024 11:57:26.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Slow Falling to Endermite]
+[07Dec2024 11:57:39.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /give lautaropros minecraft:totem_of_undying 25
+[07Dec2024 11:57:39.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Gave 25 [Totem of Undying] to lautaropros]
+[07Dec2024 11:58:07.126] [Async Chat Thread - #1/INFO] [Console/]: <lautaropros> GG EZ
+[07Dec2024 11:58:13.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patata98911 has made the advancement [Hot Stuff]
+[07Dec2024 11:58:49.132] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ce reload
+[07Dec2024 11:59:32.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -593.440000, 92.520000, -303.000000]
+[07Dec2024 11:59:50.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode spectator
+[07Dec2024 11:59:50.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Spectator Mode]
+[07Dec2024 11:59:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -576.490000, 207.750000, -302.000000]
+[07Dec2024 11:59:57.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[07Dec2024 11:59:57.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[07Dec2024 12:00:00.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp patata98911 lautaropros
+[07Dec2024 12:00:00.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported patata98911 to lautaropros]
+[07Dec2024 12:01:04.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:night_vision 2333 255
+[07Dec2024 12:01:04.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Night Vision to patata98911]
+[07Dec2024 12:02:05.260] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player URIELPOR2022 is 7b4bfabb-632c-3277-9d70-11607ec58ded
+[07Dec2024 12:02:06.717] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60420d6
+[07Dec2024 12:02:06.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: URIELPOR2022[/127.240.65.182:42885] logged in with entity id 408 at (-559.5, 206.0, -258.5)
+[07Dec2024 12:02:06.736] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] The world specified as the spawn world (null) did not exist!!
+[07Dec2024 12:02:06.737] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerJoinEvent to Multiverse-Core v4.3.14
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.19.2-1.0.5-696a298.jar%23178!/:arclight-1.19.2-1.0.5-696a298] {re:mixin,re:classloading}
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[arclight-1.19.2-1.0.5-696a298.jar%23178!/:arclight-1.19.2-1.0.5-696a298] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[arclight-1.19.2-1.0.5-696a298.jar%23178!/:arclight-1.19.2-1.0.5-696a298] {re:mixin,re:classloading,re:mixin}
+	at net.minecraft.server.players.PlayerList.eject$znn000$arclight$playerJoin(PlayerListMixin.java:1089) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.management.PlayerListMixin,pl:mixin:APP:pehkui.mixins.json:compat1201minus.PlayerManagerMixin,pl:mixin:A}
+	at net.minecraft.server.players.PlayerList.m_11261_(PlayerListMixin.java:188) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.management.PlayerListMixin,pl:mixin:APP:pehkui.mixins.json:compat1201minus.PlayerManagerMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_10055_(ServerLoginNetHandlerMixin.java:624) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerLoginNetHandlerMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_9933_(ServerLoginNetHandlerMixin.java:75) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerLoginNetHandlerMixin,pl:mixin:A}
+	at net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2127) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23199!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin,re:mixin,re:mixin,re:mixin,re:mixin}
+Caused by: java.lang.NullPointerException: Cannot invoke "com.onarandombox.MultiverseCore.api.MultiverseWorld.getSpawnLocation()" because the return value of "com.onarandombox.MultiverseCore.api.MVWorldManager.getFirstSpawnWorld()" is null
+	at com.onarandombox.MultiverseCore.listeners.MVPlayerListener.playerJoin(MVPlayerListener.java:124) ~[?:?] {}
+	... 15 more
+[07Dec2024 12:02:06.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 joined the game
+[07Dec2024 12:02:07.516] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of URIELPOR2022 (18)
+[07Dec2024 12:02:07.516] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to URIELPOR2022
+[07Dec2024 12:02:16.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[07Dec2024 12:02:16.519] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
+[07Dec2024 12:02:16.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[07Dec2024 12:02:18.985] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[07Dec2024 12:02:20.471] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1423ba3d
+[07Dec2024 12:02:20.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.240.65.182:48109] logged in with entity id 409 at (-528.0392877427192, 138.0, -267.9899954844676)
+[07Dec2024 12:02:20.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[07Dec2024 12:02:20.780] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautaropros (18)
+[07Dec2024 12:02:20.780] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautaropros
+[07Dec2024 12:02:38.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ce reload
+[07Dec2024 12:02:39.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[07Dec2024 12:02:39.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
+[07Dec2024 12:02:39.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[07Dec2024 12:02:41.553] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
