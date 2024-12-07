@@ -56,7 +56,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-12-07 12:02:08 +0000",
-      "minecraft:bamboo_jungle": "2024-12-07 11:44:14 +0000"
+      "minecraft:bamboo_jungle": "2024-12-07 11:44:14 +0000",
+      "minecraft:snowy_plains": "2024-12-07 12:06:32 +0000",
+      "minecraft:plains": "2024-12-07 12:06:53 +0000"
     },
     "done": false
   },
