@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2024-12-13 14:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-07 12:53:46 +0000"
@@ -32,6 +38,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-07 12:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2024-12-13 14:49:43 +0000"
     },
     "done": true
   },
@@ -116,7 +128,9 @@
       "minecraft:sparse_jungle": "2024-12-13 13:49:25 +0000",
       "minecraft:river": "2024-12-07 12:34:22 +0000",
       "minecraft:snowy_plains": "2024-12-07 12:06:32 +0000",
+      "minecraft:cold_ocean": "2024-12-13 14:41:03 +0000",
       "minecraft:forest": "2024-12-07 12:33:09 +0000",
+      "minecraft:frozen_ocean": "2024-12-13 14:41:10 +0000",
       "minecraft:windswept_forest": "2024-12-07 12:33:27 +0000",
       "minecraft:jungle": "2024-12-07 12:34:20 +0000",
       "minecraft:plains": "2024-12-07 12:06:53 +0000"
@@ -165,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-13 14:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-07 12:53:46 +0000"
@@ -186,6 +206,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-07 12:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2024-12-13 14:49:43 +0000"
     },
     "done": true
   },

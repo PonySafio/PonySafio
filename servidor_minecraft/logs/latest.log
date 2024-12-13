@@ -1106,3 +1106,70 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 14:43:55.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2325 blocks]
 [13Dec2024 14:43:55.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
 [13Dec2024 14:43:55.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2624 blocks]
+[13Dec2024 14:44:33.368] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> lauti mira
+[13Dec2024 14:44:40.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set day
+[13Dec2024 14:44:40.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 1000]
+[13Dec2024 14:44:43.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:44:43.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:44:44.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:44:44.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:44:45.324] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> ke
+[13Dec2024 14:44:47.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set day
+[13Dec2024 14:44:47.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 1000]
+[13Dec2024 14:44:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:44:48.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:44:48.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2487 blocks]
+[13Dec2024 14:44:48.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2325 blocks]
+[13Dec2024 14:44:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:44:48.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2624 blocks]
+[13Dec2024 14:44:50.564] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> mira
+[13Dec2024 14:44:55.551] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> mira
+[13Dec2024 14:44:59.689] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> el reloj
+[13Dec2024 14:45:04.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:45:04.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:45:05.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:45:05.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2487 blocks]
+[13Dec2024 14:45:05.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2325 blocks]
+[13Dec2024 14:45:05.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:45:05.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2624 blocks]
+[13Dec2024 14:45:05.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:45:10.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set day
+[13Dec2024 14:45:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 1000]
+[13Dec2024 14:45:11.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:45:11.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:45:11.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2487 blocks]
+[13Dec2024 14:45:11.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2325 blocks]
+[13Dec2024 14:45:11.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:45:11.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2624 blocks]
+[13Dec2024 14:45:19.412] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> a
+[13Dec2024 14:45:24.571] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> el cielo cambia con el tiempo
+[13Dec2024 14:45:26.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:45:26.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:45:27.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:45:27.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2487 blocks]
+[13Dec2024 14:45:27.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2325 blocks]
+[13Dec2024 14:45:27.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:45:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2624 blocks]
+[13Dec2024 14:45:27.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:45:29.621] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> noche
+[13Dec2024 14:45:30.471] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> apoco los campos ded consentracion son asi
+[13Dec2024 14:45:51.514] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> nose como lo ases pero esta bueno
+[13Dec2024 14:46:01.649] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> ok
+[13Dec2024 14:46:04.506] [Async Chat Thread - #14/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> digo gracias
+[13Dec2024 14:46:10.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported lautaropros to -513.540000, 141.500000, -268.360000]
+[13Dec2024 14:47:30.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace barrier stone
+[13Dec2024 14:47:30.294] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace barrier stone - Region: (-556, 137, -281) - (-536, 140, -261)
+[13Dec2024 14:48:57.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ruleta rosa
+[13Dec2024 14:49:00.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ruleta rosada
+[13Dec2024 14:49:00.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Executed 3 commands from function 'ruleta:rosado'
+[13Dec2024 14:50:45.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give lautaropros minecraft:light
+[13Dec2024 14:50:45.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gave 1 [Light] to lautaropros]
+[13Dec2024 14:53:08.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported lautaropros to -481.560000, 202.140000, -242.000000]
+[13Dec2024 14:53:21.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported lautaropros to -641.000000, 143.560000, -256.510000]
+[13Dec2024 14:53:23.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //set smooth_quartz_slab
+[13Dec2024 14:53:23.247] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set smooth_quartz_slab - Region: (-513, 66, -247) - (-513, 66, -247)
+[13Dec2024 14:53:24.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[13Dec2024 14:53:24.048] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
+[13Dec2024 14:53:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[13Dec2024 14:54:07.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //set smooth_quartz_slab
+[13Dec2024 14:54:07.962] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set smooth_quartz_slab - Region: (-514, 66, -257) - (-504, 66, -246)
