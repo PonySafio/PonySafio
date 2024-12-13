@@ -892,3 +892,80 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 14:12:25.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
 [13Dec2024 14:12:25.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
 [13Dec2024 14:12:25.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[13Dec2024 14:14:11.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: URIELPOR2022 lost connection: Disconnected
+[13Dec2024 14:14:11.746] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client URIELPOR2022
+[13Dec2024 14:14:11.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 left the game
+[13Dec2024 14:14:13.969] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[13Dec2024 14:14:15.399] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76ac2f22
+[13Dec2024 14:14:15.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:54127] logged in with entity id 942 at (0.5, 207.60566846852552, 0.5)
+[13Dec2024 14:14:15.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[13Dec2024 14:14:18.635] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautaropros (18)
+[13Dec2024 14:14:18.635] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautaropros
+[13Dec2024 14:14:26.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patata98911 has made the advancement [Stone Age]
+[13Dec2024 14:14:45.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp lautaropros patata98911
+[13Dec2024 14:14:45.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported lautaropros to patata98911]
+[13Dec2024 14:14:54.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /kill lautaropros
+[13Dec2024 14:14:54.579] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 14:14:54.579] [Server thread/INFO] [Console/]: [RedProtect] Player lautaropros damaged by VOID - Running command:
+ - Command: spawn lautaropros
+[13Dec2024 14:14:54.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 14:14:54.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 2 players]
+[13Dec2024 14:14:54.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Killed lautaropros]
+[13Dec2024 14:14:57.486] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> amigo 00 esta bug
+[13Dec2024 14:15:09.795] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> te crashea y todo
+[13Dec2024 14:15:56.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 14:16:05.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic lautaropros https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 14:16:21.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playsound minecraft:entity.turtle.egg_crack
+[13Dec2024 14:16:29.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playsound minecraft:entity.turtle.egg_crack voice @a
+[13Dec2024 14:16:29.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:entity.turtle.egg_crack to 2 players]
+[13Dec2024 14:16:31.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playsound minecraft:entity.turtle.egg_crack voice @a
+[13Dec2024 14:16:31.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:entity.turtle.egg_crack to 2 players]
+[13Dec2024 14:16:31.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playsound minecraft:entity.turtle.egg_crack voice @a
+[13Dec2024 14:16:31.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:entity.turtle.egg_crack to 2 players]
+[13Dec2024 14:16:32.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playsound minecraft:entity.turtle.egg_crack voice @a
+[13Dec2024 14:16:32.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:entity.turtle.egg_crack to 2 players]
+[13Dec2024 14:16:32.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playsound minecraft:entity.turtle.egg_crack voice @a
+[13Dec2024 14:16:32.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:entity.turtle.egg_crack to 2 players]
+[13Dec2024 14:16:32.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playsound minecraft:entity.turtle.egg_crack voice @a
+[13Dec2024 14:16:32.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:entity.turtle.egg_crack to 2 players]
+[13Dec2024 14:16:33.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playsound minecraft:entity.turtle.egg_crack voice @a
+[13Dec2024 14:16:33.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:entity.turtle.egg_crack to 2 players]
+[13Dec2024 14:16:33.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playsound minecraft:entity.turtle.egg_crack voice @a
+[13Dec2024 14:16:33.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:entity.turtle.egg_crack to 2 players]
+[13Dec2024 14:16:33.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playsound minecraft:entity.turtle.egg_crack voice @a
+[13Dec2024 14:16:33.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:entity.turtle.egg_crack to 2 players]
+[13Dec2024 14:17:21.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 14:17:39.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100
+[13Dec2024 14:17:40.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100
+[13Dec2024 14:18:21.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -472 91 -214 -537 49 -285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:18:26.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100 https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 14:18:30.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100 https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 14:18:32.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100 https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 14:18:54.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100 https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 14:19:31.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100 https://www.youtube.com/watch?v=BBddw4YHUrw
+[13Dec2024 14:19:33.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -506 62 -249 -537 49 -285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:19:33.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 43 blocks]
+[13Dec2024 14:19:38.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -506 62 -249 -537 49 -285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:19:48.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -506 62 -249 -537 79 -285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:19:48.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 694 blocks]
+[13Dec2024 14:19:53.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -506 62 -249 -537 89 -285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:19:58.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100 https://youtu.be/BBddw4YHUrw?si=_T5-pFAlOtmwXURJ
+[13Dec2024 14:20:03.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -506 72 -249 -537 89 -285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:20:03.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 576 blocks]
+[13Dec2024 14:20:11.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -506 72 -249 -537 90-285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:20:14.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -506 72 -249 -537 90 -285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:20:14.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 70 blocks]
+[13Dec2024 14:20:18.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -506 72 -249 -537 90 -285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:20:22.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -506 72 -249 -537 91 -285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:20:22.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 1184 blocks]
+[13Dec2024 14:21:22.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2204 blocks]
+[13Dec2024 14:21:33.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 68 blocks]
+[13Dec2024 14:21:43.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 65 blocks]
+[13Dec2024 14:22:04.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:22:06.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:22:14.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill -472 91 -214 -537 49 -285 minecraft:black_concrete replace minecraft:light_blue_concrete
+[13Dec2024 14:22:20.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2204 blocks]
+[13Dec2024 14:22:25.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2204 blocks]
+[13Dec2024 14:22:34.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:23:14.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100 https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 14:23:23.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
