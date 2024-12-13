@@ -634,3 +634,137 @@ Caused by: java.lang.IllegalArgumentException: Could not call moduleReader.list(
 [13Dec2024 18:56:34.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Weakness to patata98911]
 [13Dec2024 18:56:58.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect clear @a
 [13Dec2024 18:56:58.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Removed every effect from 2 targets]
+[13Dec2024 18:57:13.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give lautaropros minecraft:light
+[13Dec2024 18:57:13.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gave 1 [Light] to lautaropros]
+[13Dec2024 18:58:17.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Weakness to patata98911]
+[13Dec2024 18:58:17.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Mining Fatigue to patata98911]
+[13Dec2024 18:59:22.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp lautaropros
+[13Dec2024 18:59:22.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported patata98911 to lautaropros]
+[13Dec2024 19:00:27.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[13Dec2024 19:00:27.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 19:00:55.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 19:00:55.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 19:04:35.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tag @a list
+[13Dec2024 19:04:41.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tag list
+[13Dec2024 19:04:49.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tag @a add invasor
+[13Dec2024 19:04:49.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Added tag 'invasor' to 2 entities]
+[13Dec2024 19:05:00.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamerule sendCommandFeedback
+[13Dec2024 19:05:03.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamerule sendCommandFeedback true
+[13Dec2024 19:05:03.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gamerule sendCommandFeedback is now set to: true]
+[13Dec2024 19:05:06.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tag @a add invasor
+[13Dec2024 19:05:17.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tag @a remove anim.muerte
+[13Dec2024 19:05:17.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Removed tag 'anim.muerte' from 2 entities]
+[13Dec2024 19:06:12.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill lautaropros
+[13Dec2024 19:06:12.433] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 19:06:12.433] [Server thread/INFO] [Console/]: [RedProtect] Player lautaropros damaged by VOID - Running command:
+ - Command: spawn lautaropros
+[13Dec2024 19:06:12.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.muerte' to 2 entities
+[13Dec2024 19:06:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 2 players]
+[13Dec2024 19:06:12.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Killed lautaropros]
+[13Dec2024 19:06:16.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 19:06:16.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 19:06:19.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 19:06:20.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival lautaropros
+[13Dec2024 19:06:20.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set lautaropros's game mode to Survival Mode]
+[13Dec2024 19:06:30.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tag @a remove anim.muerte
+[13Dec2024 19:06:30.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Removed tag 'anim.muerte' from 2 entities]
+[13Dec2024 19:06:48.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.5
+[13Dec2024 19:06:53.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.5
+[13Dec2024 19:07:05.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 19:07:15.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 19:07:25.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 19:07:25.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 19:07:38.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -481.560000, 202.140000, -242.000000]
+[13Dec2024 19:07:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -641.000000, 143.560000, -256.510000]
+[13Dec2024 19:07:44.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -481.560000, 202.140000, -242.000000]
+[13Dec2024 19:07:44.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give lautaropros minecraft:command_block
+[13Dec2024 19:07:44.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gave 1 [Command Block] to lautaropros]
+[13Dec2024 19:07:58.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -641.000000, 143.560000, -256.510000]
+[13Dec2024 19:08:02.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -481.560000, 202.140000, -242.000000]
+[13Dec2024 19:08:15.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /deop lautaropros
+[13Dec2024 19:08:15.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Made lautaropros no longer a server operator]
+[13Dec2024 19:08:21.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival lautaropros
+[13Dec2024 19:08:21.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set lautaropros's game mode to Survival Mode]
+[13Dec2024 19:08:33.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -540.450000, 106.690000, -251.000000]
+[13Dec2024 19:08:35.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -567.520000, 208.450000, -304.000000]
+[13Dec2024 19:08:41.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -593.440000, 92.520000, -303.000000]
+[13Dec2024 19:08:42.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -576.490000, 207.750000, -302.000000]
+[13Dec2024 19:09:01.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode
+[13Dec2024 19:09:13.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kil
+[13Dec2024 19:09:16.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill
+[13Dec2024 19:09:23.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /op lautaropros
+[13Dec2024 19:09:23.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Made lautaropros a server operator]
+[13Dec2024 19:09:42.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode adventure
+[13Dec2024 19:09:42.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Adventure Mode]
+[13Dec2024 19:10:09.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival
+[13Dec2024 19:10:09.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Survival Mode]
+[13Dec2024 19:10:35.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 19:10:35.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 19:10:45.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 19:10:45.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 19:10:52.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
+[13Dec2024 19:10:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 19:10:56.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 19:11:01.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patata98911 has reached the goal [Sky's the Limit]
+[13Dec2024 19:11:51.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
+[13Dec2024 19:11:51.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 19:11:56.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[13Dec2024 19:11:56.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[13Dec2024 19:13:09.265] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[13Dec2024 19:13:10.733] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4aa47550
+[13Dec2024 19:13:10.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:41071] logged in with entity id 1053 at (-157.38252964627029, 71.51352923155464, -252.4435477798934)
+[13Dec2024 19:13:10.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[13Dec2024 19:13:34.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill lautaropros
+[13Dec2024 19:13:34.832] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 19:13:34.832] [Server thread/INFO] [Console/]: [RedProtect] Player lautaropros damaged by VOID - Running command:
+ - Command: spawn lautaropros
+[13Dec2024 19:13:34.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.muerte' to 2 entities
+[13Dec2024 19:13:34.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 2 players]
+[13Dec2024 19:13:34.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Killed lautaropros]
+[13Dec2024 19:13:41.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 19:13:41.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 19:13:47.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tag @a remove
+[13Dec2024 19:13:49.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tag @a remove anim.muerte
+[13Dec2024 19:13:49.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Removed tag 'anim.muerte' from 2 entities]
+[13Dec2024 19:14:18.045] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elreysakura is 913f52d4-16d0-3dc6-98b9-73d182615a9c
+[13Dec2024 19:14:19.428] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3bd480b8
+[13Dec2024 19:14:19.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elreysakura[/127.99.201.252:60009] logged in with entity id 1224 at (-536.5, 203.0, -263.5)
+[13Dec2024 19:14:19.442] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] The world specified as the spawn world (null) did not exist!!
+[13Dec2024 19:14:19.442] [Server thread/ERROR] [Minecraft/]: Could not pass event PlayerJoinEvent to Multiverse-Core v4.3.14
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[arclight-1.19.2-1.0.5-696a298.jar%23184!/:arclight-1.19.2-1.0.5-696a298] {re:mixin,re:classloading}
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) ~[arclight-1.19.2-1.0.5-696a298.jar%23184!/:arclight-1.19.2-1.0.5-696a298] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) ~[arclight-1.19.2-1.0.5-696a298.jar%23184!/:arclight-1.19.2-1.0.5-696a298] {re:mixin,re:classloading,re:mixin}
+	at net.minecraft.server.players.PlayerList.eject$zog000$arclight$playerJoin(PlayerListMixin.java:1089) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:arclight_implementer:inventory,pl:mixin:APP:mixins.arclight.core.json:server.management.PlayerListMixin,pl:mixin:APP:pehkui.mixins.json:compat1201minus.PlayerManagerMixin,pl:mixin:APP:plasmovoice.mixins.json:MixinPlayerList,pl:mixin:A}
+	at net.minecraft.server.players.PlayerList.m_11261_(PlayerListMixin.java:188) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:arclight_implementer:inventory,pl:mixin:APP:mixins.arclight.core.json:server.management.PlayerListMixin,pl:mixin:APP:pehkui.mixins.json:compat1201minus.PlayerManagerMixin,pl:mixin:APP:plasmovoice.mixins.json:MixinPlayerList,pl:mixin:A}
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_10055_(ServerLoginNetHandlerMixin.java:624) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerLoginNetHandlerMixin,pl:mixin:A}
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_9933_(ServerLoginNetHandlerMixin.java:75) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ServerLoginNetHandlerMixin,pl:mixin:A}
+	at net.minecraft.network.Connection.m_129483_(ConnectionMixin.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:network.ConnectionMixin,pl:mixin:APP:mixins.arclight.impl.forge.optimization.json:network.ConnectionMixin_Optimize,pl:mixin:A}
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2127) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin,re:mixin}
+Caused by: java.lang.NullPointerException: Cannot invoke "com.onarandombox.MultiverseCore.api.MultiverseWorld.getSpawnLocation()" because the return value of "com.onarandombox.MultiverseCore.api.MVWorldManager.getFirstSpawnWorld()" is null
+	at com.onarandombox.MultiverseCore.listeners.MVPlayerListener.playerJoin(MVPlayerListener.java:124) ~[?:?] {}
+	... 15 more
+[13Dec2024 19:14:19.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elreysakura joined the game
+[13Dec2024 19:14:19.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /deop lautaropros
+[13Dec2024 19:14:19.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Made lautaropros no longer a server operator]
+[13Dec2024 19:14:25.004] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> hola
+[13Dec2024 19:14:30.775] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> hola xd
+[13Dec2024 19:14:34.234] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> ?
+[13Dec2024 19:14:46.106] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> quien sos ?
+[13Dec2024 19:14:52.429] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> nunca habia jugado con mods XD
+[13Dec2024 19:14:59.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival lautaropros
+[13Dec2024 19:14:59.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set lautaropros's game mode to Survival Mode]
+[13Dec2024 19:15:01.027] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> el que estaba hablando ahorita por discord
+[13Dec2024 19:15:07.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode adventure Elreysakura
+[13Dec2024 19:15:07.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set Elreysakura's game mode to Adventure Mode]
+[13Dec2024 19:15:16.179] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> pq aventura? :(
+[13Dec2024 19:15:17.640] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> bueno espera a que lleguen los demas
+[13Dec2024 19:15:21.960] [Async Chat Thread - #0/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> a XD
+[13Dec2024 19:16:58.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[13Dec2024 19:16:58.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
