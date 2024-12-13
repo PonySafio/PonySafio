@@ -1199,3 +1199,30 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 15:03:56.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 lost connection: Disconnected
 [13Dec2024 15:03:56.046] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patata98911
 [13Dec2024 15:03:56.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patata98911 left the game
+[13Dec2024 15:14:24.145] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 15:17:42.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Dec2024 15:17:42.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Dec2024 15:17:42.150] [Server thread/INFO] [Multiverse-Inventories/]: Disabling Multiverse-Inventories v4.2.6
+[13Dec2024 15:17:42.152] [Server thread/INFO] [Shopkeepers/]: Disabling Shopkeepers v2.19.0
+[13Dec2024 15:17:42.163] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.58.1
+[13Dec2024 15:17:42.163] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[13Dec2024 15:17:42.163] [Server thread/INFO] [RedProtect/]: Disabling RedProtect v8.1.2-SNAPSHOT
+[13Dec2024 15:17:42.164] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/DIM1's regions...
+[13Dec2024 15:17:42.164] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/DIM-1's regions...
+[13Dec2024 15:17:42.164] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL's regions...
+[13Dec2024 15:17:42.164] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/the_bumblezone/the_bumblezone's regions...
+[13Dec2024 15:17:42.189] [Server thread/INFO] [Console/]: [RedProtect] Unregistering listeners...
+[13Dec2024 15:17:42.189] [Server thread/INFO] [Console/]: [RedProtect] RedProtect v8.1.2-SNAPSHOT turned off...
+[13Dec2024 15:17:42.190] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.14
+[13Dec2024 15:17:42.191] [Server thread/INFO] [BlockLocker/]: Disabling BlockLocker v1.12
+[13Dec2024 15:17:42.191] [Server thread/INFO] [ServerVariables/]: Disabling ServerVariables v2.5.3
+[13Dec2024 15:17:42.191] [Server thread/INFO] [Console/]: [ServerVariables] Has been disabled! Version: 2.5.3
+[13Dec2024 15:17:42.192] [Server thread/INFO] [ClearLag/]: Disabling ClearLag v3.2.2
+[13Dec2024 15:17:42.192] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now disabled!
+[13Dec2024 15:17:42.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Dec2024 15:17:42.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Dec2024 15:17:42.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]'/minecraft:overworld
+[13Dec2024 15:17:43.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/the_bumblezone/the_bumblezone]'/the_bumblezone:the_bumblezone
+[13Dec2024 15:17:43.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/DIM1]'/minecraft:the_end
+[13Dec2024 15:17:43.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/DIM-1]'/minecraft:the_nether
+[13Dec2024 15:17:48.409] [Exit Thread/INFO] [Arclight/]: 4 threads not shutting down correctly, force exiting

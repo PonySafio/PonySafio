@@ -6994,3 +6994,51 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 15:10:04.246] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
 [13Dec2024 15:10:04.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
 [13Dec2024 15:10:04.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 15:14:24.145] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 15:15:04.245] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[13Dec2024 15:15:04.246] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[13Dec2024 15:15:04.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 15:15:04.248] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[13Dec2024 15:15:04.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 15:17:42.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Dec2024 15:17:42.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Dec2024 15:17:42.150] [Server thread/INFO] [Multiverse-Inventories/]: Disabling Multiverse-Inventories v4.2.6
+[13Dec2024 15:17:42.152] [Server thread/INFO] [Shopkeepers/]: Disabling Shopkeepers v2.19.0
+[13Dec2024 15:17:42.163] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.58.1
+[13Dec2024 15:17:42.163] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[13Dec2024 15:17:42.163] [Server thread/INFO] [RedProtect/]: Disabling RedProtect v8.1.2-SNAPSHOT
+[13Dec2024 15:17:42.164] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/DIM1's regions...
+[13Dec2024 15:17:42.164] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/DIM-1's regions...
+[13Dec2024 15:17:42.164] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL's regions...
+[13Dec2024 15:17:42.164] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/the_bumblezone/the_bumblezone's regions...
+[13Dec2024 15:17:42.189] [Server thread/INFO] [Console/]: [RedProtect] Unregistering listeners...
+[13Dec2024 15:17:42.189] [Server thread/INFO] [Console/]: [RedProtect] RedProtect v8.1.2-SNAPSHOT turned off...
+[13Dec2024 15:17:42.190] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.14
+[13Dec2024 15:17:42.191] [Server thread/INFO] [BlockLocker/]: Disabling BlockLocker v1.12
+[13Dec2024 15:17:42.191] [Server thread/INFO] [ServerVariables/]: Disabling ServerVariables v2.5.3
+[13Dec2024 15:17:42.191] [Server thread/INFO] [Console/]: [ServerVariables] Has been disabled! Version: 2.5.3
+[13Dec2024 15:17:42.192] [Server thread/INFO] [ClearLag/]: Disabling ClearLag v3.2.2
+[13Dec2024 15:17:42.192] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now disabled!
+[13Dec2024 15:17:42.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Dec2024 15:17:42.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Dec2024 15:17:42.200] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main85
+[13Dec2024 15:17:42.207] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[13Dec2024 15:17:42.207] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[13Dec2024 15:17:42.211] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[13Dec2024 15:17:42.214] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[13Dec2024 15:17:42.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]'/minecraft:overworld
+[13Dec2024 15:17:43.337] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[13Dec2024 15:17:43.337] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[13Dec2024 15:17:43.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 15:17:43.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 15:17:43.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/the_bumblezone/the_bumblezone]'/the_bumblezone:the_bumblezone
+[13Dec2024 15:17:43.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/DIM1]'/minecraft:the_end
+[13Dec2024 15:17:43.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/DIM-1]'/minecraft:the_nether
+[13Dec2024 15:17:43.404] [Worker-Main85/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main85 shutdown
+[13Dec2024 15:17:43.405] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[13Dec2024 15:17:43.405] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[13Dec2024 15:17:43.406] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file pehkui-server.toml changed, sending notifies
+[13Dec2024 15:17:43.406] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file pehkui-server.toml changed, sending notifies
+[13Dec2024 15:17:43.407] [Server thread/DEBUG] [org.jline/]: Removing shutdown-hook: Thread[JLine Shutdown Hook,5,main]
+[13Dec2024 15:17:48.409] [Exit Thread/DEBUG] [Arclight/]: Threads pool-8-thread-1, bStats-Metrics, bStats-Metrics, bStats-Metrics not shutting down
+[13Dec2024 15:17:48.409] [Exit Thread/INFO] [Arclight/]: 4 threads not shutting down correctly, force exiting
