@@ -1203,3 +1203,71 @@ java.nio.channels.UnresolvedAddressException: null
 [13Dec2024 20:21:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Played sound minecraft:ruleta to Elreysakura]
 [13Dec2024 20:21:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Played sound minecraft:ruleta to patata98911]
 [13Dec2024 20:21:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:ruleta to lautaropros]
+[13Dec2024 20:22:19.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp Elreysakura patata98911
+[13Dec2024 20:22:19.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported Elreysakura to patata98911]
+[13Dec2024 20:22:44.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /execute as @a at @s run playsound minecraft:reviil voice @s ~ ~ ~ 100 2
+[13Dec2024 20:22:44.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Played sound minecraft:reviil to Elreysakura]
+[13Dec2024 20:22:44.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Played sound minecraft:reviil to patata98911]
+[13Dec2024 20:22:44.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:reviil to lautaropros]
+[13Dec2024 20:22:50.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /execute as @a at @s run playsound minecraft:reviil voice @s ~ ~ ~ 100 0.1
+[13Dec2024 20:22:50.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Played sound minecraft:reviil to Elreysakura]
+[13Dec2024 20:22:50.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Played sound minecraft:reviil to patata98911]
+[13Dec2024 20:22:50.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:reviil to lautaropros]
+[13Dec2024 20:22:58.048] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> a?
+[13Dec2024 20:23:34.845] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> se
+[13Dec2024 20:23:39.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:23:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:23:41.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode adventure
+[13Dec2024 20:23:41.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Adventure Mode]
+[13Dec2024 20:24:00.424] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> uds usan ce?
+[13Dec2024 20:24:02.975] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 100 100
+[13Dec2024 20:24:02.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 3 targets]
+[13Dec2024 20:24:30.476] [Async Chat Thread - #19/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> yo en mi server uso ce para daño de caida, totems y probabilidad de totems
+[13Dec2024 20:24:51.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:24:51.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:24:53.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode adventure
+[13Dec2024 20:24:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Adventure Mode]
+[13Dec2024 20:24:59.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode spectator
+[13Dec2024 20:24:59.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Spectator Mode]
+[13Dec2024 20:25:08.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
+[13Dec2024 20:25:08.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 20:25:13.004] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 20:25:13.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Showing new actionbar title for 3 players]
+[13Dec2024 20:25:19.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode adventure
+[13Dec2024 20:25:19.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Adventure Mode]
+[13Dec2024 20:25:32.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:25:32.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:25:36.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode adventure
+[13Dec2024 20:25:36.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Adventure Mode]
+[13Dec2024 20:25:38.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:25:38.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:25:39.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 20:25:39.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 20:25:41.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode adventure
+[13Dec2024 20:25:41.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Adventure Mode]
+[13Dec2024 20:25:49.424] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> yo no estoy encontrando XD
+[13Dec2024 20:25:53.473] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> yo yaper
+[13Dec2024 20:26:48.131] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> lautaropros?
+[13Dec2024 20:27:04.189] [Async Chat Thread - #20/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> se ve el nick
+[13Dec2024 20:27:15.854] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 20:27:15.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Showing new actionbar title for 3 players]
+[13Dec2024 20:27:22.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode adventure
+[13Dec2024 20:27:22.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Adventure Mode]
+[13Dec2024 20:27:24.752] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 20:27:24.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Showing new actionbar title for 3 players]
+[13Dec2024 20:27:43.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode adventure
+[13Dec2024 20:27:43.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Adventure Mode]
+[13Dec2024 20:27:49.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /give Elreysakura minecraft:totem_of_undying 2
+[13Dec2024 20:27:49.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Gave 2 [Totem of Undying] to Elreysakura]
+[13Dec2024 20:27:58.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 lost connection: Disconnected
+[13Dec2024 20:27:58.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patata98911 left the game
+[13Dec2024 20:29:01.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /tp Elreysakura lautaropros
+[13Dec2024 20:29:01.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Teleported Elreysakura to lautaropros]
+[13Dec2024 20:30:53.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /execute as @a at @s run playsound minecraft:ruleta voice @s ~ ~ ~ 1 1
+[13Dec2024 20:30:53.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:ruleta to lautaropros]
+[13Dec2024 20:30:53.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Played sound minecraft:ruleta to Elreysakura]
+[13Dec2024 20:31:29.717] [Async Chat Thread - #21/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> tenia sueño
+[13Dec2024 20:31:33.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /execute as @a at @s run playsound minecraft:ruleta voice @s ~ ~ ~ 1 1
+[13Dec2024 20:31:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:ruleta to lautaropros]
+[13Dec2024 20:31:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Played sound minecraft:ruleta to Elreysakura]
+[13Dec2024 20:31:43.530] [Async Chat Thread - #21/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> XD
