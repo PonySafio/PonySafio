@@ -1383,3 +1383,19 @@ java.nio.channels.UnresolvedAddressException: null
 [13Dec2024 20:41:16.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:42571] logged in with entity id 322 at (-641.0, 143.09584062504456, -256.51)
 [13Dec2024 20:41:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
 [13Dec2024 20:42:07.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ce reload
+[13Dec2024 20:42:26.955] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> aun tengo survival
+[13Dec2024 20:44:16.432] [Async Chat Thread - #25/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> aldea XD
+[13Dec2024 20:44:43.418] [Server thread/INFO] [Console/]: [ConditionalEvents] Config Reloaded.
+[13Dec2024 20:44:48.910] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 20:46:52.327] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> veni a la aldea xd
+[13Dec2024 20:47:20.037] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> estaba viendo la transmision
+[13Dec2024 20:48:04.863] [Server thread/INFO] [Console/]: [ConditionalEvents] Config Reloaded.
+[13Dec2024 20:48:31.942] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> no hay algun tipo de proteccion?
+[13Dec2024 20:48:44.420] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> []
+[13Dec2024 20:48:46.736] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> [rp]
+[13Dec2024 20:48:57.473] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> ok ok xd
+[13Dec2024 20:49:20.589] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> se
+[13Dec2024 20:49:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros has made the advancement [Stone Age]
+[13Dec2024 20:49:59.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elreysakura has made the advancement [Stone Age]
+[13Dec2024 20:50:22.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elreysakura has made the advancement [Getting an Upgrade]
+[13Dec2024 20:50:47.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros has made the advancement [Getting an Upgrade]

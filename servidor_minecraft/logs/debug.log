@@ -7653,3 +7653,59 @@ java.nio.channels.UnresolvedAddressException: null
 [13Dec2024 20:41:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
 [13Dec2024 20:41:56.265] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
 [13Dec2024 20:42:07.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ce reload
+[13Dec2024 20:42:26.955] [Async Chat Thread - #24/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> aun tengo survival
+[13Dec2024 20:43:08.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 20:43:08.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 20:43:58.288] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.WorkAtComposterMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[13Dec2024 20:43:58.291] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.HarvestFarmlandMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.HarvestFarmland
+[13Dec2024 20:43:58.296] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.InteractWithDoorMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.InteractWithDoor
+[13Dec2024 20:43:58.302] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.GoToWantedItemMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.GoToWantedItem
+[13Dec2024 20:43:58.306] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.AssignProfessionFromJobSiteMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.AssignProfessionFromJobSite
+[13Dec2024 20:43:58.307] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$start$3(Lnet/minecraft/world/entity/npc/Villager;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/npc/VillagerProfession;)V to md489fa2$lambda$start$3$0 in mixins.arclight.core.json:world.entity.ai.behavior.AssignProfessionFromJobSiteMixin
+[13Dec2024 20:43:58.307] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$start$2(Lnet/minecraft/core/Holder;)Ljava/util/Optional; to md489fa2$lambda$start$2$1 in mixins.arclight.core.json:world.entity.ai.behavior.AssignProfessionFromJobSiteMixin
+[13Dec2024 20:43:58.307] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$start$1(Lnet/minecraft/core/Holder;Lnet/minecraft/world/entity/npc/VillagerProfession;)Z to md489fa2$lambda$start$1$2 in mixins.arclight.core.json:world.entity.ai.behavior.AssignProfessionFromJobSiteMixin
+[13Dec2024 20:43:58.307] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$start$0(Lnet/minecraft/core/GlobalPos;Lnet/minecraft/server/level/ServerLevel;)Ljava/util/Optional; to md489fa2$lambda$start$0$3 in mixins.arclight.core.json:world.entity.ai.behavior.AssignProfessionFromJobSiteMixin
+[13Dec2024 20:43:58.309] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.ResetProfessionMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.ResetProfession
+[13Dec2024 20:43:58.312] [Server thread/DEBUG] [mixin/]: Mixing chunkload.SleepInBedMixin_Optimize from mixins.arclight.impl.forge.optimization.json into net.minecraft.world.entity.ai.behavior.SleepInBed
+[13Dec2024 20:43:58.317] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.VillagerMakeLoveMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[13Dec2024 20:43:58.318] [Server thread/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[13Dec2024 20:44:00.822] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[13Dec2024 20:44:00.823] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[13Dec2024 20:44:00.849] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[13Dec2024 20:44:00.849] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[13Dec2024 20:44:04.539] [Server thread/DEBUG] [mixin/]: Mixing world.item.MerchantOfferMixin from mixins.arclight.core.json into net.minecraft.world.item.trading.MerchantOffer
+[13Dec2024 20:44:16.432] [Async Chat Thread - #25/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> aldea XD
+[13Dec2024 20:44:43.418] [Server thread/INFO] [Console/]: [ConditionalEvents] Config Reloaded.
+[13Dec2024 20:44:48.910] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 20:46:33.304] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[13Dec2024 20:46:33.305] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[13Dec2024 20:46:33.320] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[13Dec2024 20:46:52.327] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> veni a la aldea xd
+[13Dec2024 20:47:04.960] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/BellBlock$1
+[13Dec2024 20:47:20.037] [Async Chat Thread - #26/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> estaba viendo la transmision
+[13Dec2024 20:47:58.923] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[13Dec2024 20:48:00.071] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$world$entity$player$EntityHuman$EnumBedResult()[I class org/bukkit/craftbukkit/v1_19_R1/event/CraftEventFactory$1
+[13Dec2024 20:48:04.863] [Server thread/INFO] [Console/]: [ConditionalEvents] Config Reloaded.
+[13Dec2024 20:48:08.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 20:48:08.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 20:48:31.942] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> no hay algun tipo de proteccion?
+[13Dec2024 20:48:44.420] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> []
+[13Dec2024 20:48:46.736] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> [rp]
+[13Dec2024 20:48:57.473] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> ok ok xd
+[13Dec2024 20:49:03.155] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/animal/Sheep$2
+[13Dec2024 20:49:05.967] [Server thread/DEBUG] [mixin/]: Mixing world.CompoundContainerMixin from mixins.arclight.core.json into net.minecraft.world.CompoundContainer
+[13Dec2024 20:49:05.970] [Server thread/DEBUG] [mixin/]: Mixing world.entity.monster.piglin.PiglinAiMixin from mixins.arclight.core.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[13Dec2024 20:49:05.971] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[13Dec2024 20:49:08.859] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/SnowLayerBlock$1
+[13Dec2024 20:49:18.865] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[13Dec2024 20:49:20.589] [Async Chat Thread - #27/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> se
+[13Dec2024 20:49:27.293] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[13Dec2024 20:49:43.842] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/common/ForgeHooks$2
+[13Dec2024 20:49:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros has made the advancement [Stone Age]
+[13Dec2024 20:49:59.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elreysakura has made the advancement [Stone Age]
+[13Dec2024 20:50:22.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elreysakura has made the advancement [Getting an Upgrade]
+[13Dec2024 20:50:47.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros has made the advancement [Getting an Upgrade]
+[13Dec2024 20:50:59.059] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[13Dec2024 20:50:59.060] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[13Dec2024 20:50:59.067] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[13Dec2024 20:52:03.073] [IO-Worker-89/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90

@@ -29,7 +29,7 @@ Events:
       - 'wait: 10'
       - 'to_all: json_message: ["",{"text":"\u27a4 ","color":"#04c4bc"},
                                {"text":"MISION:","bold":true,"color":"#04c4bc"},{"text":"\n\n"},
-                               {"text":"llegar a 150 puntos o mas para el final del dia","color":"#5ed6d5"}]'
+                               {"text":"Consigue una armadura completa de diamante y reclama la mision dentro de la montaña","color":"#5ed6d5"}]'
       rosada:
       - 'cancel_event: true'
       - 'console_command: function ruleta:rosado'
