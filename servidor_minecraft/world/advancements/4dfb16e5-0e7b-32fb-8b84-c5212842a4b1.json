@@ -55,7 +55,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:endermite": "2024-12-07 11:55:51 +0000"
+      "minecraft:endermite": "2024-12-07 11:55:51 +0000",
+      "minecraft:zombie": "2024-12-13 18:22:30 +0000"
     },
     "done": false
   },
