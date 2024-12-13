@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-13 19:27:38 +0000",
       "minecraft:bamboo_jungle": "2024-12-13 19:14:20 +0000"
     },
     "done": false
