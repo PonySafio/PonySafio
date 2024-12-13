@@ -6168,3 +6168,388 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 14:33:50.557] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> que nub
 [13Dec2024 14:33:52.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
 [13Dec2024 14:33:52.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 14:34:22.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:34:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2500 blocks]
+[13Dec2024 14:34:22.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:34:22.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:34:22.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2631 blocks]
+[13Dec2024 14:34:45.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:34:45.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2500 blocks]
+[13Dec2024 14:34:45.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:34:45.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:34:45.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2631 blocks]
+[13Dec2024 14:34:45.171] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[13Dec2024 14:35:04.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 14:35:04.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 14:35:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 14:35:45.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set night
+[13Dec2024 14:35:45.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 13000]
+[13Dec2024 14:35:56.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set night
+[13Dec2024 14:35:56.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 13000]
+[13Dec2024 14:36:04.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set day
+[13Dec2024 14:36:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 1000]
+[13Dec2024 14:36:21.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 14:36:31.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set night
+[13Dec2024 14:36:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 13000]
+[13Dec2024 14:36:32.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:36:32.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2500 blocks]
+[13Dec2024 14:36:32.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:36:32.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:36:32.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2631 blocks]
+[13Dec2024 14:36:32.178] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[13Dec2024 14:36:36.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:36:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:37:21.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 14:37:57.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dd8yyll2pn6a]: started parsing
+[13Dec2024 14:37:57.779] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dd8yyll2pn6a]: Consuming argument ``
+[13Dec2024 14:37:58.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t1fzz3mo7p5c]: started parsing
+[13Dec2024 14:37:58.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t1fzz3mo7p5c]: Consuming argument `l`
+[13Dec2024 14:37:59.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3pkerfg2fqv]: started parsing
+[13Dec2024 14:37:59.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3pkerfg2fqv]: Consuming argument `li`
+[13Dec2024 14:37:59.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iztt3u87f7fp]: started parsing
+[13Dec2024 14:37:59.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iztt3u87f7fp]: Consuming argument `lig`
+[13Dec2024 14:38:00.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01to6ijb5li81]: started parsing
+[13Dec2024 14:38:00.499] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01to6ijb5li81]: Consuming argument `ligh`
+[13Dec2024 14:38:00.541] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aem1ixeoc5g9]: started parsing
+[13Dec2024 14:38:00.541] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aem1ixeoc5g9]: Consuming argument `lig`
+[13Dec2024 14:38:01.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15z30d8qz2k6p]: started parsing
+[13Dec2024 14:38:01.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15z30d8qz2k6p]: Consuming argument `light`
+[13Dec2024 14:38:01.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15z30d8qz2k6p]: Consuming argument ``
+[13Dec2024 14:38:04.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nbt10v60zzeq]: started parsing
+[13Dec2024 14:38:04.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nbt10v60zzeq]: Consuming argument `light`
+[13Dec2024 14:38:04.857] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nbt10v60zzeq]: Consuming argument `a`
+[13Dec2024 14:38:05.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmcuu124ct9n]: started parsing
+[13Dec2024 14:38:05.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmcuu124ct9n]: Consuming argument `light`
+[13Dec2024 14:38:05.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pmcuu124ct9n]: Consuming argument `ai`
+[13Dec2024 14:38:05.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ldwmiyn8y2wn]: started parsing
+[13Dec2024 14:38:05.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ldwmiyn8y2wn]: Consuming argument `light`
+[13Dec2024 14:38:05.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ldwmiyn8y2wn]: Consuming argument `air`
+[13Dec2024 14:38:05.234] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ldwmiyn8y2wn]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:06.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03omdup28zonl]: started parsing
+[13Dec2024 14:38:06.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03omdup28zonl]: Consuming argument `light`
+[13Dec2024 14:38:06.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03omdup28zonl]: Consuming argument `ai`
+[13Dec2024 14:38:06.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sd6z0qwasxf1]: started parsing
+[13Dec2024 14:38:06.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sd6z0qwasxf1]: Consuming argument `light`
+[13Dec2024 14:38:06.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sd6z0qwasxf1]: Consuming argument `a`
+[13Dec2024 14:38:07.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jjauvvgfskot]: started parsing
+[13Dec2024 14:38:07.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jjauvvgfskot]: Consuming argument `light`
+[13Dec2024 14:38:07.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jjauvvgfskot]: Consuming argument ``
+[13Dec2024 14:38:07.677] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dcm7z41wskgc]: started parsing
+[13Dec2024 14:38:07.677] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dcm7z41wskgc]: Consuming argument `light`
+[13Dec2024 14:38:07.678] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dcm7z41wskgc]: Consuming argument `7`
+[13Dec2024 14:38:07.678] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dcm7z41wskgc]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:07.776] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06qmk30764b3z]: started parsing
+[13Dec2024 14:38:07.776] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06qmk30764b3z]: Consuming argument `light`
+[13Dec2024 14:38:07.776] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06qmk30764b3z]: Consuming argument `70`
+[13Dec2024 14:38:07.776] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06qmk30764b3z]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:08.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0leseavekw0z9]: started parsing
+[13Dec2024 14:38:08.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0leseavekw0z9]: Consuming argument `light`
+[13Dec2024 14:38:08.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0leseavekw0z9]: Consuming argument `705`
+[13Dec2024 14:38:08.513] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05zv9besm717q]: started parsing
+[13Dec2024 14:38:08.513] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05zv9besm717q]: Consuming argument `light`
+[13Dec2024 14:38:08.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05zv9besm717q]: Consuming argument `70`
+[13Dec2024 14:38:08.514] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05zv9besm717q]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:08.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v11lpcqrghsn]: started parsing
+[13Dec2024 14:38:08.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v11lpcqrghsn]: Consuming argument `light`
+[13Dec2024 14:38:08.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v11lpcqrghsn]: Consuming argument `70$`
+[13Dec2024 14:38:09.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gp3yqprd17ky]: started parsing
+[13Dec2024 14:38:09.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gp3yqprd17ky]: Consuming argument `light`
+[13Dec2024 14:38:09.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gp3yqprd17ky]: Consuming argument `70`
+[13Dec2024 14:38:09.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gp3yqprd17ky]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:09.565] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rj9mwt83nwbm]: started parsing
+[13Dec2024 14:38:09.565] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rj9mwt83nwbm]: Consuming argument `light`
+[13Dec2024 14:38:09.566] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rj9mwt83nwbm]: Consuming argument `70%`
+[13Dec2024 14:38:11.016] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ey8i7adnbvfk]: started parsing
+[13Dec2024 14:38:11.016] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ey8i7adnbvfk]: Consuming argument `light`
+[13Dec2024 14:38:11.017] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ey8i7adnbvfk]: Consuming argument `70%a`
+[13Dec2024 14:38:11.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xqumxvs0la1p]: started parsing
+[13Dec2024 14:38:11.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xqumxvs0la1p]: Consuming argument `light`
+[13Dec2024 14:38:11.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xqumxvs0la1p]: Consuming argument `70%ai`
+[13Dec2024 14:38:11.259] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f60ajokbzmg1]: started parsing
+[13Dec2024 14:38:11.259] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f60ajokbzmg1]: Consuming argument `light`
+[13Dec2024 14:38:11.259] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f60ajokbzmg1]: Consuming argument `70%air`
+[13Dec2024 14:38:12.392] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hhnaf4m2nfia]: started parsing
+[13Dec2024 14:38:12.392] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hhnaf4m2nfia]: Consuming argument `light`
+[13Dec2024 14:38:12.393] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hhnaf4m2nfia]: Consuming argument `70%air,`
+[13Dec2024 14:38:13.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ibvdvdorkbo]: started parsing
+[13Dec2024 14:38:13.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ibvdvdorkbo]: Consuming argument `light`
+[13Dec2024 14:38:13.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ibvdvdorkbo]: Consuming argument `70%air,2`
+[13Dec2024 14:38:13.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02ibvdvdorkbo]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:13.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [199uq69jqil68]: started parsing
+[13Dec2024 14:38:13.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [199uq69jqil68]: Consuming argument `light`
+[13Dec2024 14:38:13.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [199uq69jqil68]: Consuming argument `70%air,20`
+[13Dec2024 14:38:13.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [199uq69jqil68]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:14.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u8aewhlhvnvt]: started parsing
+[13Dec2024 14:38:14.349] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u8aewhlhvnvt]: Consuming argument `light`
+[13Dec2024 14:38:14.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u8aewhlhvnvt]: Consuming argument `70%air,2`
+[13Dec2024 14:38:14.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u8aewhlhvnvt]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:14.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hqmcwga20454]: started parsing
+[13Dec2024 14:38:14.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hqmcwga20454]: Consuming argument `light`
+[13Dec2024 14:38:14.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hqmcwga20454]: Consuming argument `70%air,`
+[13Dec2024 14:38:16.188] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g47qxko1mpbx]: started parsing
+[13Dec2024 14:38:16.188] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g47qxko1mpbx]: Consuming argument `light`
+[13Dec2024 14:38:16.188] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g47qxko1mpbx]: Consuming argument `70%air,3`
+[13Dec2024 14:38:16.188] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g47qxko1mpbx]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:16.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uk2miqhpz68n]: started parsing
+[13Dec2024 14:38:16.287] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uk2miqhpz68n]: Consuming argument `light`
+[13Dec2024 14:38:16.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uk2miqhpz68n]: Consuming argument `70%air,30`
+[13Dec2024 14:38:16.288] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uk2miqhpz68n]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:17.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f2wp4ds05x02]: started parsing
+[13Dec2024 14:38:17.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f2wp4ds05x02]: Consuming argument `light`
+[13Dec2024 14:38:17.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f2wp4ds05x02]: Consuming argument `70%air,30%`
+[13Dec2024 14:38:18.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c8mjgkc5m5kw]: started parsing
+[13Dec2024 14:38:18.790] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c8mjgkc5m5kw]: Consuming argument `light`
+[13Dec2024 14:38:18.791] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c8mjgkc5m5kw]: Consuming argument `70%air,30%l`
+[13Dec2024 14:38:19.061] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03aq50genyqp6]: started parsing
+[13Dec2024 14:38:19.061] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03aq50genyqp6]: Consuming argument `light`
+[13Dec2024 14:38:19.062] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03aq50genyqp6]: Consuming argument `70%air,30%li`
+[13Dec2024 14:38:20.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light 70%air,30%light
+[13Dec2024 14:38:20.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u45p5jh6klqy]: started parsing
+[13Dec2024 14:38:20.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u45p5jh6klqy]: Consuming argument `light`
+[13Dec2024 14:38:20.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u45p5jh6klqy]: Consuming argument `70%air,30%light`
+[13Dec2024 14:38:20.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u45p5jh6klqy]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:20.482] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light 70%air,30%light - Region: (-536, 73, -284) - (-474, 90, -215)
+[13Dec2024 14:38:20.907] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[13Dec2024 14:38:51.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xut4z1vl5aeo]: started parsing
+[13Dec2024 14:38:51.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xut4z1vl5aeo]: Consuming argument `light`
+[13Dec2024 14:38:51.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xut4z1vl5aeo]: Consuming argument `70%air,30%light`
+[13Dec2024 14:38:51.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xut4z1vl5aeo]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:51.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1owod23xhp26m]: started parsing
+[13Dec2024 14:38:51.842] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1owod23xhp26m]: Consuming argument `light`
+[13Dec2024 14:38:51.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1owod23xhp26m]: Consuming argument `70%air,30%light`
+[13Dec2024 14:38:51.843] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1owod23xhp26m]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:54.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n88iwaa2nn43]: started parsing
+[13Dec2024 14:38:54.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n88iwaa2nn43]: Consuming argument `light`
+[13Dec2024 14:38:54.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n88iwaa2nn43]: Consuming argument `70%air,3`
+[13Dec2024 14:38:54.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n88iwaa2nn43]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:55.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06tl3rhduwvqe]: started parsing
+[13Dec2024 14:38:55.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06tl3rhduwvqe]: Consuming argument `light`
+[13Dec2024 14:38:55.478] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06tl3rhduwvqe]: Consuming argument `70%air,`
+[13Dec2024 14:38:55.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08rzmcinfgde2]: started parsing
+[13Dec2024 14:38:55.611] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08rzmcinfgde2]: Consuming argument `light`
+[13Dec2024 14:38:55.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08rzmcinfgde2]: Consuming argument `70%air,1`
+[13Dec2024 14:38:55.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08rzmcinfgde2]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:56.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1orf5vs6b4vrx]: started parsing
+[13Dec2024 14:38:56.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1orf5vs6b4vrx]: Consuming argument `light`
+[13Dec2024 14:38:56.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1orf5vs6b4vrx]: Consuming argument `7`
+[13Dec2024 14:38:56.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1orf5vs6b4vrx]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:57.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04hpmesgix04f]: started parsing
+[13Dec2024 14:38:57.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04hpmesgix04f]: Consuming argument `light`
+[13Dec2024 14:38:57.634] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04hpmesgix04f]: Consuming argument ``
+[13Dec2024 14:38:57.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mmw26vqofgn9]: started parsing
+[13Dec2024 14:38:57.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mmw26vqofgn9]: Consuming argument `light`
+[13Dec2024 14:38:57.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mmw26vqofgn9]: Consuming argument `9`
+[13Dec2024 14:38:57.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mmw26vqofgn9]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:58.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light 90%air,10%light
+[13Dec2024 14:38:58.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08uhas2jh5luk]: started parsing
+[13Dec2024 14:38:58.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08uhas2jh5luk]: Consuming argument `light`
+[13Dec2024 14:38:58.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08uhas2jh5luk]: Consuming argument `90%air,10%light`
+[13Dec2024 14:38:58.829] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08uhas2jh5luk]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:38:58.829] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light 90%air,10%light - Region: (-536, 73, -284) - (-474, 90, -215)
+[13Dec2024 14:39:01.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [105xcyn89lk2w]: started parsing
+[13Dec2024 14:39:01.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [105xcyn89lk2w]: Consuming argument `light`
+[13Dec2024 14:39:01.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [105xcyn89lk2w]: Consuming argument `90%air,10%light`
+[13Dec2024 14:39:01.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [105xcyn89lk2w]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:39:01.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07t2okpvsjzxq]: started parsing
+[13Dec2024 14:39:01.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07t2okpvsjzxq]: Consuming argument `light`
+[13Dec2024 14:39:01.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07t2okpvsjzxq]: Consuming argument `90%air,10%light`
+[13Dec2024 14:39:01.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07t2okpvsjzxq]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:39:02.963] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [191x9dmhubgaa]: started parsing
+[13Dec2024 14:39:02.963] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [191x9dmhubgaa]: Consuming argument `light`
+[13Dec2024 14:39:02.963] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [191x9dmhubgaa]: Consuming argument ``
+[13Dec2024 14:39:03.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y3h4xrao8ygc]: started parsing
+[13Dec2024 14:39:03.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y3h4xrao8ygc]: Consuming argument `light`
+[13Dec2024 14:39:03.435] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y3h4xrao8ygc]: Consuming argument `a`
+[13Dec2024 14:39:03.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jz3pxnuhsmqf]: started parsing
+[13Dec2024 14:39:03.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jz3pxnuhsmqf]: Consuming argument `light`
+[13Dec2024 14:39:03.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jz3pxnuhsmqf]: Consuming argument `ai`
+[13Dec2024 14:39:03.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06cqbazog774t]: started parsing
+[13Dec2024 14:39:03.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06cqbazog774t]: Consuming argument `light`
+[13Dec2024 14:39:03.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06cqbazog774t]: Consuming argument `air`
+[13Dec2024 14:39:03.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06cqbazog774t]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:39:04.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light air
+[13Dec2024 14:39:04.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [138ew33jrrte8]: started parsing
+[13Dec2024 14:39:04.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [138ew33jrrte8]: Consuming argument `light`
+[13Dec2024 14:39:04.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [138ew33jrrte8]: Consuming argument `air`
+[13Dec2024 14:39:04.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [138ew33jrrte8]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:39:04.228] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light air - Region: (-536, 73, -284) - (-474, 90, -215)
+[13Dec2024 14:40:04.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 14:40:04.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 14:40:10.534] [Worker-Main63/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main63 shutdown
+[13Dec2024 14:40:25.582] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main68
+[13Dec2024 14:40:29.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llc3kcg214cy]: started parsing
+[13Dec2024 14:40:29.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llc3kcg214cy]: Consuming argument `light`
+[13Dec2024 14:40:29.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llc3kcg214cy]: Consuming argument `air`
+[13Dec2024 14:40:29.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0llc3kcg214cy]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:29.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b3i35a7kcys8]: started parsing
+[13Dec2024 14:40:29.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b3i35a7kcys8]: Consuming argument `light`
+[13Dec2024 14:40:29.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b3i35a7kcys8]: Consuming argument `air`
+[13Dec2024 14:40:29.124] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b3i35a7kcys8]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:30.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light air
+[13Dec2024 14:40:30.258] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t0nx8qeh8jzy]: started parsing
+[13Dec2024 14:40:30.258] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t0nx8qeh8jzy]: Consuming argument `light`
+[13Dec2024 14:40:30.258] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t0nx8qeh8jzy]: Consuming argument `air`
+[13Dec2024 14:40:30.258] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t0nx8qeh8jzy]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:30.258] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light air - Region: (-537, 62, -215) - (-536, 73, -214)
+[13Dec2024 14:40:38.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seqeqs7ydngo]: started parsing
+[13Dec2024 14:40:38.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seqeqs7ydngo]: Consuming argument `light`
+[13Dec2024 14:40:38.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seqeqs7ydngo]: Consuming argument `air`
+[13Dec2024 14:40:38.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1seqeqs7ydngo]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:38.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09m3ooi79ccjg]: started parsing
+[13Dec2024 14:40:38.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09m3ooi79ccjg]: Consuming argument `light`
+[13Dec2024 14:40:38.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09m3ooi79ccjg]: Consuming argument `air`
+[13Dec2024 14:40:38.011] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09m3ooi79ccjg]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:38.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light air
+[13Dec2024 14:40:38.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecs3mghub939]: started parsing
+[13Dec2024 14:40:38.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecs3mghub939]: Consuming argument `light`
+[13Dec2024 14:40:38.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecs3mghub939]: Consuming argument `air`
+[13Dec2024 14:40:38.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecs3mghub939]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:38.437] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light air - Region: (-537, 50, -215) - (-536, 73, -214)
+[13Dec2024 14:40:52.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17cbh3ba5kjue]: started parsing
+[13Dec2024 14:40:52.705] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17cbh3ba5kjue]: Consuming argument `light`
+[13Dec2024 14:40:52.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17cbh3ba5kjue]: Consuming argument `air`
+[13Dec2024 14:40:52.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17cbh3ba5kjue]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:52.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o39r4qe5mk6w]: started parsing
+[13Dec2024 14:40:52.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o39r4qe5mk6w]: Consuming argument `light`
+[13Dec2024 14:40:52.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o39r4qe5mk6w]: Consuming argument `air`
+[13Dec2024 14:40:52.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o39r4qe5mk6w]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:53.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light air
+[13Dec2024 14:40:53.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a9wiaz21hqs3]: started parsing
+[13Dec2024 14:40:53.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a9wiaz21hqs3]: Consuming argument `light`
+[13Dec2024 14:40:53.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a9wiaz21hqs3]: Consuming argument `air`
+[13Dec2024 14:40:53.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a9wiaz21hqs3]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:53.417] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light air - Region: (-537, 50, -284) - (-472, 90, -214)
+[13Dec2024 14:40:57.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11md6ilfu9d7p]: started parsing
+[13Dec2024 14:40:57.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11md6ilfu9d7p]: Consuming argument `light`
+[13Dec2024 14:40:57.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11md6ilfu9d7p]: Consuming argument `air`
+[13Dec2024 14:40:57.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11md6ilfu9d7p]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:57.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00brqtfafwk4a]: started parsing
+[13Dec2024 14:40:57.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00brqtfafwk4a]: Consuming argument `light`
+[13Dec2024 14:40:57.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00brqtfafwk4a]: Consuming argument `air`
+[13Dec2024 14:40:57.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00brqtfafwk4a]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:58.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mz1fsdcwz3zv]: started parsing
+[13Dec2024 14:40:58.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mz1fsdcwz3zv]: Consuming argument `light`
+[13Dec2024 14:40:58.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mz1fsdcwz3zv]: Consuming argument `90%air,10%light`
+[13Dec2024 14:40:58.119] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mz1fsdcwz3zv]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:40:58.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ofxtvf7mf6lg]: started parsing
+[13Dec2024 14:40:58.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ofxtvf7mf6lg]: Consuming argument `light`
+[13Dec2024 14:40:58.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ofxtvf7mf6lg]: Consuming argument `90%air,10%light`
+[13Dec2024 14:40:58.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ofxtvf7mf6lg]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:01.584] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yxu1erzc37ke]: started parsing
+[13Dec2024 14:41:01.584] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yxu1erzc37ke]: Consuming argument `ligh`
+[13Dec2024 14:41:01.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pf5gqzg5pvko]: started parsing
+[13Dec2024 14:41:01.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pf5gqzg5pvko]: Consuming argument `light`
+[13Dec2024 14:41:02.000] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pf5gqzg5pvko]: Consuming argument ``
+[13Dec2024 14:41:02.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jg7sohaub1w8]: started parsing
+[13Dec2024 14:41:02.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jg7sohaub1w8]: Consuming argument `light`
+[13Dec2024 14:41:02.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jg7sohaub1w8]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:03.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04id5nshjf4jc]: started parsing
+[13Dec2024 14:41:03.099] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04id5nshjf4jc]: Consuming argument ``
+[13Dec2024 14:41:03.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [128u7z2dxbz4e]: started parsing
+[13Dec2024 14:41:03.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [128u7z2dxbz4e]: Consuming argument `a`
+[13Dec2024 14:41:03.492] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e4jsuu7x9pd2]: started parsing
+[13Dec2024 14:41:03.492] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e4jsuu7x9pd2]: Consuming argument `ai`
+[13Dec2024 14:41:03.676] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b65p6j7pmodk]: started parsing
+[13Dec2024 14:41:03.676] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b65p6j7pmodk]: Consuming argument `air`
+[13Dec2024 14:41:03.676] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b65p6j7pmodk]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:03.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace air 90%air,10%light
+[13Dec2024 14:41:03.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fo97uber55e2]: started parsing
+[13Dec2024 14:41:03.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fo97uber55e2]: Consuming argument `air`
+[13Dec2024 14:41:03.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fo97uber55e2]: Consuming argument `90%air,10%light`
+[13Dec2024 14:41:03.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fo97uber55e2]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:03.957] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace air 90%air,10%light - Region: (-537, 50, -284) - (-472, 90, -214)
+[13Dec2024 14:41:06.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0npfelx44r2qu]: started parsing
+[13Dec2024 14:41:06.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0npfelx44r2qu]: Consuming argument `air`
+[13Dec2024 14:41:06.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0npfelx44r2qu]: Consuming argument `90%air,10%light`
+[13Dec2024 14:41:06.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0npfelx44r2qu]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:06.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [057jyxca4h88h]: started parsing
+[13Dec2024 14:41:06.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [057jyxca4h88h]: Consuming argument `air`
+[13Dec2024 14:41:06.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [057jyxca4h88h]: Consuming argument `90%air,10%light`
+[13Dec2024 14:41:06.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [057jyxca4h88h]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:06.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03mxao57ltx29]: started parsing
+[13Dec2024 14:41:06.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03mxao57ltx29]: Consuming argument `light`
+[13Dec2024 14:41:06.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03mxao57ltx29]: Consuming argument `air`
+[13Dec2024 14:41:06.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03mxao57ltx29]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:06.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p4pedtvefb0i]: started parsing
+[13Dec2024 14:41:06.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p4pedtvefb0i]: Consuming argument `light`
+[13Dec2024 14:41:06.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p4pedtvefb0i]: Consuming argument `air`
+[13Dec2024 14:41:06.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p4pedtvefb0i]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:07.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light air
+[13Dec2024 14:41:07.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13dpyxmywh2hl]: started parsing
+[13Dec2024 14:41:07.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13dpyxmywh2hl]: Consuming argument `light`
+[13Dec2024 14:41:07.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13dpyxmywh2hl]: Consuming argument `air`
+[13Dec2024 14:41:07.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13dpyxmywh2hl]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:07.081] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light air - Region: (-537, 50, -284) - (-472, 90, -214)
+[13Dec2024 14:41:08.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [195xh4qo4woj0]: started parsing
+[13Dec2024 14:41:08.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [195xh4qo4woj0]: Consuming argument `light`
+[13Dec2024 14:41:08.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [195xh4qo4woj0]: Consuming argument `air`
+[13Dec2024 14:41:08.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [195xh4qo4woj0]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:08.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gkd5y7wkgy0q]: started parsing
+[13Dec2024 14:41:08.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gkd5y7wkgy0q]: Consuming argument `light`
+[13Dec2024 14:41:08.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gkd5y7wkgy0q]: Consuming argument `air`
+[13Dec2024 14:41:08.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gkd5y7wkgy0q]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:08.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fs1ifr3cd72j]: started parsing
+[13Dec2024 14:41:08.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fs1ifr3cd72j]: Consuming argument `air`
+[13Dec2024 14:41:08.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fs1ifr3cd72j]: Consuming argument `90%air,10%light`
+[13Dec2024 14:41:08.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fs1ifr3cd72j]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:08.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ffataqu7db26]: started parsing
+[13Dec2024 14:41:08.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ffataqu7db26]: Consuming argument `air`
+[13Dec2024 14:41:08.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ffataqu7db26]: Consuming argument `90%air,10%light`
+[13Dec2024 14:41:08.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ffataqu7db26]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:10.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n6c6qyud8lq5]: started parsing
+[13Dec2024 14:41:10.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n6c6qyud8lq5]: Consuming argument `air`
+[13Dec2024 14:41:10.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n6c6qyud8lq5]: Consuming argument `90%air,10`
+[13Dec2024 14:41:10.317] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n6c6qyud8lq5]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:11.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0828sgpuqhoiy]: started parsing
+[13Dec2024 14:41:11.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0828sgpuqhoiy]: Consuming argument `air`
+[13Dec2024 14:41:11.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0828sgpuqhoiy]: Consuming argument `90%air,1`
+[13Dec2024 14:41:11.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0828sgpuqhoiy]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:11.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16nu78gd80h1t]: started parsing
+[13Dec2024 14:41:11.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16nu78gd80h1t]: Consuming argument `air`
+[13Dec2024 14:41:11.601] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16nu78gd80h1t]: Consuming argument `90%air,`
+[13Dec2024 14:41:11.688] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bu65w3e8ky0l]: started parsing
+[13Dec2024 14:41:11.688] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bu65w3e8ky0l]: Consuming argument `air`
+[13Dec2024 14:41:11.688] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bu65w3e8ky0l]: Consuming argument `90%air,1`
+[13Dec2024 14:41:11.688] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bu65w3e8ky0l]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:13.097] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/AbstractMinecart$1
+[13Dec2024 14:41:13.136] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a3vij6346xhm]: started parsing
+[13Dec2024 14:41:13.136] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a3vij6346xhm]: Consuming argument `air`
+[13Dec2024 14:41:13.137] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a3vij6346xhm]: Consuming argument `90`
+[13Dec2024 14:41:13.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fjtr5qhhvh4o]: started parsing
+[13Dec2024 14:41:13.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fjtr5qhhvh4o]: Consuming argument `air`
+[13Dec2024 14:41:13.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fjtr5qhhvh4o]: Consuming argument `9`
+[13Dec2024 14:41:13.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fjtr5qhhvh4o]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:14.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o9xc00kt9cld]: started parsing
+[13Dec2024 14:41:14.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o9xc00kt9cld]: Consuming argument `air`
+[13Dec2024 14:41:14.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o9xc00kt9cld]: Consuming argument `99`
+[13Dec2024 14:41:14.256] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o9xc00kt9cld]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:14.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace air 99%air,1%light
+[13Dec2024 14:41:14.387] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b1epfsmhb1pi]: started parsing
+[13Dec2024 14:41:14.387] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b1epfsmhb1pi]: Consuming argument `air`
+[13Dec2024 14:41:14.387] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b1epfsmhb1pi]: Consuming argument `99%air,1%light`
+[13Dec2024 14:41:14.388] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0b1epfsmhb1pi]: Finished looking at arguments. Finalizing command.
+[13Dec2024 14:41:14.388] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace air 99%air,1%light - Region: (-537, 50, -284) - (-472, 90, -214)
+[13Dec2024 14:41:16.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
+[13Dec2024 14:41:16.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 14:41:28.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set day
+[13Dec2024 14:41:28.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 1000]
+[13Dec2024 14:41:29.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:41:29.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2500 blocks]
+[13Dec2024 14:41:29.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:41:29.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:41:29.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2631 blocks]
+[13Dec2024 14:41:35.733] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> hola
+[13Dec2024 14:42:44.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:42:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:42:47.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:42:47.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:43:17.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:43:17.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:43:20.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set day
+[13Dec2024 14:43:20.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 1000]
+[13Dec2024 14:43:21.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:43:21.104] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[13Dec2024 14:43:55.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2487 blocks]
+[13Dec2024 14:43:55.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2325 blocks]
+[13Dec2024 14:43:55.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:43:55.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2624 blocks]

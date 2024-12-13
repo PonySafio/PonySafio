@@ -1037,3 +1037,72 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 14:33:50.557] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> que nub
 [13Dec2024 14:33:52.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
 [13Dec2024 14:33:52.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 14:34:22.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:34:22.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2500 blocks]
+[13Dec2024 14:34:22.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:34:22.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:34:22.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2631 blocks]
+[13Dec2024 14:34:45.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:34:45.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2500 blocks]
+[13Dec2024 14:34:45.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:34:45.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:34:45.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2631 blocks]
+[13Dec2024 14:35:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 14:35:45.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set night
+[13Dec2024 14:35:45.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 13000]
+[13Dec2024 14:35:56.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set night
+[13Dec2024 14:35:56.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 13000]
+[13Dec2024 14:36:04.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set day
+[13Dec2024 14:36:04.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 1000]
+[13Dec2024 14:36:21.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 14:36:31.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set night
+[13Dec2024 14:36:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 13000]
+[13Dec2024 14:36:32.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:36:32.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2500 blocks]
+[13Dec2024 14:36:32.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:36:32.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:36:32.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2631 blocks]
+[13Dec2024 14:36:36.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:36:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:37:21.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 14:38:20.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light 70%air,30%light
+[13Dec2024 14:38:20.482] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light 70%air,30%light - Region: (-536, 73, -284) - (-474, 90, -215)
+[13Dec2024 14:38:58.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light 90%air,10%light
+[13Dec2024 14:38:58.829] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light 90%air,10%light - Region: (-536, 73, -284) - (-474, 90, -215)
+[13Dec2024 14:39:04.227] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light air
+[13Dec2024 14:39:04.228] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light air - Region: (-536, 73, -284) - (-474, 90, -215)
+[13Dec2024 14:40:30.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light air
+[13Dec2024 14:40:30.258] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light air - Region: (-537, 62, -215) - (-536, 73, -214)
+[13Dec2024 14:40:38.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light air
+[13Dec2024 14:40:38.437] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light air - Region: (-537, 50, -215) - (-536, 73, -214)
+[13Dec2024 14:40:53.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light air
+[13Dec2024 14:40:53.417] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light air - Region: (-537, 50, -284) - (-472, 90, -214)
+[13Dec2024 14:41:03.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace air 90%air,10%light
+[13Dec2024 14:41:03.957] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace air 90%air,10%light - Region: (-537, 50, -284) - (-472, 90, -214)
+[13Dec2024 14:41:07.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace light air
+[13Dec2024 14:41:07.081] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace light air - Region: (-537, 50, -284) - (-472, 90, -214)
+[13Dec2024 14:41:14.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace air 99%air,1%light
+[13Dec2024 14:41:14.388] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace air 99%air,1%light - Region: (-537, 50, -284) - (-472, 90, -214)
+[13Dec2024 14:41:16.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
+[13Dec2024 14:41:16.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 14:41:28.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set day
+[13Dec2024 14:41:28.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 1000]
+[13Dec2024 14:41:29.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:41:29.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2500 blocks]
+[13Dec2024 14:41:29.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2337 blocks]
+[13Dec2024 14:41:29.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:41:29.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2631 blocks]
+[13Dec2024 14:41:35.733] [Async Chat Thread - #13/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> hola
+[13Dec2024 14:42:44.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:42:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:42:47.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:42:47.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:43:17.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set midnight
+[13Dec2024 14:43:17.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 18000]
+[13Dec2024 14:43:20.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set day
+[13Dec2024 14:43:20.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 1000]
+[13Dec2024 14:43:21.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 14:43:55.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2487 blocks]
+[13Dec2024 14:43:55.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2325 blocks]
+[13Dec2024 14:43:55.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 14:43:55.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2624 blocks]
