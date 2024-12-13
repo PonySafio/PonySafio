@@ -524,3 +524,43 @@ Caused by: java.lang.IllegalArgumentException: Could not call moduleReader.list(
 [13Dec2024 17:52:04.542] [Server thread/INFO] [Minecraft/]: [Multiverse-Inventories] First run!
 [13Dec2024 17:53:02.613] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
 [13Dec2024 17:53:02.962] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e2a7e63[id=4dfb16e5-0e7b-32fb-8b84-c5212842a4b1,name=lautaropros,properties={},legacy=false] (/127.199.14.127:59213) lost connection: Disconnected
+[13Dec2024 18:01:26.463] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[13Dec2024 18:01:28.012] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3808c206
+[13Dec2024 18:01:28.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:39763] logged in with entity id 133 at (-635.597649452884, 149.28260265495325, -266.6996035210428)
+[13Dec2024 18:01:28.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[13Dec2024 18:03:26.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100 https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 18:03:34.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100 https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 18:03:45.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playvideo @a 100 https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 18:06:39.396] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> a
+[13Dec2024 18:09:19.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Dec2024 18:09:19.316] [Server thread/INFO] [PlasmoVoice/]: UDP server is stopped
+[13Dec2024 18:09:19.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Dec2024 18:09:19.318] [Server thread/INFO] [Multiverse-Inventories/]: Disabling Multiverse-Inventories v4.2.6
+[13Dec2024 18:09:19.320] [Server thread/INFO] [Shopkeepers/]: Disabling Shopkeepers v2.19.0
+[13Dec2024 18:09:19.326] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.58.1
+[13Dec2024 18:09:19.326] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[13Dec2024 18:09:19.327] [Server thread/INFO] [RedProtect/]: Disabling RedProtect v8.1.2-SNAPSHOT
+[13Dec2024 18:09:19.327] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/DIM1's regions...
+[13Dec2024 18:09:19.327] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/DIM-1's regions...
+[13Dec2024 18:09:19.327] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL's regions...
+[13Dec2024 18:09:19.328] [Server thread/INFO] [Console/]: [RedProtect] Saving DEDSAFIO 3 - By TheNeitorLoL/the_bumblezone/the_bumblezone's regions...
+[13Dec2024 18:09:19.348] [Server thread/INFO] [Console/]: [RedProtect] Unregistering listeners...
+[13Dec2024 18:09:19.348] [Server thread/INFO] [Console/]: [RedProtect] RedProtect v8.1.2-SNAPSHOT turned off...
+[13Dec2024 18:09:19.349] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.14
+[13Dec2024 18:09:19.350] [Server thread/INFO] [ItemEdit/]: Disabling ItemEdit v3.5.5
+[13Dec2024 18:09:19.350] [Server thread/INFO] [StaffPlusPlus/]: Disabling StaffPlusPlus v1.19.42
+[13Dec2024 18:09:19.351] [Server thread/INFO] [StaffPlusPlus/]: Staff++ is now disabling!
+[13Dec2024 18:09:19.351] [Server thread/INFO] [StaffPlusPlus/]: Staff++ disabled!
+[13Dec2024 18:09:19.351] [Server thread/INFO] [ServerVariables/]: Disabling ServerVariables v2.5.3
+[13Dec2024 18:09:19.352] [Server thread/INFO] [Console/]: [ServerVariables] Has been disabled! Version: 2.5.3
+[13Dec2024 18:09:19.352] [Server thread/INFO] [ClearLag/]: Disabling ClearLag v3.2.2
+[13Dec2024 18:09:19.352] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now disabled!
+[13Dec2024 18:09:19.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Dec2024 18:09:19.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Server closed
+[13Dec2024 18:09:19.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game.
+[13Dec2024 18:09:19.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Dec2024 18:09:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]'/minecraft:overworld
+[13Dec2024 18:09:20.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/DIM-1]'/minecraft:the_nether
+[13Dec2024 18:09:20.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/DIM1]'/minecraft:the_end
+[13Dec2024 18:09:20.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/the_bumblezone/the_bumblezone]'/the_bumblezone:the_bumblezone
+[13Dec2024 18:09:25.685] [Exit Thread/INFO] [Arclight/]: 5 threads not shutting down correctly, force exiting
