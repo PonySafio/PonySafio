@@ -7,8 +7,8 @@ disable_crowdin = false
 check_for_updates = true
 
 [host]
-ip = "0.0.0.0"
-port = 0
+ip = "division-expected.gl.joinmc.link"
+port = 25565
 
 [voice]
 # Supported sample rates:

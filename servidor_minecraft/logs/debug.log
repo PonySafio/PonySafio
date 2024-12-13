@@ -5537,3 +5537,37 @@ Caused by: java.lang.IllegalArgumentException: Could not call moduleReader.list(
 [13Dec2024 18:25:58.928] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
 [13Dec2024 18:26:03.336] [Worker-Main14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main14 shutdown
 [13Dec2024 18:26:03.933] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[13Dec2024 18:28:08.913] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[13Dec2024 18:28:08.913] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[13Dec2024 18:28:08.913] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[13Dec2024 18:28:08.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 18:28:08.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 18:28:48.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Zombie]
+[13Dec2024 18:28:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Rotten Flesh]
+[13Dec2024 18:29:04.476] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main21
+[13Dec2024 18:30:04.479] [Worker-Main21/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main21 shutdown
+[13Dec2024 18:30:27.241] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main22
+[13Dec2024 18:32:15.484] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[13Dec2024 18:32:15.485] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[13Dec2024 18:32:15.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[13Dec2024 18:32:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[13Dec2024 18:32:16.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 3 entities]
+[13Dec2024 18:32:16.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 5 entities]
+[13Dec2024 18:32:17.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Cow]
+[13Dec2024 18:32:17.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[13Dec2024 18:32:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[13Dec2024 18:32:18.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[13Dec2024 18:32:22.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[13Dec2024 18:32:22.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[13Dec2024 18:32:43.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[13Dec2024 18:32:43.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 23 entities]
+[13Dec2024 18:32:44.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed Cow]
+[13Dec2024 18:32:44.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[13Dec2024 18:32:44.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 2 entities]
+[13Dec2024 18:32:44.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed 4 entities]
+[13Dec2024 18:33:08.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 18:33:08.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 18:33:15.297] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FaceAttachedHorizontalDirectionalBlock$1
+[13Dec2024 18:34:00.344] [Worker-Main22/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main22 shutdown
+[13Dec2024 18:36:43.927] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[13Dec2024 18:36:43.928] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
