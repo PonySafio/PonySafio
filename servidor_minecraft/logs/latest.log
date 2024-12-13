@@ -1173,3 +1173,29 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 14:53:24.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
 [13Dec2024 14:54:07.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //set smooth_quartz_slab
 [13Dec2024 14:54:07.962] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set smooth_quartz_slab - Region: (-514, 66, -257) - (-504, 66, -246)
+[13Dec2024 14:54:18.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //set smooth_quartz_slab
+[13Dec2024 14:54:18.161] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set smooth_quartz_slab - Region: (-509, 66, -254) - (-498, 66, -245)
+[13Dec2024 14:56:01.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //br sphere cobweb,air 1
+[13Dec2024 14:56:01.033] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /br: /br sphere cobweb,air 1
+[13Dec2024 14:56:34.885] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[13Dec2024 14:56:36.349] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@d640778
+[13Dec2024 14:56:36.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:56315] logged in with entity id 1115 at (-641.0, 143.0, -256.51)
+[13Dec2024 14:56:36.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[13Dec2024 14:56:39.097] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautaropros (18)
+[13Dec2024 14:56:39.098] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautaropros
+[13Dec2024 14:57:20.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /playmusic @a 100 https://www.youtube.com/watch?v=ZfVhF0WHAWA
+[13Dec2024 14:57:31.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[13Dec2024 14:57:31.297] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
+[13Dec2024 14:57:31.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[13Dec2024 15:01:17.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /time set day
+[13Dec2024 15:01:17.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set the time to 1000]
+[13Dec2024 15:01:17.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 15:01:17.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 1 blocks]
+[13Dec2024 15:01:17.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2487 blocks]
+[13Dec2024 15:01:17.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2325 blocks]
+[13Dec2024 15:01:17.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2505 blocks]
+[13Dec2024 15:01:17.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Successfully filled 2624 blocks]
+[13Dec2024 15:01:52.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 15:03:56.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 lost connection: Disconnected
+[13Dec2024 15:03:56.046] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client patata98911
+[13Dec2024 15:03:56.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patata98911 left the game
