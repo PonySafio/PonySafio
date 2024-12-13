@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-13 19:47:57 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:the_bumblezone/wiki": {
     "criteria": {
       "instant_granted": "2024-12-13 19:14:19 +0000"

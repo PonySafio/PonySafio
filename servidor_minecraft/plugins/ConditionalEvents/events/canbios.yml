@@ -11,7 +11,7 @@ Events:
       - 'console_command: summon creeper %entity_x% %entity_y% %entity_z% {powered:1}'
   caida:
     type: player_damage
-    enabled: true
+    enabled: false
     conditions:
     - '%cause% == FALL'
     actions:

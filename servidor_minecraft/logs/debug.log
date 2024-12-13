@@ -6063,3 +6063,124 @@ java.nio.channels.UnresolvedAddressException: null
 [13Dec2024 19:41:34.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:falling 0.1
 [13Dec2024 19:41:41.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:falling 0.01
 [13Dec2024 19:41:43.490] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> una pulga
+[13Dec2024 19:41:48.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:health 1
+[13Dec2024 19:41:56.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:jump_height 0.1
+[13Dec2024 19:41:59.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:jump_height 0.01
+[13Dec2024 19:42:05.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:jump_height 0.1
+[13Dec2024 19:42:11.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give lautaropros stone 3
+[13Dec2024 19:42:11.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gave 3 [Stone] to lautaropros]
+[13Dec2024 19:42:16.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give lautaropros stone 1
+[13Dec2024 19:42:16.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gave 1 [Stone] to lautaropros]
+[13Dec2024 19:42:19.231] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> casi ni se ve XD
+[13Dec2024 19:42:27.648] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 19:42:27.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 3 players]
+[13Dec2024 19:42:40.748] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> se murio XD
+[13Dec2024 19:42:42.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[13Dec2024 19:42:42.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 19:42:49.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:attack_speed 0.1
+[13Dec2024 19:42:53.671] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[13Dec2024 19:42:53.671] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[13Dec2024 19:42:53.672] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[13Dec2024 19:42:53.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 19:42:53.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 19:42:53.683] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[13Dec2024 19:42:57.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 19:42:57.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 19:43:03.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[13Dec2024 19:43:03.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 19:43:06.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:flight 0.1
+[13Dec2024 19:43:15.520] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> cambiando atributos?
+[13Dec2024 19:43:32.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ce reload
+[13Dec2024 19:44:16.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:slowness
+[13Dec2024 19:44:16.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Slowness to patata98911]
+[13Dec2024 19:44:19.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:slowness 100
+[13Dec2024 19:44:19.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Slowness to patata98911]
+[13Dec2024 19:44:24.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:slowness 100 1
+[13Dec2024 19:44:24.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Slowness to patata98911]
+[13Dec2024 19:44:27.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:slowness 100 2
+[13Dec2024 19:44:27.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Slowness to patata98911]
+[13Dec2024 19:44:30.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:slowness 100 20
+[13Dec2024 19:44:30.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Slowness to patata98911]
+[13Dec2024 19:44:33.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:slowness 100 2
+[13Dec2024 19:44:42.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:slowness 100 10
+[13Dec2024 19:44:42.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Slowness to patata98911]
+[13Dec2024 19:44:52.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:slowness 100 5
+[13Dec2024 19:44:52.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Slowness to patata98911]
+[13Dec2024 19:45:00.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:slowness 100 6
+[13Dec2024 19:45:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Slowness to patata98911]
+[13Dec2024 19:45:09.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:slowness 100 5
+[13Dec2024 19:45:09.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Slowness to patata98911]
+[13Dec2024 19:45:23.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp patata98911 lautaropros
+[13Dec2024 19:45:23.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported patata98911 to lautaropros]
+[13Dec2024 19:45:45.441] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> mas pequeño que un pixel??
+[13Dec2024 19:45:51.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.005
+[13Dec2024 19:46:03.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.005
+[13Dec2024 19:46:20.188] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> voy a pasar fotos en disc xd
+[13Dec2024 19:46:25.424] [Worker-Main9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main9 shutdown
+[13Dec2024 19:46:32.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.001
+[13Dec2024 19:46:35.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.001
+[13Dec2024 19:46:38.659] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[13Dec2024 19:46:38.660] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[13Dec2024 19:46:39.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.001
+[13Dec2024 19:46:43.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.001
+[13Dec2024 19:46:45.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.001
+[13Dec2024 19:47:21.175] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main29
+[13Dec2024 19:47:44.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.002
+[13Dec2024 19:47:48.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.001
+[13Dec2024 19:47:50.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.003
+[13Dec2024 19:47:52.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give lautaropros cataclysm:abyssal_burn
+[13Dec2024 19:47:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Abyssal Burn to lautaropros]
+[13Dec2024 19:47:53.669] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[13Dec2024 19:47:53.670] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[13Dec2024 19:47:53.670] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[13Dec2024 19:47:53.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 19:47:53.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 19:47:53.681] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[13Dec2024 19:47:54.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.003
+[13Dec2024 19:47:57.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elreysakura has reached the goal [Postmortal]
+[13Dec2024 19:48:05.289] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> comida
+[13Dec2024 19:48:17.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 100 100
+[13Dec2024 19:48:17.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 3 targets]
+[13Dec2024 19:48:24.329] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> mira disc
+[13Dec2024 19:48:26.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect clear lautaropros
+[13Dec2024 19:48:28.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give lautaropros cataclysm:curse_of_desert
+[13Dec2024 19:48:28.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Curse Of Desert to lautaropros]
+[13Dec2024 19:48:34.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give lautaropros cataclysm:stun
+[13Dec2024 19:48:34.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Stun to lautaropros]
+[13Dec2024 19:48:55.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give Elreysakura minecraft:saturation 20 255
+[13Dec2024 19:48:55.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Saturation to Elreysakura]
+[13Dec2024 19:48:59.685] [Worker-Main29/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main29 shutdown
+[13Dec2024 19:49:07.154] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> la que pase de ultimo
+[13Dec2024 19:49:09.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.009
+[13Dec2024 19:49:14.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.009
+[13Dec2024 19:49:18.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.009
+[13Dec2024 19:49:45.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.001
+[13Dec2024 19:49:53.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.009
+[13Dec2024 19:49:56.446] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main34
+[13Dec2024 19:49:56.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.001
+[13Dec2024 19:50:04.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.0001
+[13Dec2024 19:50:19.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.01
+[13Dec2024 19:50:24.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.09
+[13Dec2024 19:50:27.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.01
+[13Dec2024 19:50:34.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.02
+[13Dec2024 19:50:39.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.02
+[13Dec2024 19:50:49.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 2
+[13Dec2024 19:50:50.142] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> colocate en survival a ver si se le puede pegar
+[13Dec2024 19:50:52.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 02
+[13Dec2024 19:50:58.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 020
+[13Dec2024 19:51:01.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 20
+[13Dec2024 19:51:03.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 200
+[13Dec2024 19:51:07.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0200
+[13Dec2024 19:51:11.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[13Dec2024 19:51:23.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura lost connection: Disconnected
+[13Dec2024 19:51:23.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elreysakura left the game
+[13Dec2024 19:51:34.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill patata98911
+[13Dec2024 19:51:34.329] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 19:51:34.329] [Server thread/INFO] [Console/]: [RedProtect] Player patata98911 damaged by VOID - Running command:
+ - Command: spawn patata98911
+[13Dec2024 19:51:34.330] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 19:51:34.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Showing new actionbar title for 2 players]
+[13Dec2024 19:51:34.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Killed patata98911]
+[13Dec2024 19:51:37.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11600ms or 232 ticks behind
+[13Dec2024 19:51:42.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 2
+[13Dec2024 19:51:44.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 2
