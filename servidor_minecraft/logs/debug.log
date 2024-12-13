@@ -5712,3 +5712,121 @@ Caused by: java.lang.IllegalArgumentException: Could not call moduleReader.list(
 [13Dec2024 18:46:01.428] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
 [13Dec2024 18:46:34.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
 [13Dec2024 18:46:34.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 18:47:26.543] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/level/block/PressurePlateBlockMixin$1
+[13Dec2024 18:47:26.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -593.440000, 92.520000, -303.000000]
+[13Dec2024 18:47:29.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -576.490000, 207.750000, -302.000000]
+[13Dec2024 18:47:31.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -593.440000, 92.520000, -303.000000]
+[13Dec2024 18:47:45.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
+[13Dec2024 18:47:45.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 18:47:49.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported lautaropros to -576.490000, 207.750000, -302.000000]
+[13Dec2024 18:47:55.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported lautaropros to -593.440000, 92.520000, -303.000000]
+[13Dec2024 18:48:03.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported lautaropros to -576.490000, 207.750000, -302.000000]
+[13Dec2024 18:48:08.744] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[13Dec2024 18:48:08.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 18:48:08.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 18:48:17.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
+[13Dec2024 18:48:17.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 18:48:28.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported lautaropros to -576.490000, 207.750000, -302.000000]
+[13Dec2024 18:48:42.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:jump_height 1
+[13Dec2024 18:48:47.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:jump_height 1.5
+[13Dec2024 18:48:56.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:jump_height 1.1
+[13Dec2024 18:49:02.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -576.490000, 207.750000, -302.000000]
+[13Dec2024 18:49:19.103] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/sk89q/worldedit/internal/command/CommandArgParser$1
+[13Dec2024 18:49:19.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pavghngflqtv]: started parsing
+[13Dec2024 18:49:19.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pavghngflqtv]: Consuming argument ``
+[13Dec2024 18:49:19.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06f1imklj42ze]: started parsing
+[13Dec2024 18:49:19.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06f1imklj42ze]: Consuming argument `s`
+[13Dec2024 18:49:19.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cbe7zbwa8qay]: started parsing
+[13Dec2024 18:49:19.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cbe7zbwa8qay]: Consuming argument `st`
+[13Dec2024 18:49:19.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0afe6966n5u4j]: started parsing
+[13Dec2024 18:49:19.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0afe6966n5u4j]: Consuming argument `sto`
+[13Dec2024 18:49:20.170] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rv4289b6kgm6]: started parsing
+[13Dec2024 18:49:20.170] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rv4289b6kgm6]: Consuming argument `ston`
+[13Dec2024 18:49:20.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rzfum17yvgvh]: started parsing
+[13Dec2024 18:49:20.281] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rzfum17yvgvh]: Consuming argument `stone`
+[13Dec2024 18:49:20.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rzfum17yvgvh]: Finished looking at arguments. Finalizing command.
+[13Dec2024 18:49:20.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //set stone
+[13Dec2024 18:49:20.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lfqvqnakueqd]: started parsing
+[13Dec2024 18:49:20.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lfqvqnakueqd]: Consuming argument `stone`
+[13Dec2024 18:49:20.507] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lfqvqnakueqd]: Finished looking at arguments. Finalizing command.
+[13Dec2024 18:49:20.508] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/sk89q/worldedit/internal/command/CommandLoggingHandler$1
+[13Dec2024 18:49:20.509] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set stone - Region: (-565, 202, -266) - (-565, 211, -256)
+[13Dec2024 18:49:20.534] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/sk89q/worldedit/EditSession$4
+[13Dec2024 18:49:20.561] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/PonySafio/servidor_minecraft/mods/worldedit-mod-7.2.12.jar%23209!/com/sk89q/worldedit/world/registry/blocks.119.json for bundled block data.
+[13Dec2024 18:49:20.577] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/sk89q/worldedit/extent/reorder/MultiStageReorder$2
+[13Dec2024 18:49:39.569] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_EmptyContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$EmptyContainer
+[13Dec2024 18:49:39.570] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_InputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$InputContainer
+[13Dec2024 18:49:39.571] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$InputContainer
+[13Dec2024 18:49:39.572] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_OutputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$OutputContainer
+[13Dec2024 18:49:39.573] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$OutputContainer
+[13Dec2024 18:50:42.327] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[13Dec2024 18:50:42.327] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[13Dec2024 18:51:19.127] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 18:51:19.127] [Server thread/INFO] [Console/]: [RedProtect] Player patata98911 damaged by VOID - Running command:
+ - Command: spawn patata98911
+[13Dec2024 18:51:19.142] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class ce/ajneb97/model/internal/ExecutedEvent$2
+[13Dec2024 18:51:19.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 18:51:19.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Showing new actionbar title for 2 players]
+[13Dec2024 18:51:19.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Killed patata98911]
+[13Dec2024 18:51:29.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k8uyv4kxw8hg]: started parsing
+[13Dec2024 18:51:29.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k8uyv4kxw8hg]: Consuming argument `stone`
+[13Dec2024 18:51:29.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k8uyv4kxw8hg]: Finished looking at arguments. Finalizing command.
+[13Dec2024 18:51:29.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16271xzz005at]: started parsing
+[13Dec2024 18:51:29.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16271xzz005at]: Consuming argument `stone`
+[13Dec2024 18:51:29.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16271xzz005at]: Finished looking at arguments. Finalizing command.
+[13Dec2024 18:51:33.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival
+[13Dec2024 18:51:33.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Survival Mode]
+[13Dec2024 18:51:36.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 18:51:36.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 18:51:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to lautaropros]
+[13Dec2024 18:51:56.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival
+[13Dec2024 18:51:56.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Survival Mode]
+[13Dec2024 18:51:58.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to lautaropros]
+[13Dec2024 18:51:59.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to lautaropros]
+[13Dec2024 18:52:00.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[13Dec2024 18:52:00.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 18:52:00.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to lautaropros]
+[13Dec2024 18:52:01.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to lautaropros]
+[13Dec2024 18:52:02.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 18:52:02.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 18:52:03.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to lautaropros]
+[13Dec2024 18:52:04.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to lautaropros]
+[13Dec2024 18:52:04.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 18:52:04.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 2 players]
+[13Dec2024 18:52:13.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival
+[13Dec2024 18:52:13.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Survival Mode]
+[13Dec2024 18:52:14.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[13Dec2024 18:52:14.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 18:52:15.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to patata98911]
+[13Dec2024 18:52:16.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to patata98911]
+[13Dec2024 18:52:16.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 18:52:16.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Showing new actionbar title for 2 players]
+[13Dec2024 18:52:20.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to lautaropros]
+[13Dec2024 18:52:25.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Instant Damage to lautaropros]
+[13Dec2024 18:52:25.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 18:52:25.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 2 players]
+[13Dec2024 18:52:28.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival
+[13Dec2024 18:52:28.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Survival Mode]
+[13Dec2024 18:52:37.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 18:52:37.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 18:52:59.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival
+[13Dec2024 18:52:59.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Survival Mode]
+[13Dec2024 18:53:00.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Mining Fatigue to patata98911]
+[13Dec2024 18:53:03.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[13Dec2024 18:53:03.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 18:53:04.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Applied effect Mining Fatigue to lautaropros]
+[13Dec2024 18:53:08.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 18:53:08.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 18:53:08.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 18:53:08.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 18:53:38.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 18:53:38.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 18:55:23.199] [Worker-Main31/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main31 shutdown
+[13Dec2024 18:56:24.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:water_breathing
+[13Dec2024 18:56:24.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Water Breathing to patata98911]
+[13Dec2024 18:56:29.391] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main37
+[13Dec2024 18:56:33.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros has made the advancement [Stone Age]
+[13Dec2024 18:56:34.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect give patata98911 minecraft:weakness
+[13Dec2024 18:56:34.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Applied effect Weakness to patata98911]
+[13Dec2024 18:56:58.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /effect clear @a
+[13Dec2024 18:56:58.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Removed every effect from 2 targets]

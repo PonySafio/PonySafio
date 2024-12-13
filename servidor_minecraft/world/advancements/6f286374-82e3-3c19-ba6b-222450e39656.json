@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "the_bumblezone:the_bumblezone/sugar_water/obtain_sugar_infused_stones": {
+    "criteria": {
+      "obtain_sugar_infused_cobblestone": "2024-12-13 18:50:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-07 12:02:36 +0000"
@@ -744,6 +750,12 @@
     },
     "done": true
   },
+  "the_bumblezone:the_bumblezone/decor/obtain_all_string_curtains": {
+    "criteria": {
+      "black_string_curtain": "2024-12-13 18:49:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-13 14:29:55 +0000"
@@ -957,6 +969,12 @@
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2024-12-13 13:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-13 18:46:57 +0000"
     },
     "done": true
   },
