@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-13 20:15:29 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:the_bumblezone/wiki": {
     "criteria": {
       "instant_granted": "2024-12-13 19:56:30 +0000"
@@ -29,15 +35,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 20:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-13 20:06:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
-      "in_water": "2024-12-13 20:04:48 +0000"
+      "has_lime_wool": "2024-12-13 20:12:26 +0000"
     },
     "done": true
   },
@@ -77,6 +89,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2024-12-13 20:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 20:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-13 20:04:48 +0000"
@@ -95,6 +119,12 @@
       "minecraft:bamboo_jungle": "2024-12-13 19:56:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2024-12-13 20:12:26 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }
