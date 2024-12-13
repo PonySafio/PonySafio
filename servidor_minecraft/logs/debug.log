@@ -7413,3 +7413,243 @@ java.nio.channels.UnresolvedAddressException: null
 [13Dec2024 20:31:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:ruleta to lautaropros]
 [13Dec2024 20:31:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Played sound minecraft:ruleta to Elreysakura]
 [13Dec2024 20:31:43.530] [Async Chat Thread - #21/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> XD
+[13Dec2024 20:32:30.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:32:30.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:32:34.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode adventure
+[13Dec2024 20:32:34.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Adventure Mode]
+[13Dec2024 20:32:50.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival @a
+[13Dec2024 20:32:50.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 20:32:50.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set Elreysakura's game mode to Survival Mode]
+[13Dec2024 20:33:08.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 20:33:08.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 20:33:11.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 20:33:11.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 20:33:21.521] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> y ahora?
+[13Dec2024 20:33:32.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:33:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:33:33.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:33:33.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:33:52.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:33:52.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:34:01.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:34:01.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:34:11.110] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> te tapo el hueco de aca arriba?
+[13Dec2024 20:34:18.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode creative
+[13Dec2024 20:34:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Creative Mode]
+[13Dec2024 20:34:26.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:34:26.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:34:31.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /function ruleta:animation
+[13Dec2024 20:34:31.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Executed 1666 commands from function 'ruleta:animation']
+[13Dec2024 20:34:36.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /function ruleta:comandos
+[13Dec2024 20:34:36.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Executed 4 commands from function 'ruleta:comandos']
+[13Dec2024 20:34:40.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /function ruleta:muerte
+[13Dec2024 20:34:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Executed 8 commands from function 'ruleta:muerte']
+[13Dec2024 20:34:40.447] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> 1666 comandos? XD
+[13Dec2024 20:35:15.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival Elreysakura
+[13Dec2024 20:35:16.505] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.StopAttackingIfTargetInvalid
+[13Dec2024 20:35:16.516] [Server thread/DEBUG] [mixin/]: Mixing world.level.gameevent.vibrations.VibrationListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.gameevent.vibrations.VibrationListener
+[13Dec2024 20:35:16.761] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/monster/warden/Warden$2
+[13Dec2024 20:35:17.841] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.StartAttackingMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.StartAttacking
+[13Dec2024 20:35:22.410] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 20:35:22.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Showing new actionbar title for 2 players]
+[13Dec2024 20:35:26.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:35:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:35:35.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative @a
+[13Dec2024 20:35:35.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set Elreysakura's game mode to Creative Mode]
+[13Dec2024 20:35:46.260] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[13Dec2024 20:35:46.260] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[13Dec2024 20:35:46.264] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[13Dec2024 20:35:53.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /effect give 4fe9e3ad-8c7a-414e-a49e-a8ea4776ffa2 cataclysm:blessing_of_amethyst 10 1
+[13Dec2024 20:35:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Applied effect Blessing Of Amethyst to Warden]
+[13Dec2024 20:36:02.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ie enchant sharpness 255
+[13Dec2024 20:36:16.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival @a
+[13Dec2024 20:36:16.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 20:36:16.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set Elreysakura's game mode to Survival Mode]
+[13Dec2024 20:36:36.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Elreysakura to -641.000000, 143.560000, -256.510000]
+[13Dec2024 20:36:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Elreysakura to -481.560000, 202.140000, -242.000000]
+[13Dec2024 20:37:19.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /clear @a
+[13Dec2024 20:37:19.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Removed 13 items from 2 players]
+[13Dec2024 20:37:29.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:37:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:37:29.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:37:29.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:37:31.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:37:31.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:37:32.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:37:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:37:32.393] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ItemBaseSteeringMixin from mixins.arclight.core.json into net.minecraft.world.entity.ItemBasedSteering
+[13Dec2024 20:37:33.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:37:33.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:37:33.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:37:33.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:37:34.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:37:34.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:37:34.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:37:34.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:37:35.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:37:35.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:37:35.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:37:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:37:44.200] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> baje la montaña xd
+[13Dec2024 20:37:50.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /tp Elreysakura lautaropros
+[13Dec2024 20:37:50.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Teleported Elreysakura to lautaropros]
+[13Dec2024 20:38:08.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 20:38:08.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 20:38:27.540] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> ?
+[13Dec2024 20:38:34.932] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> como sacar que?
+[13Dec2024 20:38:35.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /op lautaropros
+[13Dec2024 20:38:36.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:38:36.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:38:41.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:38:41.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:38:44.096] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> espera
+[13Dec2024 20:38:51.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /advancement revoke @a everything
+[13Dec2024 20:38:51.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Revoked 1346 advancements from 2 players]
+[13Dec2024 20:39:03.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:06.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:06.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:06.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:06.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:07.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:07.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:07.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:07.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:08.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:08.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:09.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:09.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:09.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:09.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:21.583] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> no hace falta nd mas
+[13Dec2024 20:39:28.744] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> quito op?
+[13Dec2024 20:39:36.673] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[13Dec2024 20:39:37.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /deop lautaropros
+[13Dec2024 20:39:37.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Made lautaropros no longer a server operator]
+[13Dec2024 20:39:39.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /deop Elreysakura
+[13Dec2024 20:39:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Made Elreysakura no longer a server operator]
+[13Dec2024 20:39:41.074] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> listo
+[13Dec2024 20:39:54.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported lautaropros to -641.000000, 143.560000, -256.510000]
+[13Dec2024 20:40:00.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[13Dec2024 20:40:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[13Dec2024 20:40:16.167] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> esto no es zona protegida?
+[13Dec2024 20:41:14.990] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[13Dec2024 20:41:14.994] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[13Dec2024 20:41:15.009] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[13Dec2024 20:41:15.060] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[13Dec2024 20:41:15.109] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[13Dec2024 20:41:15.159] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[13Dec2024 20:41:15.209] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[13Dec2024 20:41:15.259] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[13Dec2024 20:41:15.309] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[13Dec2024 20:41:15.359] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[13Dec2024 20:41:15.409] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [animation_overhaul, watermedia, limitedchunks, playeranimator, octolib, pehkui, nerb, libraryferret, connectivity, modernfix, jei, citadel, alternate_current, yungsapi, plasmovoice, cpm, icterine, mixinextras, myserveriscompatible, lazydfu, starlight, beefix, fpsreducer, videoplayer, memoryleakfix, dungeons_andtaverns_mr, forge, embeddium, rubidium, dungeons_arise, minecraft, smoothchunk, necronomicon, awesomedungeonnether, smoothboot, ksyxis, lionfishapi, armors_d, bobby, fancyvideo_api, notenoughanimations, cataclysm, curios, archaeology, reforgium, bocchium, doespotatotick, immediatelyfast, pluto, better_runtime_resource_pack, architectury, ferritecore, enhancedblockentities, cupboard, the_bumblezone, explosiveenhancement]
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_bumblezone:networking' : Version test of '1' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'videoplayer:network' : Version test of '2' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'armors_d:armors_d' : Version test of '1' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2/installed' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2/service' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'plasmo:voice/v2' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[13Dec2024 20:41:15.429] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[13Dec2024 20:41:15.459] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[13Dec2024 20:41:15.459] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[13Dec2024 20:41:15.459] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.459] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.459] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[13Dec2024 20:41:15.459] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.459] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.510] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[13Dec2024 20:41:15.559] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[13Dec2024 20:41:15.609] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[13Dec2024 20:41:15.659] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[13Dec2024 20:41:15.694] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[13Dec2024 20:41:15.694] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.694] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.696] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[13Dec2024 20:41:15.696] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.696] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.698] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[13Dec2024 20:41:15.698] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.698] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.709] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[13Dec2024 20:41:15.739] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[13Dec2024 20:41:15.739] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.739] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.759] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[13Dec2024 20:41:15.759] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[13Dec2024 20:41:15.759] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.760] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.760] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[13Dec2024 20:41:15.760] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.760] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.760] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[13Dec2024 20:41:15.760] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.760] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.760] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[13Dec2024 20:41:15.760] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.760] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.809] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 16
+[13Dec2024 20:41:15.859] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 17
+[13Dec2024 20:41:15.870] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[13Dec2024 20:41:15.870] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.870] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.871] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[13Dec2024 20:41:15.871] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.871] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.893] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[13Dec2024 20:41:15.894] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:15.894] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:15.909] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[13Dec2024 20:41:15.959] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[13Dec2024 20:41:16.009] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 20
+[13Dec2024 20:41:16.019] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[13Dec2024 20:41:16.019] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:16.019] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:16.059] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 21
+[13Dec2024 20:41:16.059] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[13Dec2024 20:41:16.060] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:16.060] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:16.060] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[13Dec2024 20:41:16.060] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:16.060] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:16.109] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 22
+[13Dec2024 20:41:16.120] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[13Dec2024 20:41:16.120] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:16.120] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:16.516] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[13Dec2024 20:41:16.516] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:16.516] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:16.524] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[13Dec2024 20:41:16.524] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:16.524] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:16.530] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[13Dec2024 20:41:16.530] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:16.530] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:16.532] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[13Dec2024 20:41:16.532] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 20:41:16.532] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 20:41:16.559] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[13Dec2024 20:41:16.610] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5877d1fe
+[13Dec2024 20:41:16.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:42571] logged in with entity id 322 at (-641.0, 143.09584062504456, -256.51)
+[13Dec2024 20:41:16.614] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@5216d85f into net.minecraft.network.Connection@61f2d27c
+[13Dec2024 20:41:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[13Dec2024 20:41:56.265] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[13Dec2024 20:42:07.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ce reload

@@ -50,8 +50,8 @@ Events:
       - 'wait: 10'
       - 'to_all: json_message: ["",{"text":"\u27a4 ","color":"#CD8A15"},
                                {"text":"CAMBIO DE DIFICULTAD:","bold":true,"color":"#CD8A15"},{"text":"\n\n"},
-                               {"text":"Los Botones Ahora hacen 999999 de Daño","color":"#A49169"}]'
-      - 'console_command: ce enable Boton'                         
+                               {"text":"la mobcap a sido aumentada haci que no se confien en el ponysafio","color":"#A49169"}]'
+      - 'console_command: execute as @a at @s run playsound minecraft:ruletasonido voice @s'                         
       morada:
       - 'cancel_event: true'
       - 'console_command: function ruleta:morado'

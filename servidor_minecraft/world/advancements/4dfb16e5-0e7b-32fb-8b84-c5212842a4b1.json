@@ -1,130 +1,33 @@
 {
-  "minecraft:recipes/misc/charcoal": {
+  "dungeons_arise:wda_root": {
     "criteria": {
-      "has_log": "2024-12-13 20:15:29 +0000"
+      "WDA": "2024-12-13 20:38:51 +0000"
     },
     "done": true
   },
   "the_bumblezone:the_bumblezone/wiki": {
     "criteria": {
-      "instant_granted": "2024-12-13 19:56:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-13 20:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-13 20:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_banner": {
-    "criteria": {
-      "has_orange_wool": "2024-12-13 20:06:16 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-13 19:56:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-12-13 20:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2024-12-13 20:06:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_carpet": {
-    "criteria": {
-      "has_lime_wool": "2024-12-13 20:12:26 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-13 19:56:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-13 20:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_bed": {
-    "criteria": {
-      "has_orange_wool": "2024-12-13 20:06:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-13 20:04:48 +0000"
+      "instant_granted": "2024-12-13 20:38:51 +0000"
     },
     "done": true
   },
   "the_bumblezone:the_bumblezone/root": {
     "criteria": {
-      "instant_granted": "2024-12-13 19:56:30 +0000"
+      "instant_granted": "2024-12-13 20:38:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_carpet": {
+  "cataclysm:root": {
     "criteria": {
-      "has_orange_wool": "2024-12-13 20:06:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_banner": {
-    "criteria": {
-      "has_lime_wool": "2024-12-13 20:12:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2024-12-13 20:15:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-12-13 20:04:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-12-13 20:04:48 +0000"
+      "custom_test_name": "2024-12-13 20:38:51 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_ocean": "2024-12-13 19:56:30 +0000",
-      "minecraft:bamboo_jungle": "2024-12-13 19:56:35 +0000"
+      "minecraft:bamboo_jungle": "2024-12-13 20:38:51 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/decorations/lime_bed": {
-    "criteria": {
-      "has_lime_wool": "2024-12-13 20:12:26 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3120
 }

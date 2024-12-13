@@ -1271,3 +1271,115 @@ java.nio.channels.UnresolvedAddressException: null
 [13Dec2024 20:31:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Played sound minecraft:ruleta to lautaropros]
 [13Dec2024 20:31:33.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Played sound minecraft:ruleta to Elreysakura]
 [13Dec2024 20:31:43.530] [Async Chat Thread - #21/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> XD
+[13Dec2024 20:32:30.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:32:30.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:32:34.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode adventure
+[13Dec2024 20:32:34.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Adventure Mode]
+[13Dec2024 20:32:50.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival @a
+[13Dec2024 20:32:50.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 20:32:50.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set Elreysakura's game mode to Survival Mode]
+[13Dec2024 20:33:11.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 20:33:11.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 20:33:21.521] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> y ahora?
+[13Dec2024 20:33:32.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:33:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:33:33.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:33:33.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:33:52.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:33:52.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:34:01.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:34:01.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:34:11.110] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> te tapo el hueco de aca arriba?
+[13Dec2024 20:34:18.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode creative
+[13Dec2024 20:34:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Creative Mode]
+[13Dec2024 20:34:26.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:34:26.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:34:31.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /function ruleta:animation
+[13Dec2024 20:34:31.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Executed 1666 commands from function 'ruleta:animation']
+[13Dec2024 20:34:36.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /function ruleta:comandos
+[13Dec2024 20:34:36.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Executed 4 commands from function 'ruleta:comandos']
+[13Dec2024 20:34:40.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /function ruleta:muerte
+[13Dec2024 20:34:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Executed 8 commands from function 'ruleta:muerte']
+[13Dec2024 20:34:40.447] [Async Chat Thread - #22/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> 1666 comandos? XD
+[13Dec2024 20:35:15.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival Elreysakura
+[13Dec2024 20:35:22.410] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 20:35:22.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Showing new actionbar title for 2 players]
+[13Dec2024 20:35:26.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:35:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:35:35.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative @a
+[13Dec2024 20:35:35.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set Elreysakura's game mode to Creative Mode]
+[13Dec2024 20:35:53.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /effect give 4fe9e3ad-8c7a-414e-a49e-a8ea4776ffa2 cataclysm:blessing_of_amethyst 10 1
+[13Dec2024 20:35:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Applied effect Blessing Of Amethyst to Warden]
+[13Dec2024 20:36:02.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ie enchant sharpness 255
+[13Dec2024 20:36:16.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival @a
+[13Dec2024 20:36:16.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 20:36:16.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set Elreysakura's game mode to Survival Mode]
+[13Dec2024 20:36:36.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Elreysakura to -641.000000, 143.560000, -256.510000]
+[13Dec2024 20:36:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Elreysakura to -481.560000, 202.140000, -242.000000]
+[13Dec2024 20:37:19.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /clear @a
+[13Dec2024 20:37:19.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Removed 13 items from 2 players]
+[13Dec2024 20:37:29.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:37:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:37:29.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:37:29.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:37:31.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:37:31.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:37:32.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:37:32.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:37:33.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:37:33.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:37:33.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:37:33.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:37:34.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:37:34.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:37:34.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:37:34.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:37:35.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:37:35.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:37:35.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:37:35.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:37:44.200] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> baje la montaña xd
+[13Dec2024 20:37:50.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /tp Elreysakura lautaropros
+[13Dec2024 20:37:50.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Teleported Elreysakura to lautaropros]
+[13Dec2024 20:38:27.540] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> ?
+[13Dec2024 20:38:34.932] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> como sacar que?
+[13Dec2024 20:38:35.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /op lautaropros
+[13Dec2024 20:38:36.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode spectator
+[13Dec2024 20:38:36.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Spectator Mode]
+[13Dec2024 20:38:41.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /gamemode survival
+[13Dec2024 20:38:41.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Set own game mode to Survival Mode]
+[13Dec2024 20:38:44.096] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> espera
+[13Dec2024 20:38:51.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /advancement revoke @a everything
+[13Dec2024 20:38:51.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Revoked 1346 advancements from 2 players]
+[13Dec2024 20:39:03.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:06.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:06.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:06.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:06.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:07.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:07.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:07.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:07.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:08.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:08.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:09.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:09.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:09.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give @a minecraft:saturation 1 100
+[13Dec2024 20:39:09.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to 2 targets]
+[13Dec2024 20:39:21.583] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> no hace falta nd mas
+[13Dec2024 20:39:28.744] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> quito op?
+[13Dec2024 20:39:37.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /deop lautaropros
+[13Dec2024 20:39:37.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Made lautaropros no longer a server operator]
+[13Dec2024 20:39:39.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura issued server command: /deop Elreysakura
+[13Dec2024 20:39:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Made Elreysakura no longer a server operator]
+[13Dec2024 20:39:41.074] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> listo
+[13Dec2024 20:39:54.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported lautaropros to -641.000000, 143.560000, -256.510000]
+[13Dec2024 20:40:00.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[13Dec2024 20:40:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[13Dec2024 20:40:16.167] [Async Chat Thread - #23/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> esto no es zona protegida?
+[13Dec2024 20:41:14.994] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[13Dec2024 20:41:16.610] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5877d1fe
+[13Dec2024 20:41:16.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:42571] logged in with entity id 322 at (-641.0, 143.09584062504456, -256.51)
+[13Dec2024 20:41:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[13Dec2024 20:42:07.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ce reload
