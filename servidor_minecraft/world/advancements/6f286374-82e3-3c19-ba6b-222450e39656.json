@@ -17,6 +17,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-12-13 13:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-13 13:54:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2024-12-13 13:38:56 +0000"
@@ -71,9 +89,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-07 12:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:54:46 +0000"
     },
     "done": true
   },
@@ -110,6 +140,18 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-13 13:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-12-13 13:54:30 +0000"
     },
     "done": true
   },
@@ -161,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2024-12-13 13:38:56 +0000"
@@ -194,6 +242,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-07 12:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:54:46 +0000"
     },
     "done": true
   },
@@ -233,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2024-12-13 13:24:54 +0000"
@@ -263,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-13 13:54:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-07 12:50:50 +0000"
@@ -287,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2024-12-13 13:54:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2024-12-13 13:46:05 +0000"
@@ -296,6 +368,12 @@
   "the_bumblezone:the_bumblezone/root": {
     "criteria": {
       "instant_granted": "2024-12-07 11:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2024-12-13 13:54:30 +0000"
     },
     "done": true
   },
@@ -375,6 +453,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2024-12-13 13:24:53 +0000"
@@ -432,6 +516,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-07 12:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-13 13:54:30 +0000"
     },
     "done": true
   },
@@ -550,6 +640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-13 13:54:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-07 12:02:36 +0000"
@@ -571,6 +667,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-12-13 13:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:54:46 +0000"
     },
     "done": true
   },

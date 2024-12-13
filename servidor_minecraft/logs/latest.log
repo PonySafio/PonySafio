@@ -726,3 +726,169 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 13:50:20.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give @a minecraft:totem_of_undying [max_stack_size=99] 64
 [13Dec2024 13:50:59.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give @s minecraft:totem_of_undying [max_stack_size=99] 64
 [13Dec2024 13:51:03.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give @s minecraft:totem_of_undying[max_stack_size=99] 64
+[13Dec2024 13:53:47.921] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> puse nuevo plugin
+[13Dec2024 13:54:00.928] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> para los items customs
+[13Dec2024 13:54:32.420] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> a ok
+[13Dec2024 13:54:36.817] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> sal mierda
+[13Dec2024 13:54:43.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival lautaropros
+[13Dec2024 13:54:43.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set lautaropros's game mode to Survival Mode]
+[13Dec2024 13:54:45.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 13:54:45.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 3 players]
+[13Dec2024 13:54:48.732] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> xd
+[13Dec2024 13:54:53.842] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> nigga
+[13Dec2024 13:54:59.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival URIELPOR2022
+[13Dec2024 13:54:59.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set URIELPOR2022's game mode to Survival Mode]
+[13Dec2024 13:55:04.414] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> i am adolf kikler
+[13Dec2024 13:55:17.830] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> amigo activa pvp en el server
+[13Dec2024 13:55:18.848] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> no ai pevepe
+[13Dec2024 13:55:21.366] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> pero
+[13Dec2024 13:55:46.167] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> listo
+[13Dec2024 13:56:22.320] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> ya me reviven?
+[13Dec2024 13:56:28.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival lautaropros
+[13Dec2024 13:56:28.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set lautaropros's game mode to Survival Mode]
+[13Dec2024 13:56:32.407] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> ya
+[13Dec2024 13:56:42.076] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> casi me matas otra vel
+[13Dec2024 13:56:46.860] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> xd
+[13Dec2024 14:00:21.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /setworldspawn -534 203 -267
+[13Dec2024 14:00:21.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set the world spawn point to -534, 203, -267 [0.0]]
+[13Dec2024 14:02:31.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 14:02:31.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 3 players]
+[13Dec2024 14:02:36.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 14:02:36.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 14:02:38.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival lautaropros
+[13Dec2024 14:02:38.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set lautaropros's game mode to Survival Mode]
+[13Dec2024 14:02:57.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 14:02:57.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 14:03:09.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /spawnpoint @a -534 203 -267
+[13Dec2024 14:03:09.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set spawn point to -534, 203, -267 [0.0] in minecraft:overworld for 3 players]
+[13Dec2024 14:03:15.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[13Dec2024 14:03:15.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 14:03:37.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros 0 0 0
+[13Dec2024 14:03:37.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to 0.500000, 0.000000, 0.500000]
+[13Dec2024 14:03:37.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.5
+[13Dec2024 14:03:41.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[13Dec2024 14:03:41.998] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
+[13Dec2024 14:03:42.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[13Dec2024 14:03:45.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.5
+[13Dec2024 14:03:49.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.2
+[13Dec2024 14:03:50.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 14:03:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 14:03:57.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 14:04:00.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 14:04:04.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 14:04:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 14:04:09.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 14:04:21.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 14:05:09.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.4
+[13Dec2024 14:05:14.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.5
+[13Dec2024 14:05:21.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.5
+[13Dec2024 14:05:24.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 14:05:32.360] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[13Dec2024 14:05:33.851] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45864631
+[13Dec2024 14:05:33.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:57491] logged in with entity id 837 at (0.5, 0.0, 0.5)
+[13Dec2024 14:05:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[13Dec2024 14:05:36.464] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautaropros (18)
+[13Dec2024 14:05:36.464] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautaropros
+[13Dec2024 14:05:44.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 14:05:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 3 players]
+[13Dec2024 14:05:59.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros 0 ~ 0
+[13Dec2024 14:06:00.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to 0.500000, 207.605668, 0.500000]
+[13Dec2024 14:06:02.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[13Dec2024 14:06:02.147] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
+[13Dec2024 14:06:02.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
+[13Dec2024 14:07:20.578] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[13Dec2024 14:07:22.000] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4057acfa
+[13Dec2024 14:07:22.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:53593] logged in with entity id 905 at (0.5, 207.60566846852552, 0.5)
+[13Dec2024 14:07:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[13Dec2024 14:07:24.019] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautaropros (18)
+[13Dec2024 14:07:24.019] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautaropros
+[13Dec2024 14:08:02.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill ~1 ~ ~1 ~10 ~5 ~10 minecraft:stone
+[13Dec2024 14:08:02.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 600 blocks]
+[13Dec2024 14:08:13.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill ~2 ~ ~2 ~9 ~4 ~9 minecraft:glass
+[13Dec2024 14:08:13.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 320 blocks]
+[13Dec2024 14:08:30.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //set air
+[13Dec2024 14:08:30.512] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set air - Region: (-511, 62, -254) - (-499, 72, -240)
+[13Dec2024 14:08:35.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill ~1 ~ ~1 ~10 ~5 ~10 minecraft:stone
+[13Dec2024 14:08:35.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 600 blocks]
+[13Dec2024 14:08:38.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill ~2 ~ ~2 ~9 ~4 ~9 minecraft:glass
+[13Dec2024 14:08:38.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 320 blocks]
+[13Dec2024 14:08:41.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill ~2 ~ ~2 ~9 ~4 ~9 minecraft:glass
+[13Dec2024 14:08:56.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill ~3 ~ ~3 ~8 ~3 ~8 minecraft:oak_planks
+[13Dec2024 14:08:56.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 144 blocks]
+[13Dec2024 14:09:09.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /fill ~5 ~ ~5 ~6 ~1 ~6 minecraft:quartz_block
+[13Dec2024 14:09:09.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Successfully filled 8 blocks]
+[13Dec2024 14:09:40.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //replace air light
+[13Dec2024 14:09:40.010] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace air light - Region: (-519, 60, -278) - (-480, 71, -235)
+[13Dec2024 14:09:42.685] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <URIELPOR2022> kikeame patata98911
+[13Dec2024 14:09:45.452] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <URIELPOR2022> lautaropros
+[13Dec2024 14:09:49.360] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <URIELPOR2022> porfa
+[13Dec2024 14:09:51.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /kick URIELPOR2022
+[13Dec2024 14:09:51.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: URIELPOR2022 lost connection: Kicked by an operator
+[13Dec2024 14:09:51.329] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client URIELPOR2022
+[13Dec2024 14:09:51.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 left the game.
+[13Dec2024 14:09:51.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Kicked URIELPOR2022: Kicked by an operator]
+[13Dec2024 14:09:56.453] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player URIELPOR2022 is 7b4bfabb-632c-3277-9d70-11607ec58ded
+[13Dec2024 14:09:57.901] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3cb35c08
+[13Dec2024 14:09:57.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: URIELPOR2022[/127.199.14.127:45701] logged in with entity id 913 at (-553.1634475551014, 203.0, -266.15269300576614)
+[13Dec2024 14:09:57.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 joined the game
+[13Dec2024 14:09:58.167] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of URIELPOR2022 (18)
+[13Dec2024 14:09:58.167] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to URIELPOR2022
+[13Dec2024 14:10:00.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /kick URIELPOR2022
+[13Dec2024 14:10:00.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: URIELPOR2022 lost connection: Kicked by an operator
+[13Dec2024 14:10:00.279] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client URIELPOR2022
+[13Dec2024 14:10:00.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 left the game.
+[13Dec2024 14:10:00.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Kicked URIELPOR2022: Kicked by an operator]
+[13Dec2024 14:10:02.721] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player URIELPOR2022 is 7b4bfabb-632c-3277-9d70-11607ec58ded
+[13Dec2024 14:10:04.151] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@713fd7e0
+[13Dec2024 14:10:04.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: URIELPOR2022[/127.199.14.127:42069] logged in with entity id 914 at (-553.1634475551014, 203.0, -266.15269300576614)
+[13Dec2024 14:10:04.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 joined the game
+[13Dec2024 14:10:04.397] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of URIELPOR2022 (18)
+[13Dec2024 14:10:04.397] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to URIELPOR2022
+[13Dec2024 14:10:13.922] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <URIELPOR2022> a lautaropros que se me bugeo
+[13Dec2024 14:10:14.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //set air
+[13Dec2024 14:10:14.308] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set air - Region: (-511, 61, -258) - (-502, 66, -249)
+[13Dec2024 14:10:23.175] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <URIELPOR2022> me aparece cargando el terreno
+[13Dec2024 14:10:25.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /kick URIELPOR2022 por travesti
+[13Dec2024 14:10:25.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: URIELPOR2022 lost connection: por travesti
+[13Dec2024 14:10:25.948] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client URIELPOR2022
+[13Dec2024 14:10:25.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 left the game.
+[13Dec2024 14:10:25.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Kicked URIELPOR2022: por travesti]
+[13Dec2024 14:10:28.927] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player URIELPOR2022 is 7b4bfabb-632c-3277-9d70-11607ec58ded
+[13Dec2024 14:10:30.399] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@705a1a71
+[13Dec2024 14:10:30.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: URIELPOR2022[/127.199.14.127:38167] logged in with entity id 918 at (-553.1634475551014, 203.0, -266.15269300576614)
+[13Dec2024 14:10:30.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 joined the game
+[13Dec2024 14:10:30.641] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of URIELPOR2022 (18)
+[13Dec2024 14:10:30.642] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to URIELPOR2022
+[13Dec2024 14:10:42.243] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <URIELPOR2022> travesti sos vos amigo soy lautaropros
+[13Dec2024 14:10:53.075] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> ke
+[13Dec2024 14:10:58.512] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <URIELPOR2022> pero en la cuenta de uri deciendote que me kikes de mi cuenta
+[13Dec2024 14:11:06.385] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <URIELPOR2022> inutil mental sete cae la vava
+[13Dec2024 14:11:08.422] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> ahh
+[13Dec2024 14:11:25.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /kick URIELPOR2022 se te cae la vavita
+[13Dec2024 14:11:25.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: URIELPOR2022 lost connection: se te cae la vavita
+[13Dec2024 14:11:25.155] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client URIELPOR2022
+[13Dec2024 14:11:25.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 left the game.
+[13Dec2024 14:11:25.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Kicked URIELPOR2022: se te cae la vavita]
+[13Dec2024 14:11:47.362] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player URIELPOR2022 is 7b4bfabb-632c-3277-9d70-11607ec58ded
+[13Dec2024 14:11:48.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: //set moss_block,grass_block
+[13Dec2024 14:11:48.782] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: patata98911 (in "DEDSAFIO 3 - By TheNeitorLoL"): /set: /set moss_block,grass_block - Region: (-523, 60, -263) - (-486, 60, -225)
+[13Dec2024 14:11:48.806] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@167d6983
+[13Dec2024 14:11:48.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: URIELPOR2022[/127.199.14.127:35051] logged in with entity id 928 at (-554.1829160441181, 203.0, -263.0644358147784)
+[13Dec2024 14:11:48.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 joined the game
+[13Dec2024 14:11:49.038] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of URIELPOR2022 (18)
+[13Dec2024 14:11:49.038] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to URIELPOR2022
+[13Dec2024 14:11:56.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /kick lautaropros
+[13Dec2024 14:11:56.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Kicked by an operator
+[13Dec2024 14:11:56.154] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
+[13Dec2024 14:11:56.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game.
+[13Dec2024 14:11:56.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Kicked lautaropros: Kicked by an operator]
+[13Dec2024 14:11:56.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /kick lautaropros
+[13Dec2024 14:12:03.008] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[13Dec2024 14:12:04.448] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@310dbd3b
+[13Dec2024 14:12:04.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:56849] logged in with entity id 929 at (0.5, 207.60566846852552, 0.5)
+[13Dec2024 14:12:04.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[13Dec2024 14:12:04.817] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautaropros (18)
+[13Dec2024 14:12:04.818] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautaropros
+[13Dec2024 14:12:25.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: Disconnected
+[13Dec2024 14:12:25.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
+[13Dec2024 14:12:25.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game
