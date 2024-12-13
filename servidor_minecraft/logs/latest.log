@@ -511,3 +511,101 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 13:22:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Executed 3 commands from function 'ruleta:verde'
 [13Dec2024 13:23:24.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give lautaropros minecraft:totem_of_undying 10
 [13Dec2024 13:23:24.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gave 10 [Totem of Undying] to lautaropros]
+[13Dec2024 13:24:24.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ruleta verde
+[13Dec2024 13:24:24.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Executed 3 commands from function 'ruleta:verde'
+[13Dec2024 13:24:32.195] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> che no aparece el mod de las nutrias
+[13Dec2024 13:25:03.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill lautaropros
+[13Dec2024 13:25:03.511] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 13:25:03.511] [Server thread/INFO] [Console/]: [RedProtect] Player lautaropros damaged by VOID - Running command:
+ - Command: spawn lautaropros
+[13Dec2024 13:25:03.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 13:25:03.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 2 players]
+[13Dec2024 13:25:03.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Killed lautaropros]
+[13Dec2024 13:25:07.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 13:25:07.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 13:26:14.390] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> lauti
+[13Dec2024 13:26:18.913] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> si?
+[13Dec2024 13:26:20.537] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> no aparece el mod de las nutrias
+[13Dec2024 13:26:25.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode spectator
+[13Dec2024 13:26:25.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Spectator Mode]
+[13Dec2024 13:26:26.778] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> porque no la puse
+[13Dec2024 13:26:33.292] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> que
+[13Dec2024 13:26:40.112] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> el mod
+[13Dec2024 13:26:43.421] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> x ?
+[13Dec2024 13:26:44.574] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> tampoco
+[13Dec2024 13:26:54.989] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> nose se me olvido
+[13Dec2024 13:27:04.444] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> dale, añadilo
+[13Dec2024 13:27:22.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 13:27:22.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 13:27:22.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace barrier stone
+[13Dec2024 13:27:22.676] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace barrier stone - Region: (-566, 202, -270) - (-554, 213, -252)
+[13Dec2024 13:27:54.659] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> dale, añadilo
+[13Dec2024 13:27:58.078] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> perdon
+[13Dec2024 13:27:58.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp @p -513.54 141.50 -268.36
+[13Dec2024 13:27:58.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 13:27:59.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace barrier wood
+[13Dec2024 13:28:09.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode spectator
+[13Dec2024 13:28:09.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Spectator Mode]
+[13Dec2024 13:28:23.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 13:28:23.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 13:28:41.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp @p -503.40 61.00 -236.69
+[13Dec2024 13:28:41.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 13:28:44.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp @p -503.40 61.00 -236.69
+[13Dec2024 13:28:44.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 13:28:57.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 13:29:15.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace barrier minecraft:acacia_log
+[13Dec2024 13:29:15.418] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace barrier minecraft:acacia_log - Region: (-544, 202, -271) - (-530, 209, -261)
+[13Dec2024 13:29:35.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.5
+[13Dec2024 13:29:47.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.5
+[13Dec2024 13:29:48.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace acacia_log stone
+[13Dec2024 13:29:48.113] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace acacia_log stone - Region: (-544, 202, -271) - (-530, 209, -261)
+[13Dec2024 13:29:55.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.2
+[13Dec2024 13:29:56.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 13:29:57.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace acacia_log air
+[13Dec2024 13:29:57.841] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace acacia_log air - Region: (-544, 202, -271) - (-530, 209, -261)
+[13Dec2024 13:30:06.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace stone air
+[13Dec2024 13:30:06.608] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace stone air - Region: (-544, 202, -271) - (-530, 209, -261)
+[13Dec2024 13:30:20.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp lautaropros
+[13Dec2024 13:30:20.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported patata98911 to lautaropros]
+[13Dec2024 13:30:30.648] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> hol
+[13Dec2024 13:30:30.802] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> Pddidi?
+[13Dec2024 13:30:33.131] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> si
+[13Dec2024 13:30:38.065] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> te voy a tocar
+[13Dec2024 13:30:52.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.01
+[13Dec2024 13:31:05.363] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> LAUTI SOY DON RAMON
+[13Dec2024 13:31:19.518] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> nuevo totem
+[13Dec2024 13:31:25.425] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> A ver
+[13Dec2024 13:31:33.255] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> desaparece
+[13Dec2024 13:31:36.113] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> che por que no le veo la textura ?
+[13Dec2024 13:31:37.470] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> esta bug
+[13Dec2024 13:31:47.797] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> para lo arreglo cosa mia
+[13Dec2024 13:31:58.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival
+[13Dec2024 13:31:58.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Survival Mode]
+[13Dec2024 13:32:00.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patata98911 has reached the goal [Postmortal]
+[13Dec2024 13:32:07.959] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> igual ahora no importa porque no tiene funcion
+[13Dec2024 13:32:15.356] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> ok
+[13Dec2024 13:32:20.814] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> pero la tengo que poner
+[13Dec2024 13:32:24.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.2
+[13Dec2024 13:32:28.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.2
+[13Dec2024 13:32:30.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[13Dec2024 13:32:30.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 13:32:37.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.2
+[13Dec2024 13:32:48.383] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> ME CONSUMEN
+[13Dec2024 13:32:51.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.1
+[13Dec2024 13:32:54.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.01
+[13Dec2024 13:32:56.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.001
+[13Dec2024 13:32:59.993] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> no se te nota
+[13Dec2024 13:33:11.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.2
+[13Dec2024 13:33:13.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /team leave lautaropros
+[13Dec2024 13:33:13.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Removed lautaropros from any team]
+[13Dec2024 13:33:13.960] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player URIELPOR2022 is 7b4bfabb-632c-3277-9d70-11607ec58ded
+[13Dec2024 13:33:14.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.001
+[13Dec2024 13:33:15.448] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66190158
+[13Dec2024 13:33:15.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: URIELPOR2022[/127.199.14.127:34619] logged in with entity id 180 at (-499.9672428768595, 64.1264939920681, -235.11058778736862)
+[13Dec2024 13:33:15.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 joined the game
+[13Dec2024 13:33:16.173] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of URIELPOR2022 (18)
+[13Dec2024 13:33:16.173] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to URIELPOR2022
+[13Dec2024 13:33:24.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /team list
+[13Dec2024 13:33:25.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.2
+[13Dec2024 13:33:26.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /team list
+[13Dec2024 13:33:29.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 2

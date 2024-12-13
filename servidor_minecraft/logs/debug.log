@@ -3626,3 +3626,712 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 13:23:07.482] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/inventory/RepairContainerMixin$1
 [13Dec2024 13:23:24.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give lautaropros minecraft:totem_of_undying 10
 [13Dec2024 13:23:24.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gave 10 [Totem of Undying] to lautaropros]
+[13Dec2024 13:23:49.298] [IO-Worker-9/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-10
+[13Dec2024 13:23:49.747] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.GrindstoneContainer1Mixin from mixins.arclight.core.json into net.minecraft.world.inventory.GrindstoneMenu$1
+[13Dec2024 13:23:51.049] [Server thread/DEBUG] [mixin/]: Mixing compat117plus.ProjectileUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.projectile.ProjectileUtil
+[13Dec2024 13:23:51.050] [Server thread/DEBUG] [mixin/]: Mixing compat119minus.compat116plus.ProjectileUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.projectile.ProjectileUtil
+[13Dec2024 13:24:24.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ruleta verde
+[13Dec2024 13:24:24.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Executed 3 commands from function 'ruleta:verde'
+[13Dec2024 13:24:29.660] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/FaceAttachedHorizontalDirectionalBlock$1
+[13Dec2024 13:24:32.195] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> che no aparece el mod de las nutrias
+[13Dec2024 13:25:03.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill lautaropros
+[13Dec2024 13:25:03.511] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 13:25:03.511] [Server thread/INFO] [Console/]: [RedProtect] Player lautaropros damaged by VOID - Running command:
+ - Command: spawn lautaropros
+[13Dec2024 13:25:03.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 13:25:03.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 2 players]
+[13Dec2024 13:25:03.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Killed lautaropros]
+[13Dec2024 13:25:04.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 13:25:04.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 13:25:07.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 13:25:07.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 13:26:10.597] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/level/block/PressurePlateBlockMixin$1
+[13Dec2024 13:26:14.390] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> lauti
+[13Dec2024 13:26:18.913] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> si?
+[13Dec2024 13:26:20.537] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> no aparece el mod de las nutrias
+[13Dec2024 13:26:25.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode spectator
+[13Dec2024 13:26:25.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Spectator Mode]
+[13Dec2024 13:26:26.778] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> porque no la puse
+[13Dec2024 13:26:33.292] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> que
+[13Dec2024 13:26:40.112] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> el mod
+[13Dec2024 13:26:43.421] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> x ?
+[13Dec2024 13:26:44.574] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> tampoco
+[13Dec2024 13:26:54.989] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> nose se me olvido
+[13Dec2024 13:27:04.444] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> dale, añadilo
+[13Dec2024 13:27:13.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tdeo0phg751n]: started parsing
+[13Dec2024 13:27:13.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tdeo0phg751n]: Consuming argument ``
+[13Dec2024 13:27:15.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m1kcx0qzhadi]: started parsing
+[13Dec2024 13:27:15.768] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m1kcx0qzhadi]: Consuming argument `b`
+[13Dec2024 13:27:15.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vnnycx5jpj13]: started parsing
+[13Dec2024 13:27:15.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vnnycx5jpj13]: Consuming argument `ba`
+[13Dec2024 13:27:18.302] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ky8cnlqsf4br]: started parsing
+[13Dec2024 13:27:18.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ky8cnlqsf4br]: Consuming argument `barrier`
+[13Dec2024 13:27:18.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ky8cnlqsf4br]: Consuming argument ``
+[13Dec2024 13:27:21.190] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w33zm239uxpx]: started parsing
+[13Dec2024 13:27:21.190] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w33zm239uxpx]: Consuming argument `barrier`
+[13Dec2024 13:27:21.191] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w33zm239uxpx]: Consuming argument `s`
+[13Dec2024 13:27:21.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w3ngse0aw3zg]: started parsing
+[13Dec2024 13:27:21.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w3ngse0aw3zg]: Consuming argument `barrier`
+[13Dec2024 13:27:21.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w3ngse0aw3zg]: Consuming argument `st`
+[13Dec2024 13:27:21.874] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0todmuyc0a3tr]: started parsing
+[13Dec2024 13:27:21.874] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0todmuyc0a3tr]: Consuming argument `barrier`
+[13Dec2024 13:27:21.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0todmuyc0a3tr]: Consuming argument `sto`
+[13Dec2024 13:27:22.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sp53sdnt8fdm]: started parsing
+[13Dec2024 13:27:22.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sp53sdnt8fdm]: Consuming argument `barrier`
+[13Dec2024 13:27:22.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sp53sdnt8fdm]: Consuming argument `ston`
+[13Dec2024 13:27:22.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1675ncnbgq32p]: started parsing
+[13Dec2024 13:27:22.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1675ncnbgq32p]: Consuming argument `barrier`
+[13Dec2024 13:27:22.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1675ncnbgq32p]: Consuming argument `stone`
+[13Dec2024 13:27:22.176] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1675ncnbgq32p]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:27:22.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 13:27:22.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 13:27:22.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace barrier stone
+[13Dec2024 13:27:22.675] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ueunygyu3fdc]: started parsing
+[13Dec2024 13:27:22.675] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ueunygyu3fdc]: Consuming argument `barrier`
+[13Dec2024 13:27:22.675] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ueunygyu3fdc]: Consuming argument `stone`
+[13Dec2024 13:27:22.675] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ueunygyu3fdc]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:27:22.676] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace barrier stone - Region: (-566, 202, -270) - (-554, 213, -252)
+[13Dec2024 13:27:47.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zu9ah3y3qas3]: started parsing
+[13Dec2024 13:27:47.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zu9ah3y3qas3]: Consuming argument `barrier`
+[13Dec2024 13:27:47.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zu9ah3y3qas3]: Consuming argument `stone`
+[13Dec2024 13:27:47.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zu9ah3y3qas3]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:27:47.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oi34evtgndto]: started parsing
+[13Dec2024 13:27:47.481] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oi34evtgndto]: Consuming argument `barrier`
+[13Dec2024 13:27:47.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oi34evtgndto]: Consuming argument `stone`
+[13Dec2024 13:27:47.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oi34evtgndto]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:27:48.027] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1320r01vch78c]: started parsing
+[13Dec2024 13:27:48.027] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1320r01vch78c]: Consuming argument `barrier`
+[13Dec2024 13:27:48.027] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1320r01vch78c]: Consuming argument `ston`
+[13Dec2024 13:27:48.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hc5h8vojr6e5]: started parsing
+[13Dec2024 13:27:48.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hc5h8vojr6e5]: Consuming argument `barrier`
+[13Dec2024 13:27:48.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hc5h8vojr6e5]: Consuming argument `stone`
+[13Dec2024 13:27:48.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hc5h8vojr6e5]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:27:49.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08dybv4mz4wzs]: started parsing
+[13Dec2024 13:27:49.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08dybv4mz4wzs]: Consuming argument `barrier`
+[13Dec2024 13:27:49.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08dybv4mz4wzs]: Consuming argument `ston`
+[13Dec2024 13:27:49.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o2a8k151yaim]: started parsing
+[13Dec2024 13:27:49.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o2a8k151yaim]: Consuming argument `barrier`
+[13Dec2024 13:27:49.320] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o2a8k151yaim]: Consuming argument `sto`
+[13Dec2024 13:27:49.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03zd1bqgkrwl1]: started parsing
+[13Dec2024 13:27:49.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03zd1bqgkrwl1]: Consuming argument `barrier`
+[13Dec2024 13:27:49.475] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03zd1bqgkrwl1]: Consuming argument `st`
+[13Dec2024 13:27:49.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wk7n98jxig02]: started parsing
+[13Dec2024 13:27:49.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wk7n98jxig02]: Consuming argument `barrier`
+[13Dec2024 13:27:49.627] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wk7n98jxig02]: Consuming argument `s`
+[13Dec2024 13:27:50.045] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xrbqoydadvxg]: started parsing
+[13Dec2024 13:27:50.045] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xrbqoydadvxg]: Consuming argument `barrier`
+[13Dec2024 13:27:50.045] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xrbqoydadvxg]: Consuming argument ``
+[13Dec2024 13:27:54.001] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13l5vzr75srbn]: started parsing
+[13Dec2024 13:27:54.001] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13l5vzr75srbn]: Consuming argument `barrier`
+[13Dec2024 13:27:54.001] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13l5vzr75srbn]: Consuming argument `w`
+[13Dec2024 13:27:54.659] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> dale, añadilo
+[13Dec2024 13:27:55.892] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s788sceaqpmw]: started parsing
+[13Dec2024 13:27:55.892] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s788sceaqpmw]: Consuming argument `barrier`
+[13Dec2024 13:27:55.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s788sceaqpmw]: Consuming argument `wp`
+[13Dec2024 13:27:57.061] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1775t92zajfiq]: started parsing
+[13Dec2024 13:27:57.061] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1775t92zajfiq]: Consuming argument `barrier`
+[13Dec2024 13:27:57.061] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1775t92zajfiq]: Consuming argument `w`
+[13Dec2024 13:27:57.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g9abpm3xvdh9]: started parsing
+[13Dec2024 13:27:57.453] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g9abpm3xvdh9]: Consuming argument `barrier`
+[13Dec2024 13:27:57.454] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1g9abpm3xvdh9]: Consuming argument `wo`
+[13Dec2024 13:27:58.078] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> perdon
+[13Dec2024 13:27:58.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiz7379sp8e4]: started parsing
+[13Dec2024 13:27:58.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiz7379sp8e4]: Consuming argument `barrier`
+[13Dec2024 13:27:58.778] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiz7379sp8e4]: Consuming argument `woo`
+[13Dec2024 13:27:58.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp @p -513.54 141.50 -268.36
+[13Dec2024 13:27:58.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 13:27:58.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0diczv30ck85l]: started parsing
+[13Dec2024 13:27:58.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0diczv30ck85l]: Consuming argument `barrier`
+[13Dec2024 13:27:58.904] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0diczv30ck85l]: Consuming argument `wood`
+[13Dec2024 13:27:59.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace barrier wood
+[13Dec2024 13:27:59.664] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [067gscxdhqcm2]: started parsing
+[13Dec2024 13:27:59.664] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [067gscxdhqcm2]: Consuming argument `barrier`
+[13Dec2024 13:27:59.664] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [067gscxdhqcm2]: Consuming argument `wood`
+[13Dec2024 13:28:05.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bpzzdwl3xrh2]: started parsing
+[13Dec2024 13:28:05.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bpzzdwl3xrh2]: Consuming argument `barrier`
+[13Dec2024 13:28:05.402] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bpzzdwl3xrh2]: Consuming argument `wood`
+[13Dec2024 13:28:05.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ufp31t7xwq25]: started parsing
+[13Dec2024 13:28:05.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ufp31t7xwq25]: Consuming argument `barrier`
+[13Dec2024 13:28:05.403] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ufp31t7xwq25]: Consuming argument `wood`
+[13Dec2024 13:28:06.386] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bvtn4fjiqdn6]: started parsing
+[13Dec2024 13:28:06.386] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bvtn4fjiqdn6]: Consuming argument `barrier`
+[13Dec2024 13:28:06.386] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bvtn4fjiqdn6]: Consuming argument `woo`
+[13Dec2024 13:28:06.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vh2f9bie6b7e]: started parsing
+[13Dec2024 13:28:06.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vh2f9bie6b7e]: Consuming argument `barrier`
+[13Dec2024 13:28:06.536] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vh2f9bie6b7e]: Consuming argument `wo`
+[13Dec2024 13:28:06.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eysey0g8gowo]: started parsing
+[13Dec2024 13:28:06.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eysey0g8gowo]: Consuming argument `barrier`
+[13Dec2024 13:28:06.703] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eysey0g8gowo]: Consuming argument `w`
+[13Dec2024 13:28:07.221] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b2vyhlb3tb97]: started parsing
+[13Dec2024 13:28:07.221] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b2vyhlb3tb97]: Consuming argument `barrier`
+[13Dec2024 13:28:07.221] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b2vyhlb3tb97]: Consuming argument ``
+[13Dec2024 13:28:08.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16657xt3xs9zh]: started parsing
+[13Dec2024 13:28:08.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16657xt3xs9zh]: Consuming argument `barrier`
+[13Dec2024 13:28:08.088] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16657xt3xs9zh]: Consuming argument `w`
+[13Dec2024 13:28:09.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode spectator
+[13Dec2024 13:28:09.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Spectator Mode]
+[13Dec2024 13:28:09.707] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05jpmdouml326]: started parsing
+[13Dec2024 13:28:09.707] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05jpmdouml326]: Consuming argument `barrier`
+[13Dec2024 13:28:09.707] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05jpmdouml326]: Consuming argument `wo`
+[13Dec2024 13:28:10.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vxzvcznx3j8r]: started parsing
+[13Dec2024 13:28:10.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vxzvcznx3j8r]: Consuming argument `barrier`
+[13Dec2024 13:28:10.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vxzvcznx3j8r]: Consuming argument `w`
+[13Dec2024 13:28:11.324] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i137dr2hjn1o]: started parsing
+[13Dec2024 13:28:11.324] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i137dr2hjn1o]: Consuming argument `barrier`
+[13Dec2024 13:28:11.324] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i137dr2hjn1o]: Consuming argument ``
+[13Dec2024 13:28:14.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x31cdt0idfdi]: started parsing
+[13Dec2024 13:28:14.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x31cdt0idfdi]: Consuming argument `barrier`
+[13Dec2024 13:28:14.704] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x31cdt0idfdi]: Consuming argument `minecraft:`
+[13Dec2024 13:28:15.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rixjylf8uds3]: started parsing
+[13Dec2024 13:28:15.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rixjylf8uds3]: Consuming argument `barrier`
+[13Dec2024 13:28:15.378] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rixjylf8uds3]: Consuming argument `minecraft:`
+[13Dec2024 13:28:23.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 13:28:23.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 13:28:38.077] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [086ixzx30qlyj]: started parsing
+[13Dec2024 13:28:38.077] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [086ixzx30qlyj]: Consuming argument `barrier`
+[13Dec2024 13:28:38.077] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [086ixzx30qlyj]: Consuming argument `minecraft:t`
+[13Dec2024 13:28:38.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qp7hhw41wz9k]: started parsing
+[13Dec2024 13:28:38.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qp7hhw41wz9k]: Consuming argument `barrier`
+[13Dec2024 13:28:38.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qp7hhw41wz9k]: Consuming argument `minecraft:to`
+[13Dec2024 13:28:39.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [007qu5s3tj1eq]: started parsing
+[13Dec2024 13:28:39.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [007qu5s3tj1eq]: Consuming argument `barrier`
+[13Dec2024 13:28:39.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [007qu5s3tj1eq]: Consuming argument `minecraft:t`
+[13Dec2024 13:28:39.136] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y71xropp57tm]: started parsing
+[13Dec2024 13:28:39.136] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y71xropp57tm]: Consuming argument `barrier`
+[13Dec2024 13:28:39.136] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y71xropp57tm]: Consuming argument `minecraft:`
+[13Dec2024 13:28:39.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ei8pupcw1qm]: started parsing
+[13Dec2024 13:28:39.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ei8pupcw1qm]: Consuming argument `barrier`
+[13Dec2024 13:28:39.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ei8pupcw1qm]: Consuming argument `minecraft:r`
+[13Dec2024 13:28:39.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e031mu3p4ci3]: started parsing
+[13Dec2024 13:28:39.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e031mu3p4ci3]: Consuming argument `barrier`
+[13Dec2024 13:28:39.386] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e031mu3p4ci3]: Consuming argument `minecraft:ro`
+[13Dec2024 13:28:40.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08aqoubbpqfl5]: started parsing
+[13Dec2024 13:28:40.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08aqoubbpqfl5]: Consuming argument `barrier`
+[13Dec2024 13:28:40.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08aqoubbpqfl5]: Consuming argument `minecraft:r`
+[13Dec2024 13:28:41.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08b357i6mz4ot]: started parsing
+[13Dec2024 13:28:41.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08b357i6mz4ot]: Consuming argument `barrier`
+[13Dec2024 13:28:41.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08b357i6mz4ot]: Consuming argument `minecraft:`
+[13Dec2024 13:28:41.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp @p -503.40 61.00 -236.69
+[13Dec2024 13:28:41.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 13:28:44.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp @p -503.40 61.00 -236.69
+[13Dec2024 13:28:44.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 13:28:46.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hhqw0wr8rv4v]: started parsing
+[13Dec2024 13:28:46.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hhqw0wr8rv4v]: Consuming argument `barrier`
+[13Dec2024 13:28:46.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hhqw0wr8rv4v]: Consuming argument `minecraft:t`
+[13Dec2024 13:28:46.242] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1raf8rqf3cunz]: started parsing
+[13Dec2024 13:28:46.242] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1raf8rqf3cunz]: Consuming argument `barrier`
+[13Dec2024 13:28:46.243] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1raf8rqf3cunz]: Consuming argument `minecraft:ta`
+[13Dec2024 13:28:46.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fb0o49aa6co1]: started parsing
+[13Dec2024 13:28:46.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fb0o49aa6co1]: Consuming argument `barrier`
+[13Dec2024 13:28:46.468] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fb0o49aa6co1]: Consuming argument `minecraft:tai`
+[13Dec2024 13:28:46.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xhjpos0hxe8s]: started parsing
+[13Dec2024 13:28:46.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xhjpos0hxe8s]: Consuming argument `barrier`
+[13Dec2024 13:28:46.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xhjpos0hxe8s]: Consuming argument `minecraft:taig`
+[13Dec2024 13:28:46.868] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dkdf6lmb71i6]: started parsing
+[13Dec2024 13:28:46.868] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dkdf6lmb71i6]: Consuming argument `barrier`
+[13Dec2024 13:28:46.868] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dkdf6lmb71i6]: Consuming argument `minecraft:taiga`
+[13Dec2024 13:28:48.356] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bomsqeh0k1um]: started parsing
+[13Dec2024 13:28:48.356] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bomsqeh0k1um]: Consuming argument `barrier`
+[13Dec2024 13:28:48.356] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bomsqeh0k1um]: Consuming argument `minecraft:taig`
+[13Dec2024 13:28:49.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jyp06zle65vg]: started parsing
+[13Dec2024 13:28:49.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jyp06zle65vg]: Consuming argument `barrier`
+[13Dec2024 13:28:49.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jyp06zle65vg]: Consuming argument `minecraft:tai`
+[13Dec2024 13:28:49.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwckfqfmn40b]: started parsing
+[13Dec2024 13:28:49.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwckfqfmn40b]: Consuming argument `barrier`
+[13Dec2024 13:28:49.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0uwckfqfmn40b]: Consuming argument `minecraft:ta`
+[13Dec2024 13:28:49.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rgvm2kbzgn5u]: started parsing
+[13Dec2024 13:28:49.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rgvm2kbzgn5u]: Consuming argument `barrier`
+[13Dec2024 13:28:49.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rgvm2kbzgn5u]: Consuming argument `minecraft:t`
+[13Dec2024 13:28:52.213] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19orly04v136n]: started parsing
+[13Dec2024 13:28:52.213] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19orly04v136n]: Consuming argument `barrier`
+[13Dec2024 13:28:52.213] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19orly04v136n]: Consuming argument `minecraft:`
+[13Dec2024 13:28:57.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 13:29:06.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c54gl5zyx3yl]: started parsing
+[13Dec2024 13:29:06.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c54gl5zyx3yl]: Consuming argument `barrier`
+[13Dec2024 13:29:06.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c54gl5zyx3yl]: Consuming argument `minecraft:w`
+[13Dec2024 13:29:07.366] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10g3rolmitsx2]: started parsing
+[13Dec2024 13:29:07.366] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10g3rolmitsx2]: Consuming argument `barrier`
+[13Dec2024 13:29:07.366] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10g3rolmitsx2]: Consuming argument `minecraft:wo`
+[13Dec2024 13:29:07.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wfz42q1pbvya]: started parsing
+[13Dec2024 13:29:07.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wfz42q1pbvya]: Consuming argument `barrier`
+[13Dec2024 13:29:07.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wfz42q1pbvya]: Consuming argument `minecraft:wod`
+[13Dec2024 13:29:08.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15emq2zk18m6i]: started parsing
+[13Dec2024 13:29:08.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15emq2zk18m6i]: Consuming argument `barrier`
+[13Dec2024 13:29:08.049] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15emq2zk18m6i]: Consuming argument `minecraft:wo`
+[13Dec2024 13:29:08.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wifnwfb1n9dc]: started parsing
+[13Dec2024 13:29:08.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wifnwfb1n9dc]: Consuming argument `barrier`
+[13Dec2024 13:29:08.449] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wifnwfb1n9dc]: Consuming argument `minecraft:woo`
+[13Dec2024 13:29:09.835] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15xhr8l14mpp2]: started parsing
+[13Dec2024 13:29:09.835] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15xhr8l14mpp2]: Consuming argument `barrier`
+[13Dec2024 13:29:09.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15xhr8l14mpp2]: Consuming argument `minecraft:wo`
+[13Dec2024 13:29:09.985] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17e18x7nqsz3h]: started parsing
+[13Dec2024 13:29:09.985] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17e18x7nqsz3h]: Consuming argument `barrier`
+[13Dec2024 13:29:09.985] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17e18x7nqsz3h]: Consuming argument `minecraft:w`
+[13Dec2024 13:29:10.166] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ay6tsax3gjv]: started parsing
+[13Dec2024 13:29:10.166] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ay6tsax3gjv]: Consuming argument `barrier`
+[13Dec2024 13:29:10.166] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ay6tsax3gjv]: Consuming argument `minecraft:`
+[13Dec2024 13:29:15.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace barrier minecraft:acacia_log
+[13Dec2024 13:29:15.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ag0ry4eltumy]: started parsing
+[13Dec2024 13:29:15.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ag0ry4eltumy]: Consuming argument `barrier`
+[13Dec2024 13:29:15.417] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ag0ry4eltumy]: Consuming argument `minecraft:acacia_log`
+[13Dec2024 13:29:15.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ag0ry4eltumy]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:15.418] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace barrier minecraft:acacia_log - Region: (-544, 202, -271) - (-530, 209, -261)
+[13Dec2024 13:29:15.455] [IO-Worker-9/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-11
+[13Dec2024 13:29:35.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.5
+[13Dec2024 13:29:37.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04u4lr7x5zz21]: started parsing
+[13Dec2024 13:29:37.141] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04u4lr7x5zz21]: Consuming argument `barrier`
+[13Dec2024 13:29:37.142] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04u4lr7x5zz21]: Consuming argument `minecraft:acacia_log`
+[13Dec2024 13:29:37.142] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04u4lr7x5zz21]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:37.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e36thp0itjse]: started parsing
+[13Dec2024 13:29:37.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e36thp0itjse]: Consuming argument `barrier`
+[13Dec2024 13:29:37.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e36thp0itjse]: Consuming argument `minecraft:acacia_log`
+[13Dec2024 13:29:37.143] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e36thp0itjse]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:39.164] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c21ycyry3779]: started parsing
+[13Dec2024 13:29:39.164] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c21ycyry3779]: Consuming argument `barrier`
+[13Dec2024 13:29:39.164] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c21ycyry3779]: Consuming argument `minecraft:acacia_lo`
+[13Dec2024 13:29:39.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12735p6936btp]: started parsing
+[13Dec2024 13:29:39.680] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12735p6936btp]: Consuming argument `barrier`
+[13Dec2024 13:29:39.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12735p6936btp]: Consuming argument `minecraft:acacia_l`
+[13Dec2024 13:29:39.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16qy4vy1o2omb]: started parsing
+[13Dec2024 13:29:39.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16qy4vy1o2omb]: Consuming argument `barrier`
+[13Dec2024 13:29:39.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16qy4vy1o2omb]: Consuming argument `minecraft:acacia_`
+[13Dec2024 13:29:39.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rptgs8qi5zdx]: started parsing
+[13Dec2024 13:29:39.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rptgs8qi5zdx]: Consuming argument `barrier`
+[13Dec2024 13:29:39.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rptgs8qi5zdx]: Consuming argument `minecraft:acacia`
+[13Dec2024 13:29:39.789] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j8kql6wmtrs5]: started parsing
+[13Dec2024 13:29:39.789] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j8kql6wmtrs5]: Consuming argument `barrier`
+[13Dec2024 13:29:39.789] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j8kql6wmtrs5]: Consuming argument `minecraft:acaci`
+[13Dec2024 13:29:39.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1du2i172ngsn9]: started parsing
+[13Dec2024 13:29:39.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1du2i172ngsn9]: Consuming argument `barrier`
+[13Dec2024 13:29:39.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1du2i172ngsn9]: Consuming argument `minecraft:acac`
+[13Dec2024 13:29:39.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0c1mgxig1nd]: started parsing
+[13Dec2024 13:29:39.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0c1mgxig1nd]: Consuming argument `barrier`
+[13Dec2024 13:29:39.831] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j0c1mgxig1nd]: Consuming argument `minecraft:aca`
+[13Dec2024 13:29:39.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ef2f348aiq4h]: started parsing
+[13Dec2024 13:29:39.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ef2f348aiq4h]: Consuming argument `barrier`
+[13Dec2024 13:29:39.865] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ef2f348aiq4h]: Consuming argument `minecraft:ac`
+[13Dec2024 13:29:39.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ftl3gvzwdfi]: started parsing
+[13Dec2024 13:29:39.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ftl3gvzwdfi]: Consuming argument `barrier`
+[13Dec2024 13:29:39.905] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14ftl3gvzwdfi]: Consuming argument `minecraft:a`
+[13Dec2024 13:29:39.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iej2af7nc7qr]: started parsing
+[13Dec2024 13:29:39.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iej2af7nc7qr]: Consuming argument `barrier`
+[13Dec2024 13:29:39.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iej2af7nc7qr]: Consuming argument `minecraft:`
+[13Dec2024 13:29:39.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vd25pdzlf616]: started parsing
+[13Dec2024 13:29:39.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vd25pdzlf616]: Consuming argument `barrier`
+[13Dec2024 13:29:39.989] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vd25pdzlf616]: Consuming argument `minecraft`
+[13Dec2024 13:29:40.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wh1vcqkxi5a2]: started parsing
+[13Dec2024 13:29:40.004] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wh1vcqkxi5a2]: Consuming argument `barrier`
+[13Dec2024 13:29:40.005] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wh1vcqkxi5a2]: Consuming argument `minecraf`
+[13Dec2024 13:29:40.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d6c757qyaxry]: started parsing
+[13Dec2024 13:29:40.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d6c757qyaxry]: Consuming argument `barrier`
+[13Dec2024 13:29:40.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d6c757qyaxry]: Consuming argument `minecra`
+[13Dec2024 13:29:40.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u6dv3ola6iss]: started parsing
+[13Dec2024 13:29:40.407] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u6dv3ola6iss]: Consuming argument `barrier`
+[13Dec2024 13:29:40.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u6dv3ola6iss]: Consuming argument `minecraf`
+[13Dec2024 13:29:40.586] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pdpn3zj3fk1x]: started parsing
+[13Dec2024 13:29:40.586] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pdpn3zj3fk1x]: Consuming argument `barrier`
+[13Dec2024 13:29:40.586] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pdpn3zj3fk1x]: Consuming argument `minecraft`
+[13Dec2024 13:29:41.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fb0wh4gs21pt]: started parsing
+[13Dec2024 13:29:41.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fb0wh4gs21pt]: Consuming argument `barrier`
+[13Dec2024 13:29:41.237] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fb0wh4gs21pt]: Consuming argument `minecraft:`
+[13Dec2024 13:29:42.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qrzfjvmqn9zi]: started parsing
+[13Dec2024 13:29:42.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qrzfjvmqn9zi]: Consuming argument `barrier`
+[13Dec2024 13:29:42.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qrzfjvmqn9zi]: Consuming argument `minecraft`
+[13Dec2024 13:29:42.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1msbym7itk2zp]: started parsing
+[13Dec2024 13:29:42.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1msbym7itk2zp]: Consuming argument `barrier`
+[13Dec2024 13:29:42.760] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1msbym7itk2zp]: Consuming argument `minecraf`
+[13Dec2024 13:29:42.788] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [188jx5ygkdpko]: started parsing
+[13Dec2024 13:29:42.788] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [188jx5ygkdpko]: Consuming argument `barrier`
+[13Dec2024 13:29:42.788] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [188jx5ygkdpko]: Consuming argument `minecra`
+[13Dec2024 13:29:42.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tc9w41e3np3j]: started parsing
+[13Dec2024 13:29:42.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tc9w41e3np3j]: Consuming argument `barrier`
+[13Dec2024 13:29:42.816] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tc9w41e3np3j]: Consuming argument `minecr`
+[13Dec2024 13:29:42.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x9ihaw91v8ch]: started parsing
+[13Dec2024 13:29:42.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x9ihaw91v8ch]: Consuming argument `barrier`
+[13Dec2024 13:29:42.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x9ihaw91v8ch]: Consuming argument `minec`
+[13Dec2024 13:29:42.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k55jp265sahg]: started parsing
+[13Dec2024 13:29:42.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k55jp265sahg]: Consuming argument `barrier`
+[13Dec2024 13:29:42.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k55jp265sahg]: Consuming argument `mine`
+[13Dec2024 13:29:42.941] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1brspu6fdd7kv]: started parsing
+[13Dec2024 13:29:42.941] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1brspu6fdd7kv]: Consuming argument `barrier`
+[13Dec2024 13:29:42.941] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1brspu6fdd7kv]: Consuming argument `min`
+[13Dec2024 13:29:42.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r50cbbdg36g3]: started parsing
+[13Dec2024 13:29:42.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r50cbbdg36g3]: Consuming argument `barrier`
+[13Dec2024 13:29:42.962] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r50cbbdg36g3]: Consuming argument `mi`
+[13Dec2024 13:29:42.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1196bmu4zxb85]: started parsing
+[13Dec2024 13:29:42.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1196bmu4zxb85]: Consuming argument `barrier`
+[13Dec2024 13:29:42.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1196bmu4zxb85]: Consuming argument `m`
+[13Dec2024 13:29:43.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06e0erxz9mptc]: started parsing
+[13Dec2024 13:29:43.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06e0erxz9mptc]: Consuming argument `barrier`
+[13Dec2024 13:29:43.047] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06e0erxz9mptc]: Consuming argument ``
+[13Dec2024 13:29:43.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tpuhwkjwr5jh]: started parsing
+[13Dec2024 13:29:43.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tpuhwkjwr5jh]: Consuming argument `barrier`
+[13Dec2024 13:29:43.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tpuhwkjwr5jh]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:43.086] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gx04w0ntjz3a]: started parsing
+[13Dec2024 13:29:43.086] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gx04w0ntjz3a]: Consuming argument `barrie`
+[13Dec2024 13:29:43.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g9fc59t8rq4h]: started parsing
+[13Dec2024 13:29:43.157] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g9fc59t8rq4h]: Consuming argument `barri`
+[13Dec2024 13:29:43.164] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13bser8ci42fj]: started parsing
+[13Dec2024 13:29:43.164] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13bser8ci42fj]: Consuming argument `barr`
+[13Dec2024 13:29:43.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1imwroqek9pvj]: started parsing
+[13Dec2024 13:29:43.186] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1imwroqek9pvj]: Consuming argument `bar`
+[13Dec2024 13:29:43.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00tqluqq1k106]: started parsing
+[13Dec2024 13:29:43.217] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00tqluqq1k106]: Consuming argument `ba`
+[13Dec2024 13:29:43.259] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00wvc70yivcqs]: started parsing
+[13Dec2024 13:29:43.259] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00wvc70yivcqs]: Consuming argument `b`
+[13Dec2024 13:29:43.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00zdkmqhmenfo]: started parsing
+[13Dec2024 13:29:43.716] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00zdkmqhmenfo]: Consuming argument ``
+[13Dec2024 13:29:44.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06sfei12kajmj]: started parsing
+[13Dec2024 13:29:44.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06sfei12kajmj]: Consuming argument `a`
+[13Dec2024 13:29:44.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09kulr7m2md6x]: started parsing
+[13Dec2024 13:29:44.801] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09kulr7m2md6x]: Consuming argument `ac`
+[13Dec2024 13:29:44.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06k5epwralqmm]: started parsing
+[13Dec2024 13:29:44.847] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06k5epwralqmm]: Consuming argument `aca`
+[13Dec2024 13:29:44.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xav2ju60cjos]: started parsing
+[13Dec2024 13:29:44.861] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xav2ju60cjos]: Consuming argument `acac`
+[13Dec2024 13:29:44.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10pd7nadkkktx]: started parsing
+[13Dec2024 13:29:44.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10pd7nadkkktx]: Consuming argument `acaci`
+[13Dec2024 13:29:44.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10u8xzp51qu8c]: started parsing
+[13Dec2024 13:29:44.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10u8xzp51qu8c]: Consuming argument `acacia`
+[13Dec2024 13:29:44.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q8tkc5gnouvv]: started parsing
+[13Dec2024 13:29:44.961] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q8tkc5gnouvv]: Consuming argument `acacia_`
+[13Dec2024 13:29:44.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18huj7r4iyzat]: started parsing
+[13Dec2024 13:29:44.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18huj7r4iyzat]: Consuming argument `acacia_l`
+[13Dec2024 13:29:45.041] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l90xom7nxxl6]: started parsing
+[13Dec2024 13:29:45.041] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l90xom7nxxl6]: Consuming argument `acacia_lo`
+[13Dec2024 13:29:45.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r601s4ui9dyf]: started parsing
+[13Dec2024 13:29:45.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r601s4ui9dyf]: Consuming argument `acacia_log`
+[13Dec2024 13:29:45.052] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r601s4ui9dyf]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:45.093] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vkyou5gxty6n]: started parsing
+[13Dec2024 13:29:45.093] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vkyou5gxty6n]: Consuming argument `acacia_log`
+[13Dec2024 13:29:45.093] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vkyou5gxty6n]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:45.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7pe0ub8du0s]: started parsing
+[13Dec2024 13:29:45.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7pe0ub8du0s]: Consuming argument `acacia_log`
+[13Dec2024 13:29:45.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7pe0ub8du0s]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:45.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10bsag1vii35r]: started parsing
+[13Dec2024 13:29:45.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10bsag1vii35r]: Consuming argument `acacia_log`
+[13Dec2024 13:29:45.162] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10bsag1vii35r]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:45.190] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t9sqhoawzyj]: started parsing
+[13Dec2024 13:29:45.190] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t9sqhoawzyj]: Consuming argument `acacia_log`
+[13Dec2024 13:29:45.191] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11t9sqhoawzyj]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:45.224] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11nyx827gnabe]: started parsing
+[13Dec2024 13:29:45.224] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11nyx827gnabe]: Consuming argument `acacia_log`
+[13Dec2024 13:29:45.224] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11nyx827gnabe]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:45.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0waeqhppeu9ma]: started parsing
+[13Dec2024 13:29:45.252] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0waeqhppeu9ma]: Consuming argument `acacia_log`
+[13Dec2024 13:29:45.253] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0waeqhppeu9ma]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:45.293] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ufdehbo0qdjj]: started parsing
+[13Dec2024 13:29:45.293] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ufdehbo0qdjj]: Consuming argument `acacia_log`
+[13Dec2024 13:29:45.293] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ufdehbo0qdjj]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:45.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g8h977s9ryg9]: started parsing
+[13Dec2024 13:29:45.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g8h977s9ryg9]: Consuming argument `acacia_log`
+[13Dec2024 13:29:45.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g8h977s9ryg9]: Consuming argument ``
+[13Dec2024 13:29:45.979] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pxksj86axm4t]: started parsing
+[13Dec2024 13:29:45.979] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pxksj86axm4t]: Consuming argument `acacia_log`
+[13Dec2024 13:29:45.979] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pxksj86axm4t]: Consuming argument ``
+[13Dec2024 13:29:46.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j9ddy1arn5rc]: started parsing
+[13Dec2024 13:29:46.458] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j9ddy1arn5rc]: Consuming argument `acacia_log`
+[13Dec2024 13:29:46.459] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j9ddy1arn5rc]: Consuming argument ``
+[13Dec2024 13:29:46.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05djinmc95kp8]: started parsing
+[13Dec2024 13:29:46.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05djinmc95kp8]: Consuming argument `acacia_log`
+[13Dec2024 13:29:46.988] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05djinmc95kp8]: Consuming argument `s`
+[13Dec2024 13:29:47.488] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ad4acumoqom]: started parsing
+[13Dec2024 13:29:47.488] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ad4acumoqom]: Consuming argument `acacia_log`
+[13Dec2024 13:29:47.488] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ad4acumoqom]: Consuming argument `st`
+[13Dec2024 13:29:47.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.5
+[13Dec2024 13:29:47.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1llbmb3ewajav]: started parsing
+[13Dec2024 13:29:47.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1llbmb3ewajav]: Consuming argument `acacia_log`
+[13Dec2024 13:29:47.588] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1llbmb3ewajav]: Consuming argument `sto`
+[13Dec2024 13:29:47.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xx0cqhvqa1cw]: started parsing
+[13Dec2024 13:29:47.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xx0cqhvqa1cw]: Consuming argument `acacia_log`
+[13Dec2024 13:29:47.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xx0cqhvqa1cw]: Consuming argument `ston`
+[13Dec2024 13:29:47.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f3jl7que585]: started parsing
+[13Dec2024 13:29:47.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f3jl7que585]: Consuming argument `acacia_log`
+[13Dec2024 13:29:47.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f3jl7que585]: Consuming argument `stone`
+[13Dec2024 13:29:47.939] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f3jl7que585]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:48.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace acacia_log stone
+[13Dec2024 13:29:48.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ejffd08f5vlz]: started parsing
+[13Dec2024 13:29:48.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ejffd08f5vlz]: Consuming argument `acacia_log`
+[13Dec2024 13:29:48.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ejffd08f5vlz]: Consuming argument `stone`
+[13Dec2024 13:29:48.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ejffd08f5vlz]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:48.113] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace acacia_log stone - Region: (-544, 202, -271) - (-530, 209, -261)
+[13Dec2024 13:29:55.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18a63yx20g9bp]: started parsing
+[13Dec2024 13:29:55.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18a63yx20g9bp]: Consuming argument `acacia_log`
+[13Dec2024 13:29:55.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18a63yx20g9bp]: Consuming argument `stone`
+[13Dec2024 13:29:55.379] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18a63yx20g9bp]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:55.380] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17q2prgwdyzwt]: started parsing
+[13Dec2024 13:29:55.380] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17q2prgwdyzwt]: Consuming argument `acacia_log`
+[13Dec2024 13:29:55.380] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17q2prgwdyzwt]: Consuming argument `stone`
+[13Dec2024 13:29:55.380] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17q2prgwdyzwt]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:55.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.2
+[13Dec2024 13:29:55.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x6ynew5hx5ay]: started parsing
+[13Dec2024 13:29:55.763] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x6ynew5hx5ay]: Consuming argument `acacia_log`
+[13Dec2024 13:29:55.764] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x6ynew5hx5ay]: Consuming argument `ston`
+[13Dec2024 13:29:55.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01mehk4ooh9ko]: started parsing
+[13Dec2024 13:29:55.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01mehk4ooh9ko]: Consuming argument `acacia_log`
+[13Dec2024 13:29:55.982] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01mehk4ooh9ko]: Consuming argument `sto`
+[13Dec2024 13:29:56.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n7je9f1jliiw]: started parsing
+[13Dec2024 13:29:56.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n7je9f1jliiw]: Consuming argument `acacia_log`
+[13Dec2024 13:29:56.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n7je9f1jliiw]: Consuming argument `st`
+[13Dec2024 13:29:56.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mptczlilem7x]: started parsing
+[13Dec2024 13:29:56.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mptczlilem7x]: Consuming argument `acacia_log`
+[13Dec2024 13:29:56.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mptczlilem7x]: Consuming argument `s`
+[13Dec2024 13:29:56.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -503.400000, 61.000000, -236.690000]
+[13Dec2024 13:29:56.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0veqaieqnybiv]: started parsing
+[13Dec2024 13:29:56.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0veqaieqnybiv]: Consuming argument `acacia_log`
+[13Dec2024 13:29:56.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0veqaieqnybiv]: Consuming argument ``
+[13Dec2024 13:29:57.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [003mh4415lixx]: started parsing
+[13Dec2024 13:29:57.081] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [003mh4415lixx]: Consuming argument `acacia_log`
+[13Dec2024 13:29:57.082] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [003mh4415lixx]: Consuming argument `a`
+[13Dec2024 13:29:57.382] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v5kv6x2f2ptu]: started parsing
+[13Dec2024 13:29:57.382] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v5kv6x2f2ptu]: Consuming argument `acacia_log`
+[13Dec2024 13:29:57.382] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v5kv6x2f2ptu]: Consuming argument `ai`
+[13Dec2024 13:29:57.586] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0omv57rhmdp4g]: started parsing
+[13Dec2024 13:29:57.586] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0omv57rhmdp4g]: Consuming argument `acacia_log`
+[13Dec2024 13:29:57.587] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0omv57rhmdp4g]: Consuming argument `air`
+[13Dec2024 13:29:57.587] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0omv57rhmdp4g]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:57.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace acacia_log air
+[13Dec2024 13:29:57.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jorej8ndatpw]: started parsing
+[13Dec2024 13:29:57.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jorej8ndatpw]: Consuming argument `acacia_log`
+[13Dec2024 13:29:57.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jorej8ndatpw]: Consuming argument `air`
+[13Dec2024 13:29:57.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jorej8ndatpw]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:29:57.841] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace acacia_log air - Region: (-544, 202, -271) - (-530, 209, -261)
+[13Dec2024 13:30:00.884] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0881pmbwn79n8]: started parsing
+[13Dec2024 13:30:00.884] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0881pmbwn79n8]: Consuming argument `acacia_log`
+[13Dec2024 13:30:00.884] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0881pmbwn79n8]: Consuming argument `air`
+[13Dec2024 13:30:00.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0881pmbwn79n8]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:30:00.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cywgkdex24b5]: started parsing
+[13Dec2024 13:30:00.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cywgkdex24b5]: Consuming argument `acacia_log`
+[13Dec2024 13:30:00.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cywgkdex24b5]: Consuming argument `air`
+[13Dec2024 13:30:00.885] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cywgkdex24b5]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:30:01.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tp2ijfkisx67]: started parsing
+[13Dec2024 13:30:01.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tp2ijfkisx67]: Consuming argument `acacia_log`
+[13Dec2024 13:30:01.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tp2ijfkisx67]: Consuming argument `ai`
+[13Dec2024 13:30:01.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09bp8t7ldfq92]: started parsing
+[13Dec2024 13:30:01.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09bp8t7ldfq92]: Consuming argument `acacia_log`
+[13Dec2024 13:30:01.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09bp8t7ldfq92]: Consuming argument `a`
+[13Dec2024 13:30:02.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wwicrm5gpsdc]: started parsing
+[13Dec2024 13:30:02.197] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wwicrm5gpsdc]: Consuming argument `acacia_log`
+[13Dec2024 13:30:02.198] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wwicrm5gpsdc]: Consuming argument ``
+[13Dec2024 13:30:02.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1upzyeso6zdmd]: started parsing
+[13Dec2024 13:30:02.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1upzyeso6zdmd]: Consuming argument `acacia_log`
+[13Dec2024 13:30:02.353] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1upzyeso6zdmd]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:30:03.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13aa9yjwloi8w]: started parsing
+[13Dec2024 13:30:03.063] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13aa9yjwloi8w]: Consuming argument `acacia_lo`
+[13Dec2024 13:30:03.242] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19r44tym5zwpw]: started parsing
+[13Dec2024 13:30:03.242] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19r44tym5zwpw]: Consuming argument `acacia_l`
+[13Dec2024 13:30:03.754] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cexophrnrv71]: started parsing
+[13Dec2024 13:30:03.754] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cexophrnrv71]: Consuming argument `acacia_`
+[13Dec2024 13:30:03.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xyuz8iwkct22]: started parsing
+[13Dec2024 13:30:03.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xyuz8iwkct22]: Consuming argument `acacia`
+[13Dec2024 13:30:03.822] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1735ddowkyfo5]: started parsing
+[13Dec2024 13:30:03.822] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1735ddowkyfo5]: Consuming argument `acaci`
+[13Dec2024 13:30:03.855] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lrb46ojxmmjv]: started parsing
+[13Dec2024 13:30:03.855] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lrb46ojxmmjv]: Consuming argument `acac`
+[13Dec2024 13:30:03.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eo284qhmmfrb]: started parsing
+[13Dec2024 13:30:03.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eo284qhmmfrb]: Consuming argument `aca`
+[13Dec2024 13:30:03.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eq4xbblirnyu]: started parsing
+[13Dec2024 13:30:03.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eq4xbblirnyu]: Consuming argument `ac`
+[13Dec2024 13:30:03.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ur3q5fjaqzta]: started parsing
+[13Dec2024 13:30:03.957] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ur3q5fjaqzta]: Consuming argument `a`
+[13Dec2024 13:30:03.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0obrqokkbpmce]: started parsing
+[13Dec2024 13:30:03.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0obrqokkbpmce]: Consuming argument ``
+[13Dec2024 13:30:04.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 13:30:04.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[13Dec2024 13:30:04.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hxk8fkvp7f61]: started parsing
+[13Dec2024 13:30:04.405] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hxk8fkvp7f61]: Consuming argument `s`
+[13Dec2024 13:30:04.665] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sgkuu2ki0gdf]: started parsing
+[13Dec2024 13:30:04.665] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sgkuu2ki0gdf]: Consuming argument `st`
+[13Dec2024 13:30:04.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iqboe2g07te0]: started parsing
+[13Dec2024 13:30:04.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0iqboe2g07te0]: Consuming argument `sto`
+[13Dec2024 13:30:04.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqbardiiuwgu]: started parsing
+[13Dec2024 13:30:04.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zqbardiiuwgu]: Consuming argument `stop`
+[13Dec2024 13:30:05.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qh9usx6iv53a]: started parsing
+[13Dec2024 13:30:05.228] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qh9usx6iv53a]: Consuming argument `stopn`
+[13Dec2024 13:30:05.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jem2mgab5e3m]: started parsing
+[13Dec2024 13:30:05.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jem2mgab5e3m]: Consuming argument `stop`
+[13Dec2024 13:30:05.656] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ohe7a1io117]: started parsing
+[13Dec2024 13:30:05.656] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ohe7a1io117]: Consuming argument `sto`
+[13Dec2024 13:30:06.257] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oq2kgyoliuna]: started parsing
+[13Dec2024 13:30:06.257] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oq2kgyoliuna]: Consuming argument `ston`
+[13Dec2024 13:30:06.411] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g03k05skq73f]: started parsing
+[13Dec2024 13:30:06.411] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g03k05skq73f]: Consuming argument `stone`
+[13Dec2024 13:30:06.411] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g03k05skq73f]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:30:06.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: //replace stone air
+[13Dec2024 13:30:06.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r99195rvb7fw]: started parsing
+[13Dec2024 13:30:06.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r99195rvb7fw]: Consuming argument `stone`
+[13Dec2024 13:30:06.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r99195rvb7fw]: Consuming argument `air`
+[13Dec2024 13:30:06.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r99195rvb7fw]: Finished looking at arguments. Finalizing command.
+[13Dec2024 13:30:06.608] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: lautaropros (in "DEDSAFIO 3 - By TheNeitorLoL"): /replace: /replace stone air - Region: (-544, 202, -271) - (-530, 209, -261)
+[13Dec2024 13:30:20.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp lautaropros
+[13Dec2024 13:30:20.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported patata98911 to lautaropros]
+[13Dec2024 13:30:30.648] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> hol
+[13Dec2024 13:30:30.802] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> Pddidi?
+[13Dec2024 13:30:33.131] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> si
+[13Dec2024 13:30:38.065] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> te voy a tocar
+[13Dec2024 13:30:52.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.01
+[13Dec2024 13:31:05.363] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> LAUTI SOY DON RAMON
+[13Dec2024 13:31:19.518] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> nuevo totem
+[13Dec2024 13:31:25.425] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> A ver
+[13Dec2024 13:31:33.255] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> desaparece
+[13Dec2024 13:31:36.113] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> che por que no le veo la textura ?
+[13Dec2024 13:31:37.470] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> esta bug
+[13Dec2024 13:31:47.797] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> para lo arreglo cosa mia
+[13Dec2024 13:31:58.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival
+[13Dec2024 13:31:58.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Survival Mode]
+[13Dec2024 13:32:00.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: patata98911 has reached the goal [Postmortal]
+[13Dec2024 13:32:07.959] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> igual ahora no importa porque no tiene funcion
+[13Dec2024 13:32:15.356] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> ok
+[13Dec2024 13:32:20.814] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> pero la tengo que poner
+[13Dec2024 13:32:24.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.2
+[13Dec2024 13:32:28.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.2
+[13Dec2024 13:32:30.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode survival
+[13Dec2024 13:32:30.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Survival Mode]
+[13Dec2024 13:32:37.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.2
+[13Dec2024 13:32:48.383] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> ME CONSUMEN
+[13Dec2024 13:32:51.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.1
+[13Dec2024 13:32:54.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.01
+[13Dec2024 13:32:56.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.001
+[13Dec2024 13:32:59.993] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> no se te nota
+[13Dec2024 13:33:11.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.2
+[13Dec2024 13:33:13.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /team leave lautaropros
+[13Dec2024 13:33:13.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Removed lautaropros from any team]
+[13Dec2024 13:33:13.814] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 23 messages to dispatch.
+[13Dec2024 13:33:13.960] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player URIELPOR2022 is 7b4bfabb-632c-3277-9d70-11607ec58ded
+[13Dec2024 13:33:13.996] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[13Dec2024 13:33:14.047] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[13Dec2024 13:33:14.096] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[13Dec2024 13:33:14.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.001
+[13Dec2024 13:33:14.147] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[13Dec2024 13:33:14.196] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[13Dec2024 13:33:14.245] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[13Dec2024 13:33:14.245] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[13Dec2024 13:33:14.245] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [animation_overhaul, watermedia, limitedchunks, playeranimator, octolib, pehkui, nerb, libraryferret, connectivity, modernfix, jei, citadel, alternate_current, yungsapi, cpm, icterine, mixinextras, myserveriscompatible, lazydfu, starlight, beefix, fpsreducer, videoplayer, memoryleakfix, dungeons_andtaverns_mr, forge, travelerstitles, embeddium, rubidium, dungeons_arise, minecraft, smoothchunk, voicechat, necronomicon, awesomedungeonnether, smoothboot, ksyxis, lionfishapi, armors_d, bobby, notenoughanimations, cataclysm, curios, archaeology, reforgium, bocchium, doespotatotick, immediatelyfast, pluto, better_runtime_resource_pack, architectury, ferritecore, enhancedblockentities, cupboard, the_bumblezone, explosiveenhancement, essential]
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_bumblezone:networking' : Version test of '1' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'videoplayer:network' : Version test of '2' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'armors_d:armors_d' : Version test of '1' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[13Dec2024 13:33:14.246] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[13Dec2024 13:33:14.247] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[13Dec2024 13:33:14.296] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[13Dec2024 13:33:14.307] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[13Dec2024 13:33:14.307] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.307] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.350] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[13Dec2024 13:33:14.353] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[13Dec2024 13:33:14.353] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.353] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.397] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[13Dec2024 13:33:14.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[13Dec2024 13:33:14.496] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[13Dec2024 13:33:14.546] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[13Dec2024 13:33:14.596] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 12
+[13Dec2024 13:33:14.647] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 13
+[13Dec2024 13:33:14.674] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[13Dec2024 13:33:14.674] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.674] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.675] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[13Dec2024 13:33:14.675] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.675] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.676] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[13Dec2024 13:33:14.676] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.676] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.696] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 14
+[13Dec2024 13:33:14.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 15
+[13Dec2024 13:33:14.796] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 16
+[13Dec2024 13:33:14.828] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[13Dec2024 13:33:14.828] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.828] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.828] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[13Dec2024 13:33:14.829] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.829] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.829] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[13Dec2024 13:33:14.829] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.829] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.850] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 17
+[13Dec2024 13:33:14.850] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[13Dec2024 13:33:14.850] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.850] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.850] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[13Dec2024 13:33:14.850] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.850] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.896] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[13Dec2024 13:33:14.946] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[13Dec2024 13:33:14.977] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[13Dec2024 13:33:14.977] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.977] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.977] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[13Dec2024 13:33:14.977] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.977] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.979] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[13Dec2024 13:33:14.979] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.979] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.979] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[13Dec2024 13:33:14.979] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.979] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.980] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[13Dec2024 13:33:14.980] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:14.980] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:14.996] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 20
+[13Dec2024 13:33:15.046] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 21
+[13Dec2024 13:33:15.055] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[13Dec2024 13:33:15.055] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:15.055] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:15.096] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 22
+[13Dec2024 13:33:15.103] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[13Dec2024 13:33:15.103] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:15.103] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:15.254] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[13Dec2024 13:33:15.254] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:15.254] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:15.257] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[13Dec2024 13:33:15.257] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:15.257] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:15.261] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[13Dec2024 13:33:15.261] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:15.261] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:15.355] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[13Dec2024 13:33:15.355] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[13Dec2024 13:33:15.355] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[13Dec2024 13:33:15.396] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[13Dec2024 13:33:15.448] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66190158
+[13Dec2024 13:33:15.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: URIELPOR2022[/127.199.14.127:34619] logged in with entity id 180 at (-499.9672428768595, 64.1264939920681, -235.11058778736862)
+[13Dec2024 13:33:15.453] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@153ac75c into net.minecraft.network.Connection@24832c6a
+[13Dec2024 13:33:15.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: URIELPOR2022 joined the game
+[13Dec2024 13:33:15.475] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of URIELPOR2022: {disabled=false, disconnected=true, uuid=7b4bfabb-632c-3277-9d70-11607ec58ded, name=URIELPOR2022, group=null}
+[13Dec2024 13:33:16.173] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of URIELPOR2022 (18)
+[13Dec2024 13:33:16.173] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to URIELPOR2022
+[13Dec2024 13:33:16.173] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with URIELPOR2022
+[13Dec2024 13:33:16.173] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with URIELPOR2022
+[13Dec2024 13:33:16.173] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to URIELPOR2022
+[13Dec2024 13:33:24.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /team list
+[13Dec2024 13:33:25.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.2
+[13Dec2024 13:33:26.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /team list
+[13Dec2024 13:33:29.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 2
