@@ -1,7 +1,25 @@
 {
-  "the_bumblezone:the_bumblezone/wiki": {
+  "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
-      "instant_granted": "2024-12-07 12:02:06 +0000"
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:47:53 +0000"
     },
     "done": true
   },
@@ -17,9 +35,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
-      "in_water": "2024-12-07 12:09:09 +0000"
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
     },
     "done": true
   },
@@ -29,9 +53,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
-      "in_water": "2024-12-07 12:09:09 +0000"
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
     },
     "done": true
   },
@@ -41,9 +71,159 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/root": {
+    "criteria": {
+      "instant_granted": "2024-12-07 12:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-13 13:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2024-12-07 12:06:03 +0000",
+      "minecraft:bamboo_jungle": "2024-12-07 12:02:07 +0000",
+      "minecraft:beach": "2024-12-07 12:09:35 +0000",
+      "minecraft:sparse_jungle": "2024-12-07 12:46:15 +0000",
+      "minecraft:river": "2024-12-07 12:36:16 +0000",
+      "minecraft:cold_ocean": "2024-12-13 13:33:53 +0000",
+      "minecraft:jungle": "2024-12-07 12:36:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:47:53 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/wiki": {
+    "criteria": {
+      "instant_granted": "2024-12-07 12:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-07 12:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-13 13:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-07 12:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-13 13:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-07 12:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
     },
     "done": true
   },
@@ -53,9 +233,27 @@
     },
     "done": true
   },
-  "the_bumblezone:the_bumblezone/root": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "instant_granted": "2024-12-07 12:02:06 +0000"
+      "has_stick": "2024-12-13 13:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-12-13 13:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 13:47:58 +0000"
     },
     "done": true
   },
@@ -76,17 +274,6 @@
       "in_water": "2024-12-07 12:09:09 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:deep_ocean": "2024-12-07 12:06:03 +0000",
-      "minecraft:bamboo_jungle": "2024-12-07 12:02:07 +0000",
-      "minecraft:beach": "2024-12-07 12:09:35 +0000",
-      "minecraft:sparse_jungle": "2024-12-07 12:46:15 +0000",
-      "minecraft:river": "2024-12-07 12:36:16 +0000",
-      "minecraft:jungle": "2024-12-07 12:36:10 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {

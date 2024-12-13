@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-13 13:30:19 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:the_bumblezone/root": {
     "criteria": {
       "instant_granted": "2024-12-07 11:44:13 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-07 12:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-13 13:30:19 +0000"
     },
     "done": true
   },
@@ -101,6 +113,7 @@
       "minecraft:windswept_hills": "2024-12-07 12:33:19 +0000",
       "minecraft:bamboo_jungle": "2024-12-07 11:44:14 +0000",
       "minecraft:dark_forest": "2024-12-07 12:32:57 +0000",
+      "minecraft:sparse_jungle": "2024-12-13 13:49:25 +0000",
       "minecraft:river": "2024-12-07 12:34:22 +0000",
       "minecraft:snowy_plains": "2024-12-07 12:06:32 +0000",
       "minecraft:forest": "2024-12-07 12:33:09 +0000",

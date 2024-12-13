@@ -609,3 +609,120 @@ java.net.UnknownHostException: division-expected.gl.joinmc.link:25565: invalid I
 [13Dec2024 13:33:25.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.2
 [13Dec2024 13:33:26.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /team list
 [13Dec2024 13:33:29.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 2
+[13Dec2024 13:33:35.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.2
+[13Dec2024 13:33:37.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /team add nutria
+[13Dec2024 13:33:37.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Created team [nutria]]
+[13Dec2024 13:33:40.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 2
+[13Dec2024 13:33:41.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported URIELPOR2022 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 13:33:42.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /team list
+[13Dec2024 13:33:46.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 20
+[13Dec2024 13:33:49.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 200
+[13Dec2024 13:33:52.640] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 20
+[13Dec2024 13:34:02.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 20
+[13Dec2024 13:34:12.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
+[13Dec2024 13:34:12.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 13:34:16.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 13:34:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 13:34:16.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
+[13Dec2024 13:34:16.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 13:34:27.562] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> SOY UN GIGANTE
+[13Dec2024 13:34:38.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros -550 200 ~
+[13Dec2024 13:34:38.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to -549.500000, 200.000000, -264.204446]
+[13Dec2024 13:34:43.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros -550 2000 ~
+[13Dec2024 13:34:43.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to -549.500000, 2000.000000, -264.204446]
+[13Dec2024 13:34:53.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 20 URIELPOR2022
+[13Dec2024 13:34:59.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 20 URIELPOR2022
+[13Dec2024 13:35:05.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 20 URIELPOR2022
+[13Dec2024 13:35:10.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros -550 2000 ~
+[13Dec2024 13:35:10.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to -549.500000, 2000.000000, -264.204446]
+[13Dec2024 13:35:20.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:jump_height 20
+[13Dec2024 13:35:29.809] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:falling 20
+[13Dec2024 13:35:34.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:falling 2
+[13Dec2024 13:35:41.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:falling 10
+[13Dec2024 13:35:48.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:falling 5
+[13Dec2024 13:35:54.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros -550 300 ~
+[13Dec2024 13:35:54.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to -549.500000, 300.000000, -264.904100]
+[13Dec2024 13:35:55.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:falling 2
+[13Dec2024 13:35:57.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros -550 300 ~
+[13Dec2024 13:35:57.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to -549.500000, 300.000000, -264.969037]
+[13Dec2024 13:36:00.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:jump_height 2
+[13Dec2024 13:36:01.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros -550 300 ~
+[13Dec2024 13:36:01.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to -549.500000, 300.000000, -264.969037]
+[13Dec2024 13:36:05.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros -550 300 ~
+[13Dec2024 13:36:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to -549.500000, 300.000000, -264.969037]
+[13Dec2024 13:36:15.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.9 URIELPOR2022
+[13Dec2024 13:36:24.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.9 URIELPOR2022
+[13Dec2024 13:36:27.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 13:36:27.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 13:36:32.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.9 URIELPOR2022
+[13Dec2024 13:36:35.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.9
+[13Dec2024 13:36:37.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.9
+[13Dec2024 13:36:58.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kick lautaropros si si 10d
+[13Dec2024 13:36:58.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros lost connection: si si 10d
+[13Dec2024 13:36:58.372] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautaropros
+[13Dec2024 13:36:58.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros left the game.
+[13Dec2024 13:36:58.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Kicked lautaropros: si si 10d]
+[13Dec2024 13:36:58.397] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 13:37:03.877] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player lautaropros is 4dfb16e5-0e7b-32fb-8b84-c5212842a4b1
+[13Dec2024 13:37:05.300] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d12cae8
+[13Dec2024 13:37:05.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautaropros[/127.199.14.127:59853] logged in with entity id 181 at (-535.6399920350634, 217.86813556952075, -258.1947831140461)
+[13Dec2024 13:37:05.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautaropros joined the game
+[13Dec2024 13:37:05.547] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautaropros (18)
+[13Dec2024 13:37:05.547] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautaropros
+[13Dec2024 13:37:11.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival
+[13Dec2024 13:37:11.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Survival Mode]
+[13Dec2024 13:37:16.228] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> saves hacer el vban temporal?
+[13Dec2024 13:37:19.239] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lautaropros> no me deja
+[13Dec2024 13:37:27.992] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <patata98911> Nose
+[13Dec2024 13:38:38.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 13:38:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 13:39:40.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give @p minecraft:diamond_sword{display:{Lore:["\"Un arma legendaria\""]}} 1
+[13Dec2024 13:39:40.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gave 1 [Diamond Sword] to lautaropros]
+[13Dec2024 13:41:03.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /clear URIELPOR2022 #cataclysm:bone_item
+[13Dec2024 13:41:05.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /clear URIELPOR2022
+[13Dec2024 13:41:05.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Removed 12 items from player URIELPOR2022]
+[13Dec2024 13:41:36.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /summon minecraft:item ~ ~10 ~ {Item:{id:276,Count:100}}
+[13Dec2024 13:41:36.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[13Dec2024 13:41:36.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Summoned new Air]
+[13Dec2024 13:41:44.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give lautaropros minecraft:totem_of_undying
+[13Dec2024 13:41:44.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gave 1 [Totem of Undying] to lautaropros]
+[13Dec2024 13:41:44.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /give @p minecraft:white_banner{BlockEntityTag:{Patterns:[{Pattern:"bri",Color:0},{Pattern:"num",Color:2}]}} 1
+[13Dec2024 13:41:44.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Gave 1 [White Banner] to patata98911]
+[13Dec2024 13:41:55.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /clear URIELPOR2022
+[13Dec2024 13:41:55.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Removed 10 items from player URIELPOR2022]
+[13Dec2024 13:42:08.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /summon minecraft:item ~ ~10 ~ {Item:totem_of_undyingCount:100}}
+[13Dec2024 13:42:42.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /summon minecraft:item ~ ~10 ~ {Item:{id:2,Count:100}}
+[13Dec2024 13:42:42.480] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity minecraft:item but it was marked as removed already
+[13Dec2024 13:42:42.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Summoned new Air]
+[13Dec2024 13:43:13.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give lautaropros minecraft:totem_of_undying {Count:100}
+[13Dec2024 13:46:05.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /summon minecraft:armor_stand~~~{handltems:[{count:64,id:totem_of_undying}]}
+[13Dec2024 13:46:19.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /summon minecraft:armor_stand ~ ~ ~ {handltems:[{count:64,id:totem_of_undying}]}
+[13Dec2024 13:46:19.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Summoned new Armor Stand]
+[13Dec2024 13:46:29.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /summon minecraft:armor_stand ~ ~ ~ {handltems:[{count:64,id:totem_of_undying}]}
+[13Dec2024 13:46:29.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Summoned new Armor Stand]
+[13Dec2024 13:46:46.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /summon minecraft:armor_stand ~ ~ ~ {handltems:[{count:64,id:totem_of_undying}]}
+[13Dec2024 13:46:46.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Summoned new Armor Stand]
+[13Dec2024 13:47:58.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give @a minecraft:totem_of_undying {minecraft:max_stack_size=99} 99
+[13Dec2024 13:48:09.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give lautaropros minecraft:totem_of_undying[minecraft:max_stack_size=99] 99
+[13Dec2024 13:48:21.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give @a minecraft:totem_of_undying[minecraft:max_stack_size=99] 64
+[13Dec2024 13:48:27.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /tp lautaropros patata98911
+[13Dec2024 13:48:27.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Teleported lautaropros to patata98911]
+[13Dec2024 13:48:44.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /setworldspawn -537 202 -267
+[13Dec2024 13:48:44.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set the world spawn point to -537, 202, -267 [0.0]]
+[13Dec2024 13:48:51.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /spawnpoint
+[13Dec2024 13:48:51.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set spawn point to -536, 203, -267 [0.0] in minecraft:overworld for lautaropros]
+[13Dec2024 13:48:55.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /spawnpoint @a -537 202 -267
+[13Dec2024 13:48:55.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set spawn point to -537, 202, -267 [0.0] in minecraft:overworld for 3 players]
+[13Dec2024 13:49:18.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /kill lautaropros
+[13Dec2024 13:49:18.073] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 13:49:18.073] [Server thread/INFO] [Console/]: [RedProtect] Player lautaropros damaged by VOID - Running command:
+ - Command: spawn lautaropros
+[13Dec2024 13:49:18.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Target either already has the tag or has too many tags
+[13Dec2024 13:49:18.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Showing new actionbar title for 3 players]
+[13Dec2024 13:49:18.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Killed lautaropros]
+[13Dec2024 13:49:21.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /gamemode creative
+[13Dec2024 13:49:21.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Set own game mode to Creative Mode]
+[13Dec2024 13:50:07.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give @a minecraft:totem_of_undying [minecraft:max_stack_size=99] 64
+[13Dec2024 13:50:20.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give @a minecraft:totem_of_undying [max_stack_size=99] 64
+[13Dec2024 13:50:59.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give @s minecraft:totem_of_undying [max_stack_size=99] 64
+[13Dec2024 13:51:03.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give @s minecraft:totem_of_undying[max_stack_size=99] 64
