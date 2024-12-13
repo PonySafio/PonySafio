@@ -1,7 +1,67 @@
 {
+  "the_bumblezone:the_bumblezone/wiki": {
+    "criteria": {
+      "instant_granted": "2024-12-13 19:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 20:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 20:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2024-12-13 20:06:16 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-13 19:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-13 20:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 20:04:48 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-13 19:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 20:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2024-12-13 20:06:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 20:04:48 +0000"
     },
     "done": true
   },
@@ -11,15 +71,21 @@
     },
     "done": true
   },
-  "the_bumblezone:the_bumblezone/wiki": {
+  "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
-      "instant_granted": "2024-12-13 19:56:30 +0000"
+      "has_orange_wool": "2024-12-13 20:06:16 +0000"
     },
     "done": true
   },
-  "cataclysm:root": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "custom_test_name": "2024-12-13 19:56:30 +0000"
+      "in_water": "2024-12-13 20:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-13 20:04:48 +0000"
     },
     "done": true
   },
