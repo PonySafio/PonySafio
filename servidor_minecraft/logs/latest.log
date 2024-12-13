@@ -604,3 +604,86 @@ java.nio.channels.UnresolvedAddressException: null
 [13Dec2024 19:30:18.224] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> pero eso puede afectar mucho, y tambien puede retrasar en algunos momentos
 [13Dec2024 19:31:01.731] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> una estructura que lo mas rapido seria romper cofres o barriles, pues puede ser que el loot se borre por el clear lag
 [13Dec2024 19:31:08.352] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> o toque hacer una pausa
+[13Dec2024 19:32:38.926] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> a
+[13Dec2024 19:32:59.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made lautaropros a server operator
+[13Dec2024 19:33:13.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /effect give lautaropros minecraft:saturation 100 100
+[13Dec2024 19:33:13.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Applied effect Saturation to lautaropros]
+[13Dec2024 19:33:18.877] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> que es este lugar?
+[13Dec2024 19:33:29.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode survival
+[13Dec2024 19:33:29.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Survival Mode]
+[13Dec2024 19:33:39.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode creative
+[13Dec2024 19:33:39.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set own game mode to Creative Mode]
+[13Dec2024 19:33:49.395] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> aca hay perma ban?
+[13Dec2024 19:33:55.118] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> o ban por muerte?
+[13Dec2024 19:34:17.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp Elreysakura patata98911
+[13Dec2024 19:34:17.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported Elreysakura to patata98911]
+[13Dec2024 19:34:17.216] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> puedo probar? XD
+[13Dec2024 19:34:19.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -513.540000, 141.500000, -268.360000]
+[13Dec2024 19:34:23.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Elreysakura to -513.540000, 141.500000, -268.360000]
+[13Dec2024 19:34:28.152] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> pero me reviven....
+[13Dec2024 19:34:39.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /kill Elreysakura
+[13Dec2024 19:34:39.965] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 19:34:39.965] [Server thread/INFO] [Console/]: [RedProtect] Player Elreysakura damaged by VOID - Running command:
+ - Command: spawn Elreysakura
+[13Dec2024 19:34:39.976] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[13Dec2024 19:34:39.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Elreysakura: Showing new actionbar title for 3 players]
+[13Dec2024 19:34:40.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Killed Elreysakura]
+[13Dec2024 19:34:41.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /kick
+[13Dec2024 19:34:44.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /kick Elreysakura
+[13Dec2024 19:34:44.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elreysakura lost connection: Kicked by an operator
+[13Dec2024 19:34:44.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elreysakura left the game.
+[13Dec2024 19:34:45.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Kicked Elreysakura: Kicked by an operator]
+[13Dec2024 19:34:45.010] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 19:34:49.645] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elreysakura is 913f52d4-16d0-3dc6-98b9-73d182615a9c
+[13Dec2024 19:34:50.961] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f5c1fec
+[13Dec2024 19:34:50.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elreysakura[/127.99.201.252:56235] logged in with entity id 67 at (-552.5459302648843, 214.34433784757834, -246.02387306797138)
+[13Dec2024 19:34:50.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elreysakura joined the game
+[13Dec2024 19:34:55.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /gamemode adventure Elreysakura
+[13Dec2024 19:34:55.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Set Elreysakura's game mode to Adventure Mode]
+[13Dec2024 19:34:58.989] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> XD
+[13Dec2024 19:35:00.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp Elreysakura patata98911
+[13Dec2024 19:35:00.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported Elreysakura to patata98911]
+[13Dec2024 19:35:01.303] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> si lo vi
+[13Dec2024 19:35:04.259] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> lo tengo
+[13Dec2024 19:35:23.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported patata98911 to -481.560000, 202.140000, -242.000000]
+[13Dec2024 19:35:27.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /tp Elreysakura patata98911
+[13Dec2024 19:35:27.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [patata98911: Teleported Elreysakura to patata98911]
+[13Dec2024 19:35:28.062] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> creo que deberian dejar una lapida
+[13Dec2024 19:35:38.831] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> por lo mismo del clear lag
+[13Dec2024 19:35:58.139] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> si las cosas quedan en el mismo, se borran las cosas
+[13Dec2024 19:36:10.947] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> piso*
+[13Dec2024 19:37:08.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.4 Elreysakura
+[13Dec2024 19:37:18.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.04 Elreysakura
+[13Dec2024 19:37:26.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.004 Elreysakura
+[13Dec2024 19:37:42.846] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> tambien modifican la hitbox
+[13Dec2024 19:37:43.857] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> XD
+[13Dec2024 19:38:16.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /give Elreysakura minecraft:totem_of_undying
+[13Dec2024 19:38:16.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Gave 1 [Totem of Undying] to Elreysakura]
+[13Dec2024 19:38:28.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 04 Elreysakura
+[13Dec2024 19:38:30.898] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> como se ve el totem?
+[13Dec2024 19:38:34.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 040 Elreysakura
+[13Dec2024 19:38:40.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0400 Elreysakura
+[13Dec2024 19:38:43.322] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> por la modificacion de altura
+[13Dec2024 19:38:57.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 04000 Elreysakura
+[13Dec2024 19:39:04.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0400 Elreysakura
+[13Dec2024 19:39:08.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 040 Elreysakura
+[13Dec2024 19:39:14.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 04 Elreysakura
+[13Dec2024 19:39:24.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 04 Elreysakura
+[13Dec2024 19:39:38.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 01 Elreysakura
+[13Dec2024 19:39:56.628] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> tambien se modifica la anchura del totem XD
+[13Dec2024 19:40:24.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 07 Elreysakura
+[13Dec2024 19:40:30.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 010 Elreysakura
+[13Dec2024 19:40:39.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 020 Elreysakura
+[13Dec2024 19:40:39.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /ce reload
+[13Dec2024 19:40:44.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 010 Elreysakura
+[13Dec2024 19:40:48.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 010 Elreysakura
+[13Dec2024 19:40:56.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 01 Elreysakura
+[13Dec2024 19:41:04.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.1
+[13Dec2024 19:41:11.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.1
+[13Dec2024 19:41:17.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:height 0.01
+[13Dec2024 19:41:20.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:width 0.01
+[13Dec2024 19:41:21.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautaropros issued server command: /scoreboard objectives add vida health
+[13Dec2024 19:41:21.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lautaropros: Created new objective [vida]]
+[13Dec2024 19:41:34.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:falling 0.1
+[13Dec2024 19:41:41.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: patata98911 issued server command: /scale set pehkui:falling 0.01
+[13Dec2024 19:41:43.490] [Async Chat Thread - #7/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elreysakura> una pulga
