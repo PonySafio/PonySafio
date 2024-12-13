@@ -1,0 +1,33 @@
+{
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-13 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/wiki": {
+    "criteria": {
+      "instant_granted": "2024-12-13 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_bumblezone/root": {
+    "criteria": {
+      "instant_granted": "2024-12-13 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-13 19:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2024-12-13 19:14:20 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
