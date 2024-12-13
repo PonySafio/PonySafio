@@ -1,38 +1,32 @@
 {
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2024-12-13 19:14:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2024-12-13 19:47:57 +0000"
+      "WDA": "2024-12-13 19:56:30 +0000"
     },
     "done": true
   },
   "the_bumblezone:the_bumblezone/wiki": {
     "criteria": {
-      "instant_granted": "2024-12-13 19:14:19 +0000"
+      "instant_granted": "2024-12-13 19:56:30 +0000"
     },
     "done": true
   },
   "the_bumblezone:the_bumblezone/root": {
     "criteria": {
-      "instant_granted": "2024-12-13 19:14:19 +0000"
+      "instant_granted": "2024-12-13 19:56:30 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2024-12-13 19:14:19 +0000"
+      "custom_test_name": "2024-12-13 19:56:30 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_ocean": "2024-12-13 19:27:38 +0000",
-      "minecraft:bamboo_jungle": "2024-12-13 19:14:20 +0000"
+      "minecraft:deep_ocean": "2024-12-13 19:56:30 +0000",
+      "minecraft:bamboo_jungle": "2024-12-13 19:57:05 +0000"
     },
     "done": false
   },
